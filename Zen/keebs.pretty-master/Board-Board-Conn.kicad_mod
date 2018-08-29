@@ -1,0 +1,11 @@
+(module keebs:Board-Board-Conn (layer F.Cu) (tedit 5A334B40)
+  (fp_text reference "" (at -14.03125 -0.428125 90) (layer F.SilkS)
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+  )
+  (fp_text value "" (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.524) (thickness 0.2032)))
+  )
+  (pad 1 thru_hole rect (at -2.47 0.12) (size 1.7526 1.7526) (drill 0.95) (layers *.Cu *.SilkS *.Mask))
+  (pad 2 thru_hole circle (at 0.07 0.12) (size 1.7526 1.7526) (drill 0.95) (layers *.Cu *.SilkS *.Mask))
+  (pad 3 thru_hole circle (at 2.61 0.12) (size 1.7526 1.7526) (drill 0.95) (layers *.Cu *.SilkS *.Mask))
+)

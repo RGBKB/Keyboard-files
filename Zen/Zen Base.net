@@ -1,0 +1,46 @@
+(export (version D)
+  (design
+    (source "C:/Users/legon/Google Drive/Keyboard programming/KiCad/PROJECT ZEN/Zen Base.sch")
+    (date "12/19/2017 9:05:55 PM")
+    (tool "Eeschema 4.0.7")
+    (sheet (number 1) (name /) (tstamps /)
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source "Zen Base.sch")
+        (comment (number 1) (value ""))
+        (comment (number 2) (value ""))
+        (comment (number 3) (value ""))
+        (comment (number 4) (value "")))))
+  (components
+    (comp (ref LED1)
+      (value WS2812B)
+      (footprint WS2812B:WS2812B)
+      (libsource (lib ws2812b) (part WS2812B))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5A39BA0F)))
+  (libparts
+    (libpart (lib ws2812b) (part WS2812B)
+      (description "RGB LED with integrated controller")
+      (fields
+        (field (name Reference) LED)
+        (field (name Value) WS2812B))
+      (pins
+        (pin (num 1) (name VCC) (type power_in))
+        (pin (num 2) (name DOUT) (type output))
+        (pin (num 3) (name GND) (type power_in))
+        (pin (num 4) (name DIN) (type input)))))
+  (libraries
+    (library (logical ws2812b)
+      (uri "C:\\Users\\legon\\Google Drive\\Keyboard programming\\KiCad\\PROJECT ZEN\\WS2812B.pretty-master\\WS2812B.pretty-master\\Schematic-Symbol\\ws2812b.lib")))
+  (nets
+    (net (code 1) (name +5V)
+      (node (ref LED1) (pin 1)))
+    (net (code 2) (name GND)
+      (node (ref LED1) (pin 3)))
+    (net (code 3) (name "Net-(LED1-Pad2)")
+      (node (ref LED1) (pin 2)))
+    (net (code 4) (name "Net-(LED1-Pad4)")
+      (node (ref LED1) (pin 4)))))
