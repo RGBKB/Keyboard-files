@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ws2812b)(type Legacy)(uri ${KIPRJMOD}/WS2812B.pretty-master/WS2812B.pretty-master/Schematic-Symbol/ws2812b.lib)(options "")(descr ""))
+  (lib (name keebs)(type Legacy)(uri ${KIPRJMOD}/keebs_library/keebs.lib)(options "")(descr ""))
+)
