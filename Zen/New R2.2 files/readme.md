@@ -7,7 +7,7 @@
 * 5 design panel
 
 ## Alternate PCB Option:
-This version is 1.2mm taller
+This version is 1.8mm taller
 * Allows the use of Holtite/Millmax sockets
 * Doesn't require clipping switch pins
 * Prevents the use of LEDs
