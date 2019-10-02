@@ -1,4 +1,4 @@
-Use the files for flashing your Zygomorph
+Use the files for flashing your Sol
 
 #To download the hex files:
 1. Doanload the entire repo
