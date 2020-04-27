@@ -1,6 +1,7 @@
 # The Pan keyboard
 ### [Available at RGBKB](https://www.rgbkb.net/products/pan-keyboard-diy-kit)
 
+## Weights A and B are for 0.187" thick plates, and can only be used in the Ganymede case.
 
 ## Components
 
