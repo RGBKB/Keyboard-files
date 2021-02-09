@@ -1,0 +1,7831 @@
+EESchema Schematic File Version 4
+LIBS:Mun-cache
+EELAYER 30 0
+EELAYER END
+$Descr User 23622 19685
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Legonut_Library:KEYSW K35
+U 1 1 5D8ECC8E
+P 7250 9350
+F 0 "K35" H 7250 9583 60  0000 C CNN
+F 1 "KEYSW" H 7250 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 7250 9350 60  0001 C CNN
+F 3 "" H 7250 9350 60  0000 C CNN
+	1    7250 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 5D8EDE99
+P 2600 6850
+F 0 "D1" V 2646 6771 50  0000 R CNN
+F 1 "D" V 2555 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 2600 6850 50  0001 C CNN
+F 3 "~" H 2600 6850 50  0001 C CNN
+	1    2600 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K1
+U 1 1 5D8F0F35
+P 2300 6700
+F 0 "K1" H 2300 6933 60  0000 C CNN
+F 1 "KEYSW" H 2300 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 2300 6700 60  0001 C CNN
+F 3 "" H 2300 6700 60  0000 C CNN
+	1    2300 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 5D8F0F3F
+P 3450 6850
+F 0 "D2" V 3496 6771 50  0000 R CNN
+F 1 "D" V 3405 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 3450 6850 50  0001 C CNN
+F 3 "~" H 3450 6850 50  0001 C CNN
+	1    3450 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K2
+U 1 1 5D8F2161
+P 3150 6700
+F 0 "K2" H 3150 6933 60  0000 C CNN
+F 1 "KEYSW" H 3150 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 3150 6700 60  0001 C CNN
+F 3 "" H 3150 6700 60  0000 C CNN
+	1    3150 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D3
+U 1 1 5D8F216B
+P 4250 6850
+F 0 "D3" V 4296 6771 50  0000 R CNN
+F 1 "D" V 4205 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 4250 6850 50  0001 C CNN
+F 3 "~" H 4250 6850 50  0001 C CNN
+	1    4250 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K3
+U 1 1 5D8F2175
+P 3950 6700
+F 0 "K3" H 3950 6933 60  0000 C CNN
+F 1 "KEYSW" H 3950 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 3950 6700 60  0001 C CNN
+F 3 "" H 3950 6700 60  0000 C CNN
+	1    3950 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 5D8F217F
+P 5100 6850
+F 0 "D4" V 5146 6771 50  0000 R CNN
+F 1 "D" V 5055 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 5100 6850 50  0001 C CNN
+F 3 "~" H 5100 6850 50  0001 C CNN
+	1    5100 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K4
+U 1 1 5D8FA43B
+P 4800 6700
+F 0 "K4" H 4800 6933 60  0000 C CNN
+F 1 "KEYSW" H 4800 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 4800 6700 60  0001 C CNN
+F 3 "" H 4800 6700 60  0000 C CNN
+	1    4800 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D5
+U 1 1 5D8FA445
+P 5900 6850
+F 0 "D5" V 5946 6771 50  0000 R CNN
+F 1 "D" V 5855 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 5900 6850 50  0001 C CNN
+F 3 "~" H 5900 6850 50  0001 C CNN
+	1    5900 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K5
+U 1 1 5D8FA44F
+P 5600 6700
+F 0 "K5" H 5600 6933 60  0000 C CNN
+F 1 "KEYSW" H 5600 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 5600 6700 60  0001 C CNN
+F 3 "" H 5600 6700 60  0000 C CNN
+	1    5600 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D6
+U 1 1 5D8FA459
+P 6700 6850
+F 0 "D6" V 6746 6771 50  0000 R CNN
+F 1 "D" V 6655 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 6700 6850 50  0001 C CNN
+F 3 "~" H 6700 6850 50  0001 C CNN
+	1    6700 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K6
+U 1 1 5D8FA463
+P 6400 6700
+F 0 "K6" H 6400 6933 60  0000 C CNN
+F 1 "KEYSW" H 6400 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 6400 6700 60  0001 C CNN
+F 3 "" H 6400 6700 60  0000 C CNN
+	1    6400 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 5D8FA46D
+P 7550 6850
+F 0 "D7" V 7596 6771 50  0000 R CNN
+F 1 "D" V 7505 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 7550 6850 50  0001 C CNN
+F 3 "~" H 7550 6850 50  0001 C CNN
+	1    7550 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K7
+U 1 1 5D9114B9
+P 7250 6700
+F 0 "K7" H 7250 6933 60  0000 C CNN
+F 1 "KEYSW" H 7250 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 7250 6700 60  0001 C CNN
+F 3 "" H 7250 6700 60  0000 C CNN
+	1    7250 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 5D9114C3
+P 2600 7500
+F 0 "D8" V 2646 7421 50  0000 R CNN
+F 1 "D" V 2555 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 2600 7500 50  0001 C CNN
+F 3 "~" H 2600 7500 50  0001 C CNN
+	1    2600 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K8
+U 1 1 5D9114CD
+P 2300 7350
+F 0 "K8" H 2300 7583 60  0000 C CNN
+F 1 "KEYSW" H 2300 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 2300 7350 60  0001 C CNN
+F 3 "" H 2300 7350 60  0000 C CNN
+	1    2300 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D9
+U 1 1 5D9114D7
+P 3450 7500
+F 0 "D9" V 3496 7421 50  0000 R CNN
+F 1 "D" V 3405 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 3450 7500 50  0001 C CNN
+F 3 "~" H 3450 7500 50  0001 C CNN
+	1    3450 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K9
+U 1 1 5D9114E1
+P 3150 7350
+F 0 "K9" H 3150 7583 60  0000 C CNN
+F 1 "KEYSW" H 3150 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 3150 7350 60  0001 C CNN
+F 3 "" H 3150 7350 60  0000 C CNN
+	1    3150 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D10
+U 1 1 5D9114EB
+P 4250 7500
+F 0 "D10" V 4296 7421 50  0000 R CNN
+F 1 "D" V 4205 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 4250 7500 50  0001 C CNN
+F 3 "~" H 4250 7500 50  0001 C CNN
+	1    4250 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K10
+U 1 1 5D9114F5
+P 3950 7350
+F 0 "K10" H 3950 7583 60  0000 C CNN
+F 1 "KEYSW" H 3950 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 3950 7350 60  0001 C CNN
+F 3 "" H 3950 7350 60  0000 C CNN
+	1    3950 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D11
+U 1 1 5D9114FF
+P 5100 7500
+F 0 "D11" V 5146 7421 50  0000 R CNN
+F 1 "D" V 5055 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 5100 7500 50  0001 C CNN
+F 3 "~" H 5100 7500 50  0001 C CNN
+	1    5100 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K11
+U 1 1 5D911509
+P 4800 7350
+F 0 "K11" H 4800 7583 60  0000 C CNN
+F 1 "KEYSW" H 4800 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 4800 7350 60  0001 C CNN
+F 3 "" H 4800 7350 60  0000 C CNN
+	1    4800 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D12
+U 1 1 5D911513
+P 5900 7500
+F 0 "D12" V 5946 7421 50  0000 R CNN
+F 1 "D" V 5855 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 5900 7500 50  0001 C CNN
+F 3 "~" H 5900 7500 50  0001 C CNN
+	1    5900 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K12
+U 1 1 5D91151D
+P 5600 7350
+F 0 "K12" H 5600 7583 60  0000 C CNN
+F 1 "KEYSW" H 5600 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 5600 7350 60  0001 C CNN
+F 3 "" H 5600 7350 60  0000 C CNN
+	1    5600 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D13
+U 1 1 5D911527
+P 6700 7500
+F 0 "D13" V 6746 7421 50  0000 R CNN
+F 1 "D" V 6655 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 6700 7500 50  0001 C CNN
+F 3 "~" H 6700 7500 50  0001 C CNN
+	1    6700 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K13
+U 1 1 5D911531
+P 6400 7350
+F 0 "K13" H 6400 7583 60  0000 C CNN
+F 1 "KEYSW" H 6400 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 6400 7350 60  0001 C CNN
+F 3 "" H 6400 7350 60  0000 C CNN
+	1    6400 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D14
+U 1 1 5D91153B
+P 7550 7500
+F 0 "D14" V 7596 7421 50  0000 R CNN
+F 1 "D" V 7505 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 7550 7500 50  0001 C CNN
+F 3 "~" H 7550 7500 50  0001 C CNN
+	1    7550 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K14
+U 1 1 5D915F87
+P 7250 7350
+F 0 "K14" H 7250 7583 60  0000 C CNN
+F 1 "KEYSW" H 7250 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 7250 7350 60  0001 C CNN
+F 3 "" H 7250 7350 60  0000 C CNN
+	1    7250 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D15
+U 1 1 5D915F91
+P 2600 8150
+F 0 "D15" V 2646 8071 50  0000 R CNN
+F 1 "D" V 2555 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 2600 8150 50  0001 C CNN
+F 3 "~" H 2600 8150 50  0001 C CNN
+	1    2600 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K15
+U 1 1 5D915F9B
+P 2300 8000
+F 0 "K15" H 2300 8233 60  0000 C CNN
+F 1 "KEYSW" H 2300 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 2300 8000 60  0001 C CNN
+F 3 "" H 2300 8000 60  0000 C CNN
+	1    2300 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D16
+U 1 1 5D915FA5
+P 3450 8150
+F 0 "D16" V 3496 8071 50  0000 R CNN
+F 1 "D" V 3405 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 3450 8150 50  0001 C CNN
+F 3 "~" H 3450 8150 50  0001 C CNN
+	1    3450 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K16
+U 1 1 5D915FAF
+P 3150 8000
+F 0 "K16" H 3150 8233 60  0000 C CNN
+F 1 "KEYSW" H 3150 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 3150 8000 60  0001 C CNN
+F 3 "" H 3150 8000 60  0000 C CNN
+	1    3150 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D17
+U 1 1 5D915FB9
+P 4250 8150
+F 0 "D17" V 4296 8071 50  0000 R CNN
+F 1 "D" V 4205 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 4250 8150 50  0001 C CNN
+F 3 "~" H 4250 8150 50  0001 C CNN
+	1    4250 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K17
+U 1 1 5D915FC3
+P 3950 8000
+F 0 "K17" H 3950 8233 60  0000 C CNN
+F 1 "KEYSW" H 3950 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 3950 8000 60  0001 C CNN
+F 3 "" H 3950 8000 60  0000 C CNN
+	1    3950 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D18
+U 1 1 5D915FCD
+P 5100 8150
+F 0 "D18" V 5146 8071 50  0000 R CNN
+F 1 "D" V 5055 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 5100 8150 50  0001 C CNN
+F 3 "~" H 5100 8150 50  0001 C CNN
+	1    5100 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K18
+U 1 1 5D915FD7
+P 4800 8000
+F 0 "K18" H 4800 8233 60  0000 C CNN
+F 1 "KEYSW" H 4800 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 4800 8000 60  0001 C CNN
+F 3 "" H 4800 8000 60  0000 C CNN
+	1    4800 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D19
+U 1 1 5D915FE1
+P 5900 8150
+F 0 "D19" V 5946 8071 50  0000 R CNN
+F 1 "D" V 5855 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 5900 8150 50  0001 C CNN
+F 3 "~" H 5900 8150 50  0001 C CNN
+	1    5900 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K19
+U 1 1 5D915FEB
+P 5600 8000
+F 0 "K19" H 5600 8233 60  0000 C CNN
+F 1 "KEYSW" H 5600 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 5600 8000 60  0001 C CNN
+F 3 "" H 5600 8000 60  0000 C CNN
+	1    5600 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D20
+U 1 1 5D915FF5
+P 6700 8150
+F 0 "D20" V 6746 8071 50  0000 R CNN
+F 1 "D" V 6655 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 6700 8150 50  0001 C CNN
+F 3 "~" H 6700 8150 50  0001 C CNN
+	1    6700 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K20
+U 1 1 5D915FFF
+P 6400 8000
+F 0 "K20" H 6400 8233 60  0000 C CNN
+F 1 "KEYSW" H 6400 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 6400 8000 60  0001 C CNN
+F 3 "" H 6400 8000 60  0000 C CNN
+	1    6400 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D21
+U 1 1 5D916009
+P 7550 8150
+F 0 "D21" V 7596 8071 50  0000 R CNN
+F 1 "D" V 7505 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 7550 8150 50  0001 C CNN
+F 3 "~" H 7550 8150 50  0001 C CNN
+	1    7550 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K21
+U 1 1 5D916013
+P 7250 8000
+F 0 "K21" H 7250 8233 60  0000 C CNN
+F 1 "KEYSW" H 7250 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 7250 8000 60  0001 C CNN
+F 3 "" H 7250 8000 60  0000 C CNN
+	1    7250 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D22
+U 1 1 5D91601D
+P 2600 8800
+F 0 "D22" V 2646 8721 50  0000 R CNN
+F 1 "D" V 2555 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 2600 8800 50  0001 C CNN
+F 3 "~" H 2600 8800 50  0001 C CNN
+	1    2600 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K22
+U 1 1 5D916027
+P 2300 8650
+F 0 "K22" H 2300 8883 60  0000 C CNN
+F 1 "KEYSW" H 2300 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 2300 8650 60  0001 C CNN
+F 3 "" H 2300 8650 60  0000 C CNN
+	1    2300 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D23
+U 1 1 5D916031
+P 3450 8800
+F 0 "D23" V 3496 8721 50  0000 R CNN
+F 1 "D" V 3405 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 3450 8800 50  0001 C CNN
+F 3 "~" H 3450 8800 50  0001 C CNN
+	1    3450 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K23
+U 1 1 5D91603B
+P 3150 8650
+F 0 "K23" H 3150 8883 60  0000 C CNN
+F 1 "KEYSW" H 3150 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 3150 8650 60  0001 C CNN
+F 3 "" H 3150 8650 60  0000 C CNN
+	1    3150 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D24
+U 1 1 5D916045
+P 4250 8800
+F 0 "D24" V 4296 8721 50  0000 R CNN
+F 1 "D" V 4205 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 4250 8800 50  0001 C CNN
+F 3 "~" H 4250 8800 50  0001 C CNN
+	1    4250 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K24
+U 1 1 5D91604F
+P 3950 8650
+F 0 "K24" H 3950 8883 60  0000 C CNN
+F 1 "KEYSW" H 3950 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 3950 8650 60  0001 C CNN
+F 3 "" H 3950 8650 60  0000 C CNN
+	1    3950 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D25
+U 1 1 5D916059
+P 5100 8800
+F 0 "D25" V 5146 8721 50  0000 R CNN
+F 1 "D" V 5055 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 5100 8800 50  0001 C CNN
+F 3 "~" H 5100 8800 50  0001 C CNN
+	1    5100 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K25
+U 1 1 5D916063
+P 4800 8650
+F 0 "K25" H 4800 8883 60  0000 C CNN
+F 1 "KEYSW" H 4800 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 4800 8650 60  0001 C CNN
+F 3 "" H 4800 8650 60  0000 C CNN
+	1    4800 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D26
+U 1 1 5D91606D
+P 5900 8800
+F 0 "D26" V 5946 8721 50  0000 R CNN
+F 1 "D" V 5855 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 5900 8800 50  0001 C CNN
+F 3 "~" H 5900 8800 50  0001 C CNN
+	1    5900 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K26
+U 1 1 5D916077
+P 5600 8650
+F 0 "K26" H 5600 8883 60  0000 C CNN
+F 1 "KEYSW" H 5600 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 5600 8650 60  0001 C CNN
+F 3 "" H 5600 8650 60  0000 C CNN
+	1    5600 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D27
+U 1 1 5D916081
+P 6700 8800
+F 0 "D27" V 6746 8721 50  0000 R CNN
+F 1 "D" V 6655 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 6700 8800 50  0001 C CNN
+F 3 "~" H 6700 8800 50  0001 C CNN
+	1    6700 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K27
+U 1 1 5D91608B
+P 6400 8650
+F 0 "K27" H 6400 8883 60  0000 C CNN
+F 1 "KEYSW" H 6400 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 6400 8650 60  0001 C CNN
+F 3 "" H 6400 8650 60  0000 C CNN
+	1    6400 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D28
+U 1 1 5D916095
+P 7550 8800
+F 0 "D28" V 7596 8721 50  0000 R CNN
+F 1 "D" V 7505 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 7550 8800 50  0001 C CNN
+F 3 "~" H 7550 8800 50  0001 C CNN
+	1    7550 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K28
+U 1 1 5D959113
+P 7250 8650
+F 0 "K28" H 7250 8883 60  0000 C CNN
+F 1 "KEYSW" H 7250 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 7250 8650 60  0001 C CNN
+F 3 "" H 7250 8650 60  0000 C CNN
+	1    7250 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D29
+U 1 1 5D959119
+P 2600 9500
+F 0 "D29" V 2646 9421 50  0000 R CNN
+F 1 "D" V 2555 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 2600 9500 50  0001 C CNN
+F 3 "~" H 2600 9500 50  0001 C CNN
+	1    2600 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K29
+U 1 1 5D95911F
+P 2300 9350
+F 0 "K29" H 2300 9583 60  0000 C CNN
+F 1 "KEYSW" H 2300 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 2300 9350 60  0001 C CNN
+F 3 "" H 2300 9350 60  0000 C CNN
+	1    2300 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D30
+U 1 1 5D959125
+P 3450 9500
+F 0 "D30" V 3496 9421 50  0000 R CNN
+F 1 "D" V 3405 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 3450 9500 50  0001 C CNN
+F 3 "~" H 3450 9500 50  0001 C CNN
+	1    3450 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K30
+U 1 1 5D95912B
+P 3150 9350
+F 0 "K30" H 3150 9583 60  0000 C CNN
+F 1 "KEYSW" H 3150 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 3150 9350 60  0001 C CNN
+F 3 "" H 3150 9350 60  0000 C CNN
+	1    3150 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D31
+U 1 1 5D959131
+P 4250 9500
+F 0 "D31" V 4296 9421 50  0000 R CNN
+F 1 "D" V 4205 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 4250 9500 50  0001 C CNN
+F 3 "~" H 4250 9500 50  0001 C CNN
+	1    4250 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K31
+U 1 1 5D959137
+P 3950 9350
+F 0 "K31" H 3950 9583 60  0000 C CNN
+F 1 "KEYSW" H 3950 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 3950 9350 60  0001 C CNN
+F 3 "" H 3950 9350 60  0000 C CNN
+	1    3950 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D32
+U 1 1 5D95913D
+P 5100 9500
+F 0 "D32" V 5146 9421 50  0000 R CNN
+F 1 "D" V 5055 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 5100 9500 50  0001 C CNN
+F 3 "~" H 5100 9500 50  0001 C CNN
+	1    5100 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K32
+U 1 1 5D959143
+P 4800 9350
+F 0 "K32" H 4800 9583 60  0000 C CNN
+F 1 "KEYSW" H 4800 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 4800 9350 60  0001 C CNN
+F 3 "" H 4800 9350 60  0000 C CNN
+	1    4800 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D33
+U 1 1 5D959149
+P 5900 9500
+F 0 "D33" V 5946 9421 50  0000 R CNN
+F 1 "D" V 5855 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 5900 9500 50  0001 C CNN
+F 3 "~" H 5900 9500 50  0001 C CNN
+	1    5900 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D34
+U 1 1 5D959155
+P 6700 9500
+F 0 "D34" V 6746 9421 50  0000 R CNN
+F 1 "D" V 6655 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 6700 9500 50  0001 C CNN
+F 3 "~" H 6700 9500 50  0001 C CNN
+	1    6700 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K34
+U 1 1 5D95915B
+P 6400 9350
+F 0 "K34" H 6400 9583 60  0000 C CNN
+F 1 "KEYSW" H 6400 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 6400 9350 60  0001 C CNN
+F 3 "" H 6400 9350 60  0000 C CNN
+	1    6400 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D35
+U 1 1 5D959161
+P 7550 9500
+F 0 "D35" V 7596 9421 50  0000 R CNN
+F 1 "D" V 7505 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 7550 9500 50  0001 C CNN
+F 3 "~" H 7550 9500 50  0001 C CNN
+	1    7550 9500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2850 6700 2850 7350
+Wire Wire Line
+	2850 8000 2850 7350
+Connection ~ 2850 7350
+Connection ~ 2850 8000
+Wire Wire Line
+	2850 9350 2850 8650
+Connection ~ 2850 8650
+Wire Wire Line
+	2000 8650 2000 9350
+Wire Wire Line
+	2000 8650 2000 8000
+Connection ~ 2000 8650
+Wire Wire Line
+	2000 8000 2000 7350
+Connection ~ 2000 8000
+Wire Wire Line
+	2000 7350 2000 6700
+Connection ~ 2000 7350
+Wire Wire Line
+	3650 6700 3650 7350
+Wire Wire Line
+	3650 7350 3650 8000
+Connection ~ 3650 7350
+Wire Wire Line
+	3650 8000 3650 8650
+Connection ~ 3650 8000
+Wire Wire Line
+	3650 8650 3650 9350
+Connection ~ 3650 8650
+Wire Wire Line
+	4500 8650 4500 9350
+Wire Wire Line
+	4500 8650 4500 8000
+Connection ~ 4500 8650
+Wire Wire Line
+	4500 8000 4500 7350
+Connection ~ 4500 8000
+Wire Wire Line
+	4500 7350 4500 6700
+Connection ~ 4500 7350
+Wire Wire Line
+	5300 6700 5300 7350
+Wire Wire Line
+	5300 7350 5300 8000
+Connection ~ 5300 7350
+Wire Wire Line
+	5300 8000 5300 8650
+Connection ~ 5300 8000
+Wire Wire Line
+	5300 8650 5300 9350
+Connection ~ 5300 8650
+Wire Wire Line
+	6100 9350 6100 8650
+Wire Wire Line
+	6100 8650 6100 8000
+Connection ~ 6100 8650
+Wire Wire Line
+	6100 7350 6100 8000
+Connection ~ 6100 8000
+Wire Wire Line
+	6100 7350 6100 6700
+Connection ~ 6100 7350
+Wire Wire Line
+	6950 6700 6950 7350
+Wire Wire Line
+	6950 7350 6950 8000
+Connection ~ 6950 7350
+Wire Wire Line
+	6950 8000 6950 8650
+Connection ~ 6950 8000
+Wire Wire Line
+	6950 8650 6950 9350
+Connection ~ 6950 8650
+Wire Wire Line
+	2600 7000 3450 7000
+Wire Wire Line
+	3450 7000 4250 7000
+Connection ~ 3450 7000
+Wire Wire Line
+	4250 7000 5100 7000
+Connection ~ 4250 7000
+Wire Wire Line
+	5100 7000 5900 7000
+Connection ~ 5100 7000
+Wire Wire Line
+	6700 7000 5900 7000
+Connection ~ 5900 7000
+Wire Wire Line
+	6700 7000 7550 7000
+Connection ~ 6700 7000
+Wire Wire Line
+	7550 7650 6700 7650
+Wire Wire Line
+	5900 7650 6700 7650
+Connection ~ 6700 7650
+Wire Wire Line
+	5900 7650 5100 7650
+Connection ~ 5900 7650
+Wire Wire Line
+	5100 7650 4250 7650
+Connection ~ 5100 7650
+Wire Wire Line
+	4250 7650 3450 7650
+Connection ~ 4250 7650
+Wire Wire Line
+	3450 7650 2600 7650
+Connection ~ 3450 7650
+Wire Wire Line
+	2600 8300 3450 8300
+Wire Wire Line
+	3450 8300 4250 8300
+Connection ~ 3450 8300
+Wire Wire Line
+	4250 8300 5100 8300
+Connection ~ 4250 8300
+Wire Wire Line
+	5100 8300 5900 8300
+Connection ~ 5100 8300
+Wire Wire Line
+	5900 8300 6700 8300
+Connection ~ 5900 8300
+Wire Wire Line
+	6700 8300 7550 8300
+Connection ~ 6700 8300
+Wire Wire Line
+	7550 8950 6700 8950
+Wire Wire Line
+	6700 8950 5900 8950
+Connection ~ 6700 8950
+Wire Wire Line
+	5900 8950 5100 8950
+Connection ~ 5900 8950
+Wire Wire Line
+	4250 8950 5100 8950
+Connection ~ 5100 8950
+Wire Wire Line
+	4250 8950 3450 8950
+Connection ~ 4250 8950
+Wire Wire Line
+	3450 8950 2600 8950
+Connection ~ 3450 8950
+Wire Wire Line
+	2600 9650 3450 9650
+Wire Wire Line
+	3450 9650 4250 9650
+Connection ~ 3450 9650
+Wire Wire Line
+	4250 9650 5100 9650
+Connection ~ 4250 9650
+Wire Wire Line
+	5100 9650 5900 9650
+Connection ~ 5100 9650
+Wire Wire Line
+	5900 9650 6700 9650
+Connection ~ 5900 9650
+Wire Wire Line
+	6700 9650 7550 9650
+Connection ~ 6700 9650
+Wire Wire Line
+	6950 6700 6950 6450
+Connection ~ 6950 6700
+Wire Wire Line
+	6100 6700 6100 6450
+Connection ~ 6100 6700
+Wire Wire Line
+	5300 6700 5300 6450
+Connection ~ 5300 6700
+Wire Wire Line
+	4500 6700 4500 6450
+Connection ~ 4500 6700
+Wire Wire Line
+	3650 6700 3650 6450
+Connection ~ 3650 6700
+Wire Wire Line
+	2850 6700 2850 6450
+Connection ~ 2850 6700
+Wire Wire Line
+	2000 6700 2000 6450
+Connection ~ 2000 6700
+Text Label 2000 6450 2    50   ~ 0
+col0L
+Text Label 2850 6450 2    50   ~ 0
+col1L
+Text Label 3650 6450 2    50   ~ 0
+col2L
+Text Label 4500 6450 2    50   ~ 0
+col3L
+Text Label 5300 6450 2    50   ~ 0
+col4L
+Text Label 6100 6450 2    50   ~ 0
+col5L
+Text Label 6950 6450 2    50   ~ 0
+col6L
+Text Label 7550 7000 0    50   ~ 0
+row0L
+Text Label 7550 7650 0    50   ~ 0
+row1L
+Text Label 7550 8300 0    50   ~ 0
+row2L
+Text Label 7550 8950 0    50   ~ 0
+row3L
+Text Label 7550 9650 0    50   ~ 0
+row4L
+$Comp
+L Legonut_Library:KEYSW K33
+U 1 1 5D95914F
+P 5600 9350
+F 0 "K33" H 5600 9583 60  0000 C CNN
+F 1 "KEYSW" H 5600 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 5600 9350 60  0001 C CNN
+F 3 "" H 5600 9350 60  0000 C CNN
+	1    5600 9350
+	1    0    0    -1  
+$EndComp
+Text Label 5900 9350 0    50   ~ 0
+k33L
+Text Label 6700 9350 0    50   ~ 0
+k34L
+$Comp
+L Legonut_Library:KEYSW K72
+U 1 1 5D9B2144
+P 6400 10100
+F 0 "K72" H 6400 10333 60  0000 C CNN
+F 1 "KEYSW" H 6400 10000 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 6400 10100 60  0001 C CNN
+F 3 "" H 6400 10100 60  0000 C CNN
+	1    6400 10100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K71
+U 1 1 5D9B2E4A
+P 5600 10100
+F 0 "K71" H 5600 10333 60  0000 C CNN
+F 1 "KEYSW" H 5600 10000 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 5600 10100 60  0001 C CNN
+F 3 "" H 5600 10100 60  0000 C CNN
+	1    5600 10100
+	1    0    0    -1  
+$EndComp
+Text Label 5900 10100 0    50   ~ 0
+k33L
+Text Label 6700 10100 0    50   ~ 0
+k34L
+Wire Wire Line
+	6100 9350 6100 10100
+Connection ~ 6100 9350
+Wire Wire Line
+	5300 9350 5300 10100
+Connection ~ 5300 9350
+$Comp
+L Legonut_Library:2Ustabilizer S1
+U 1 1 5D9BABA9
+P 7100 10050
+F 0 "S1" H 7328 10103 60  0000 L CNN
+F 1 "2Ustabilizer" H 7328 9997 60  0000 L CNN
+F 2 "Legonut's Library:STAB_PCB_200H" H 7100 10050 60  0001 C CNN
+F 3 "" H 7100 10050 60  0001 C CNN
+	1    7100 10050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Legonut_Library:2Ustabilizer S2
+U 1 1 5D9BB7B8
+P 7100 9800
+F 0 "S2" H 7328 9853 60  0000 L CNN
+F 1 "2Ustabilizer" H 7328 9747 60  0000 L CNN
+F 2 "Legonut's Library:STAB_PCB_200H" H 7100 9800 60  0001 C CNN
+F 3 "" H 7100 9800 60  0001 C CNN
+	1    7100 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Crystal_GND24 Y1
+U 1 1 5D92D846
+P 2700 5450
+F 0 "Y1" H 2750 5750 50  0000 L CNN
+F 1 "8MHz" H 2750 5650 50  0000 L CNN
+F 2 "Crystal:Crystal_SMD_5032-4Pin_5.0x3.2mm" H 2700 5450 50  0001 C CNN
+F 3 "~" H 2700 5450 50  0001 C CNN
+	1    2700 5450
+	1    0    0    -1  
+$EndComp
+Text Label 2700 5250 1    50   ~ 0
+GNDL
+Text Label 2700 5750 3    50   ~ 0
+GNDL
+$Comp
+L Device:C C7
+U 1 1 5D92FCF3
+P 2350 5600
+F 0 "C7" H 2465 5646 50  0000 L CNN
+F 1 "22pF" H 2465 5555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2388 5450 50  0001 C CNN
+F 3 "~" H 2350 5600 50  0001 C CNN
+	1    2350 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C8
+U 1 1 5D93290E
+P 3050 5600
+F 0 "C8" H 3165 5646 50  0000 L CNN
+F 1 "22pF" H 3165 5555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3088 5450 50  0001 C CNN
+F 3 "~" H 3050 5600 50  0001 C CNN
+	1    3050 5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2350 5750 2700 5750
+Wire Wire Line
+	2700 5650 2700 5750
+Connection ~ 2700 5750
+Wire Wire Line
+	2700 5750 3050 5750
+Wire Wire Line
+	3050 5450 2850 5450
+Wire Wire Line
+	2550 5450 2350 5450
+Text Label 2350 5450 1    50   ~ 0
+XTAL2L
+Text Label 3050 5450 1    50   ~ 0
+XTAL1L
+Text Label 2100 4250 1    50   ~ 0
+3.3VL
+Text Label 2400 4250 1    50   ~ 0
+GNDL
+$Comp
+L Device:C C3
+U 1 1 5D941E7B
+P 2250 4250
+F 0 "C3" V 2250 3950 50  0000 C CNN
+F 1 "100nF" V 2250 4550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2288 4100 50  0001 C CNN
+F 3 "~" H 2250 4250 50  0001 C CNN
+	1    2250 4250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 5D942ACB
+P 2250 4450
+F 0 "C4" V 2250 4150 50  0000 C CNN
+F 1 "100nF" V 2250 4750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2288 4300 50  0001 C CNN
+F 3 "~" H 2250 4450 50  0001 C CNN
+	1    2250 4450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C5
+U 1 1 5D946AA1
+P 2250 4650
+F 0 "C5" V 2250 4350 50  0000 C CNN
+F 1 "100nF" V 2250 4950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2288 4500 50  0001 C CNN
+F 3 "~" H 2250 4650 50  0001 C CNN
+	1    2250 4650
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C6
+U 1 1 5D947020
+P 2250 4850
+F 0 "C6" V 2250 4550 50  0000 C CNN
+F 1 "4.7uF" V 2250 5150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2288 4700 50  0001 C CNN
+F 3 "~" H 2250 4850 50  0001 C CNN
+	1    2250 4850
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2100 4250 2100 4450
+Wire Wire Line
+	2100 4450 2100 4650
+Connection ~ 2100 4450
+Wire Wire Line
+	2100 4650 2100 4850
+Connection ~ 2100 4650
+Wire Wire Line
+	2400 4850 2400 4650
+Wire Wire Line
+	2400 4650 2400 4450
+Connection ~ 2400 4650
+Wire Wire Line
+	2400 4450 2400 4250
+Connection ~ 2400 4450
+Text Label 5550 3600 2    50   ~ 0
+5VL
+$Comp
+L Regulator_Linear:MCP1700-3302E_SOT23 U1
+U 1 1 5D9115BF
+P 5850 3600
+F 0 "U1" H 5850 3842 50  0000 C CNN
+F 1 "MCP1700-3302E_SOT23" H 5850 3751 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 5850 3825 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf" H 5850 3600 50  0001 C CNN
+	1    5850 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 5D91599E
+P 6150 3750
+F 0 "C2" H 6100 3850 50  0000 C CNN
+F 1 "100nF" V 6150 4050 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 6188 3600 50  0001 C CNN
+F 3 "~" H 6150 3750 50  0001 C CNN
+	1    6150 3750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5D91696D
+P 5550 3750
+F 0 "C1" H 5600 3850 50  0000 C CNN
+F 1 "100nF" V 5550 4050 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5588 3600 50  0001 C CNN
+F 3 "~" H 5550 3750 50  0001 C CNN
+	1    5550 3750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6150 3900 5850 3900
+Wire Wire Line
+	5850 3900 5550 3900
+Connection ~ 5850 3900
+Text Label 5850 3900 3    50   ~ 0
+GNDL
+Connection ~ 5550 3600
+$Comp
+L Diode:1N4007 DS4
+U 1 1 5D91F351
+P 5850 3250
+F 0 "DS4" H 5850 3466 50  0000 C CNN
+F 1 "1N4007" H 5850 3375 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123F" H 5850 3075 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 5850 3250 50  0001 C CNN
+	1    5850 3250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6150 3600 6150 3250
+Wire Wire Line
+	6150 3250 6000 3250
+Connection ~ 6150 3600
+Wire Wire Line
+	5550 3600 5550 3250
+Wire Wire Line
+	5550 3250 5700 3250
+$Comp
+L Connector:USB_C_Receptacle J1
+U 1 1 5D9375CD
+P 3150 1500
+F 0 "J1" V 2650 950 50  0000 L CNN
+F 1 "USB_C_Receptacle" V 2650 1150 50  0000 L CNN
+F 2 "Legonut's Library:HRO-TYPE-C-31-M-14" H 3300 1500 50  0001 C CNN
+F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 3300 1500 50  0001 C CNN
+	1    3150 1500
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:USB_C_Receptacle J2
+U 1 1 5D956A99
+P 6200 1500
+F 0 "J2" V 5700 950 50  0000 L CNN
+F 1 "USB_C_Receptacle" V 5700 1150 50  0000 L CNN
+F 2 "Legonut's Library:HRO-TYPE-C-31-M-14" H 6350 1500 50  0001 C CNN
+F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 6350 1500 50  0001 C CNN
+	1    6200 1500
+	0    1    1    0   
+$EndComp
+Text Label 3750 5000 2    50   ~ 0
+SDA1L_3.3V
+Text Label 3750 4900 2    50   ~ 0
+SCL1L_3.3V
+Text Label 5050 5050 0    50   ~ 0
+SCL2L
+Text Label 5050 5150 0    50   ~ 0
+SDA2L
+Text Label 3750 3700 2    50   ~ 0
+XTAL2L
+Text Label 3750 3600 2    50   ~ 0
+XTAL1L
+Text Label 4250 6000 3    50   ~ 0
+GNDL
+Text Label 4350 6000 3    50   ~ 0
+GNDL
+Text Label 4450 6000 3    50   ~ 0
+GNDL
+Text Label 4550 6000 3    50   ~ 0
+GNDL
+Text Label 4650 3000 1    50   ~ 0
+3.3VL
+Text Label 4550 3000 1    50   ~ 0
+3.3VL
+Text Label 4450 3000 1    50   ~ 0
+3.3VL
+Text Label 4350 3000 1    50   ~ 0
+3.3VL
+Text Label 4250 3000 1    50   ~ 0
+3.3VL
+Text Label 5850 5350 0    50   ~ 0
+D+L
+Text Label 5850 5250 0    50   ~ 0
+D-L
+Wire Wire Line
+	6400 2100 6400 2150
+Wire Wire Line
+	6400 2150 6500 2150
+Wire Wire Line
+	6500 2150 6500 2100
+Wire Wire Line
+	6600 2100 6600 2250
+Wire Wire Line
+	6600 2250 6700 2250
+Wire Wire Line
+	6700 2250 6700 2100
+Wire Wire Line
+	3350 2100 3350 2150
+Wire Wire Line
+	3350 2150 3450 2150
+Wire Wire Line
+	3450 2150 3450 2100
+Wire Wire Line
+	3550 2100 3550 2250
+Wire Wire Line
+	3550 2250 3650 2250
+Wire Wire Line
+	3650 2250 3650 2100
+Text Label 6400 2150 3    50   ~ 0
+AB6_RL
+Text Label 6600 2250 3    50   ~ 0
+AB7_RL
+Text Label 3550 2250 3    50   ~ 0
+AB7_LL
+Text Label 3350 2150 3    50   ~ 0
+AB6_LL
+NoConn ~ 2250 2100
+NoConn ~ 2150 2100
+NoConn ~ 1950 2100
+NoConn ~ 1850 2100
+NoConn ~ 2450 2100
+NoConn ~ 2550 2100
+NoConn ~ 2750 2100
+NoConn ~ 2850 2100
+NoConn ~ 3050 2100
+NoConn ~ 3150 2100
+NoConn ~ 4900 2100
+NoConn ~ 5000 2100
+NoConn ~ 5200 2100
+NoConn ~ 5300 2100
+NoConn ~ 5500 2100
+NoConn ~ 5600 2100
+NoConn ~ 5800 2100
+NoConn ~ 5900 2100
+NoConn ~ 6100 2100
+NoConn ~ 6200 2100
+Text Label 4150 2100 0    50   ~ 0
+5VL
+Text Label 7200 2100 0    50   ~ 0
+5VL
+$Comp
+L Device:R R1
+U 1 1 5DA791CA
+P 3850 2250
+F 0 "R1" H 4000 2200 50  0000 R CNN
+F 1 "5.1k" H 4050 2300 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3780 2250 50  0001 C CNN
+F 3 "~" H 3850 2250 50  0001 C CNN
+	1    3850 2250
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5DA7A17E
+P 3950 2250
+F 0 "R2" H 4100 2200 50  0000 R CNN
+F 1 "5.1k" H 4150 2300 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3880 2250 50  0001 C CNN
+F 3 "~" H 3950 2250 50  0001 C CNN
+	1    3950 2250
+	1    0    0    -1  
+$EndComp
+Text Label 1550 1500 2    50   ~ 0
+GNDL
+Text Label 3850 2400 3    50   ~ 0
+GNDL
+Text Label 3950 2400 3    50   ~ 0
+GNDL
+$Comp
+L Device:R R4
+U 1 1 5DA84330
+P 7000 2250
+F 0 "R4" H 7150 2200 50  0000 R CNN
+F 1 "5.1k" H 7200 2300 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6930 2250 50  0001 C CNN
+F 3 "~" H 7000 2250 50  0001 C CNN
+	1    7000 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5DA84ED1
+P 6900 2250
+F 0 "R3" H 7050 2200 50  0000 R CNN
+F 1 "5.1k" H 7100 2300 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6830 2250 50  0001 C CNN
+F 3 "~" H 6900 2250 50  0001 C CNN
+	1    6900 2250
+	-1   0    0    1   
+$EndComp
+Text Label 7000 2400 3    50   ~ 0
+GNDL
+Text Label 6900 2400 3    50   ~ 0
+GNDL
+Text Label 4600 1500 2    50   ~ 0
+GNDL
+Text Label 1550 1200 2    50   ~ 0
+GNDL
+Text Label 4600 1200 2    50   ~ 0
+GNDL
+$Comp
+L Legonut_Library:encoder E1
+U 1 1 5DA9DFDD
+P 8650 6750
+F 0 "E1" H 8650 7050 60  0000 C CNN
+F 1 "encoder" H 8650 6950 60  0000 C CNN
+F 2 "Legonut's Library:encoder" V 8645 6745 60  0001 C CNN
+F 3 "" V 8645 6745 60  0001 C CNN
+	1    8650 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Legonut_Library:encoder E4
+U 1 1 5DA9FFF2
+P 8650 8400
+F 0 "E4" H 8650 8700 60  0000 C CNN
+F 1 "encoder" H 8650 8600 60  0000 C CNN
+F 2 "Legonut's Library:encoder" V 8645 8395 60  0001 C CNN
+F 3 "" V 8645 8395 60  0001 C CNN
+	1    8650 8400
+	1    0    0    -1  
+$EndComp
+Text Label 8900 6750 0    50   ~ 0
+GNDL
+Text Label 8900 8400 0    50   ~ 0
+GNDL
+$Comp
+L Legonut_Library:encoder E2
+U 1 1 5DAA18E7
+P 8650 7300
+F 0 "E2" H 8650 7600 60  0000 C CNN
+F 1 "encoder" H 8650 7500 60  0000 C CNN
+F 2 "Legonut's Library:encoder" V 8645 7295 60  0001 C CNN
+F 3 "" V 8645 7295 60  0001 C CNN
+	1    8650 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Legonut_Library:encoder E5
+U 1 1 5DAA547B
+P 8650 9150
+F 0 "E5" H 8650 9450 60  0000 C CNN
+F 1 "encoder" H 8650 9350 60  0000 C CNN
+F 2 "Legonut's Library:encoder" V 8645 9145 60  0001 C CNN
+F 3 "" V 8645 9145 60  0001 C CNN
+	1    8650 9150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Legonut_Library:encoder E3
+U 1 1 5DAA5A2C
+P 8650 7850
+F 0 "E3" H 8650 8150 60  0000 C CNN
+F 1 "encoder" H 8650 8050 60  0000 C CNN
+F 2 "Legonut's Library:encoder" V 8645 7845 60  0001 C CNN
+F 3 "" V 8645 7845 60  0001 C CNN
+	1    8650 7850
+	1    0    0    -1  
+$EndComp
+Text Label 8900 7300 0    50   ~ 0
+GNDL
+Text Label 8900 7850 0    50   ~ 0
+GNDL
+Text Label 8900 9150 0    50   ~ 0
+GNDL
+Text Label 8400 6700 2    50   ~ 0
+col6L
+Text Label 8400 7250 2    50   ~ 0
+col6L
+Text Label 8400 8350 2    50   ~ 0
+col6L
+Text Label 8400 7800 2    50   ~ 0
+col6L
+Text Label 7550 6700 0    50   ~ 0
+k7L
+Text Label 7550 7350 0    50   ~ 0
+k14L
+Text Label 7550 8000 0    50   ~ 0
+k21L
+Text Label 7550 8650 0    50   ~ 0
+k28L
+Text Label 5100 9350 0    50   ~ 0
+k32L
+Text Label 8400 9100 2    50   ~ 0
+col3L
+Text Label 8400 9200 2    50   ~ 0
+k32L
+Text Label 8400 8450 2    50   ~ 0
+k28L
+Text Label 8400 7900 2    50   ~ 0
+k21L
+Text Label 8400 7350 2    50   ~ 0
+k14L
+Text Label 8400 6800 2    50   ~ 0
+k7L
+Text Label 8900 6850 0    50   ~ 0
+enc_1BL
+Text Label 8900 7400 0    50   ~ 0
+enc_1BL
+Text Label 8900 7950 0    50   ~ 0
+enc_1BL
+Text Label 8900 8500 0    50   ~ 0
+enc_1BL
+Text Label 8900 9250 0    50   ~ 0
+enc_2BL
+Text Label 8900 9050 0    50   ~ 0
+enc_2AL
+Text Label 8900 8300 0    50   ~ 0
+enc_1AL
+Text Label 8900 7750 0    50   ~ 0
+enc_1AL
+Text Label 8900 7200 0    50   ~ 0
+enc_1AL
+Text Label 8900 6650 0    50   ~ 0
+enc_1AL
+Text Label 3750 5100 2    50   ~ 0
+enc_1AL
+Text Label 3750 5200 2    50   ~ 0
+enc_2AL
+Text Label 5050 5550 0    50   ~ 0
+enc_1BL
+Text Label 5050 5650 0    50   ~ 0
+enc_2BL
+Text Label 5050 4150 0    50   ~ 0
+col0L
+Text Label 3750 5400 2    50   ~ 0
+col1L
+Text Label 3750 4300 2    50   ~ 0
+col2L
+Text Label 3750 5500 2    50   ~ 0
+col4L
+Text Label 3750 4500 2    50   ~ 0
+col5L
+Text Label 5050 4950 0    50   ~ 0
+col6L
+Text Label 5050 4250 0    50   ~ 0
+row0L
+Text Label 3750 4600 2    50   ~ 0
+row2L
+Text Label 5050 5450 0    50   ~ 0
+row3L
+Text Label 3750 5800 2    50   ~ 0
+row4L
+$Comp
+L Transistor_BJT:DTC123J Q1
+U 1 1 5D94B5E4
+P 2550 3450
+F 0 "Q1" V 2875 3450 50  0000 C CNN
+F 1 "DTC123J" V 2784 3450 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 2550 3450 50  0001 R CNN
+F 3 "" H 2550 3450 50  0001 L CNN
+	1    2550 3450
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	3750 3200 3350 3200
+Wire Wire Line
+	3350 3200 3350 3350
+Wire Wire Line
+	3350 3350 2750 3350
+Wire Wire Line
+	2850 3800 2850 3400
+$Comp
+L Device:R R5
+U 1 1 5D956D60
+P 3000 3550
+F 0 "R5" H 2930 3504 50  0000 R CNN
+F 1 "100k" H 2930 3595 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2930 3550 50  0001 C CNN
+F 3 "~" H 3000 3550 50  0001 C CNN
+	1    3000 3550
+	-1   0    0    1   
+$EndComp
+Connection ~ 3000 3400
+$Comp
+L Device:C C10
+U 1 1 5D96479E
+P 3250 3850
+F 0 "C10" H 3365 3896 50  0000 L CNN
+F 1 "10uF" H 3365 3805 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3288 3700 50  0001 C CNN
+F 3 "~" H 3250 3850 50  0001 C CNN
+	1    3250 3850
+	1    0    0    -1  
+$EndComp
+Connection ~ 3250 3400
+Wire Wire Line
+	3250 3400 3750 3400
+Wire Wire Line
+	2550 3700 2550 3800
+$Comp
+L Device:C C9
+U 1 1 5D98884A
+P 3200 3200
+F 0 "C9" V 2948 3200 50  0000 C CNN
+F 1 "4.7nF" V 3039 3200 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3238 3050 50  0001 C CNN
+F 3 "~" H 3200 3200 50  0001 C CNN
+	1    3200 3200
+	0    1    1    0   
+$EndComp
+Connection ~ 3350 3200
+Text Label 3050 3200 2    50   ~ 0
+GNDL
+Text Label 2350 3350 2    50   ~ 0
+GNDL
+$Comp
+L Switch:SW_Push SW3
+U 1 1 5D98A428
+P 2250 3800
+F 0 "SW3" H 2250 4085 50  0000 C CNN
+F 1 "TS5215A" H 2250 3994 50  0000 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_TL3342" H 2250 4000 50  0001 C CNN
+F 3 "~" H 2250 4000 50  0001 C CNN
+	1    2250 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2450 3800 2550 3800
+Connection ~ 2550 3800
+Text Label 2050 3800 2    50   ~ 0
+3.3VL
+Wire Wire Line
+	3000 3400 3250 3400
+Wire Wire Line
+	3250 3400 3250 3700
+Wire Wire Line
+	2850 3400 3000 3400
+Text Label 3250 4000 3    50   ~ 0
+GNDL
+Text Label 3750 4800 2    50   ~ 0
+RGBL_3.3V
+Text Label 3750 4700 2    50   ~ 0
+PB4L_3.3V
+$Comp
+L Connector_Generic:Conn_01x06 J5
+U 1 1 5D944BF1
+P 8100 5650
+F 0 "J5" H 8180 5642 50  0000 L CNN
+F 1 "Conn_01x06" V 8300 5400 50  0000 L CNN
+F 2 "Legonut's Library:00-9188-006spring" H 8100 5650 50  0001 C CNN
+F 3 "~" H 8100 5650 50  0001 C CNN
+	1    8100 5650
+	1    0    0    -1  
+$EndComp
+Text Label 7900 5450 2    50   ~ 0
+5VL
+Text Label 7900 5550 2    50   ~ 0
+5VL
+Text Label 7900 5750 2    50   ~ 0
+RGBLO
+Text Label 7900 5850 2    50   ~ 0
+GNDL
+Text Label 7900 5950 2    50   ~ 0
+GNDL
+$Comp
+L Device:R_Small R6
+U 1 1 5DAF1D49
+P 5250 5250
+F 0 "R6" V 5054 5250 50  0000 C CNN
+F 1 "22" V 5145 5250 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 5250 5250 50  0001 C CNN
+F 3 "~" H 5250 5250 50  0001 C CNN
+	1    5250 5250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R7
+U 1 1 5DAF2A95
+P 5250 5350
+F 0 "R7" V 5054 5350 50  0000 C CNN
+F 1 "22" V 5145 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 5250 5350 50  0001 C CNN
+F 3 "~" H 5250 5350 50  0001 C CNN
+	1    5250 5350
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D_Small DS6
+U 1 1 5DAF496F
+P 5450 5450
+F 0 "DS6" V 5404 5518 50  0000 L CNN
+F 1 "GG0402052R542P" V 5495 5518 50  0000 L CNN
+F 2 "Diode_SMD:D_0402_1005Metric" V 5450 5450 50  0001 C CNN
+F 3 "~" V 5450 5450 50  0001 C CNN
+	1    5450 5450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D_Small DS5
+U 1 1 5DAF55B4
+P 5450 5150
+F 0 "DS5" V 5496 5082 50  0000 R CNN
+F 1 "GG0402052R542P" V 5405 5082 50  0000 R CNN
+F 2 "Diode_SMD:D_0402_1005Metric" V 5450 5150 50  0001 C CNN
+F 3 "~" V 5450 5150 50  0001 C CNN
+	1    5450 5150
+	0    -1   -1   0   
+$EndComp
+Text Label 5450 5550 3    50   ~ 0
+GNDL
+Text Label 5450 5050 1    50   ~ 0
+GNDL
+Wire Wire Line
+	5050 5250 5150 5250
+Wire Wire Line
+	5050 5350 5150 5350
+Wire Wire Line
+	5350 5250 5450 5250
+Wire Wire Line
+	5850 5250 5450 5250
+Connection ~ 5450 5250
+Wire Wire Line
+	5350 5350 5450 5350
+Wire Wire Line
+	5450 5350 5750 5350
+Connection ~ 5450 5350
+Text Label 3750 5300 2    50   ~ 0
+col3L
+Text Label 5050 4450 0    50   ~ 0
+row1L
+$Comp
+L Legonut_Library:WS2812B LED1
+U 1 1 5DD5CD70
+P 2450 11000
+F 0 "LED1" H 2450 10513 60  0000 C CNN
+F 1 "WS2812B" H 2450 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 2400 11000 60  0001 C CNN
+F 3 "" V 2400 11000 60  0000 C CNN
+	1    2450 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED2
+U 1 1 5DD5D384
+P 3700 11000
+F 0 "LED2" H 3700 10513 60  0000 C CNN
+F 1 "WS2812B" H 3700 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 3650 11000 60  0001 C CNN
+F 3 "" V 3650 11000 60  0000 C CNN
+	1    3700 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED3
+U 1 1 5DD5DDCB
+P 4950 11000
+F 0 "LED3" H 4950 10513 60  0000 C CNN
+F 1 "WS2812B" H 4950 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 4900 11000 60  0001 C CNN
+F 3 "" V 4900 11000 60  0000 C CNN
+	1    4950 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED4
+U 1 1 5DD5E989
+P 6200 11000
+F 0 "LED4" H 6200 10513 60  0000 C CNN
+F 1 "WS2812B" H 6200 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 6150 11000 60  0001 C CNN
+F 3 "" V 6150 11000 60  0000 C CNN
+	1    6200 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED5
+U 1 1 5DD5F7AF
+P 7450 11000
+F 0 "LED5" H 7450 10513 60  0000 C CNN
+F 1 "WS2812B" H 7450 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 7400 11000 60  0001 C CNN
+F 3 "" V 7400 11000 60  0000 C CNN
+	1    7450 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED6
+U 1 1 5DD60686
+P 8700 11000
+F 0 "LED6" H 8700 10513 60  0000 C CNN
+F 1 "WS2812B" H 8700 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 8650 11000 60  0001 C CNN
+F 3 "" V 8650 11000 60  0000 C CNN
+	1    8700 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED7
+U 1 1 5DD612E0
+P 9950 11000
+F 0 "LED7" H 9950 10513 60  0000 C CNN
+F 1 "WS2812B" H 9950 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 9900 11000 60  0001 C CNN
+F 3 "" V 9900 11000 60  0000 C CNN
+	1    9950 11000
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2950 10800 3100 10800
+Wire Wire Line
+	3100 10800 3100 11200
+Wire Wire Line
+	3100 11200 3200 11200
+Wire Wire Line
+	4200 10800 4350 10800
+Wire Wire Line
+	4350 10800 4350 11200
+Wire Wire Line
+	4350 11200 4450 11200
+Wire Wire Line
+	5450 10800 5600 10800
+Wire Wire Line
+	5600 10800 5600 11200
+Wire Wire Line
+	5600 11200 5700 11200
+Wire Wire Line
+	6700 10800 6850 10800
+Wire Wire Line
+	6850 10800 6850 11200
+Wire Wire Line
+	6850 11200 6950 11200
+Wire Wire Line
+	7950 10800 8100 10800
+Wire Wire Line
+	8100 10800 8100 11200
+Wire Wire Line
+	8100 11200 8200 11200
+Wire Wire Line
+	9200 10800 9350 10800
+Wire Wire Line
+	9350 10800 9350 11200
+Wire Wire Line
+	9350 11200 9450 11200
+Text Label 1950 10800 1    50   ~ 0
+GNDL
+Text Label 3200 10800 1    50   ~ 0
+GNDL
+Text Label 4450 10800 1    50   ~ 0
+GNDL
+Text Label 5700 10800 1    50   ~ 0
+GNDL
+Text Label 6950 10800 1    50   ~ 0
+GNDL
+Text Label 8200 10800 1    50   ~ 0
+GNDL
+Text Label 9450 10800 1    50   ~ 0
+GNDL
+Text Label 2950 11200 3    50   ~ 0
+5VL
+Text Label 4200 11200 3    50   ~ 0
+5VL
+Text Label 5450 11200 3    50   ~ 0
+5VL
+Text Label 6700 11200 3    50   ~ 0
+5VL
+Text Label 7950 11200 3    50   ~ 0
+5VL
+Text Label 9200 11200 3    50   ~ 0
+5VL
+Text Label 10450 11200 3    50   ~ 0
+5VL
+$Comp
+L Legonut_Library:WS2812B LED8
+U 1 1 5DDC35C9
+P 2450 11950
+F 0 "LED8" H 2450 11463 60  0000 C CNN
+F 1 "WS2812B" H 2450 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 2400 11950 60  0001 C CNN
+F 3 "" V 2400 11950 60  0000 C CNN
+	1    2450 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED9
+U 1 1 5DDC35CF
+P 3700 11950
+F 0 "LED9" H 3700 11463 60  0000 C CNN
+F 1 "WS2812B" H 3700 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 3650 11950 60  0001 C CNN
+F 3 "" V 3650 11950 60  0000 C CNN
+	1    3700 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED10
+U 1 1 5DDC35D5
+P 4950 11950
+F 0 "LED10" H 4950 11463 60  0000 C CNN
+F 1 "WS2812B" H 4950 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 4900 11950 60  0001 C CNN
+F 3 "" V 4900 11950 60  0000 C CNN
+	1    4950 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED11
+U 1 1 5DDC35DB
+P 6200 11950
+F 0 "LED11" H 6200 11463 60  0000 C CNN
+F 1 "WS2812B" H 6200 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 6150 11950 60  0001 C CNN
+F 3 "" V 6150 11950 60  0000 C CNN
+	1    6200 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED12
+U 1 1 5DDC35E1
+P 7450 11950
+F 0 "LED12" H 7450 11463 60  0000 C CNN
+F 1 "WS2812B" H 7450 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 7400 11950 60  0001 C CNN
+F 3 "" V 7400 11950 60  0000 C CNN
+	1    7450 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED13
+U 1 1 5DDC35E7
+P 8700 11950
+F 0 "LED13" H 8700 11463 60  0000 C CNN
+F 1 "WS2812B" H 8700 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 8650 11950 60  0001 C CNN
+F 3 "" V 8650 11950 60  0000 C CNN
+	1    8700 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED14
+U 1 1 5DDC35ED
+P 9950 11950
+F 0 "LED14" H 9950 11463 60  0000 C CNN
+F 1 "WS2812B" H 9950 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 9900 11950 60  0001 C CNN
+F 3 "" V 9900 11950 60  0000 C CNN
+	1    9950 11950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2950 11750 3100 11750
+Wire Wire Line
+	3100 11750 3100 12150
+Wire Wire Line
+	3100 12150 3200 12150
+Wire Wire Line
+	4200 11750 4350 11750
+Wire Wire Line
+	4350 11750 4350 12150
+Wire Wire Line
+	4350 12150 4450 12150
+Wire Wire Line
+	5450 11750 5600 11750
+Wire Wire Line
+	5600 11750 5600 12150
+Wire Wire Line
+	5600 12150 5700 12150
+Wire Wire Line
+	6700 11750 6850 11750
+Wire Wire Line
+	6850 11750 6850 12150
+Wire Wire Line
+	6850 12150 6950 12150
+Wire Wire Line
+	7950 11750 8100 11750
+Wire Wire Line
+	8100 11750 8100 12150
+Wire Wire Line
+	8100 12150 8200 12150
+Wire Wire Line
+	9200 11750 9350 11750
+Wire Wire Line
+	9350 11750 9350 12150
+Wire Wire Line
+	9350 12150 9450 12150
+Text Label 1950 11750 1    50   ~ 0
+GNDL
+Text Label 3200 11750 1    50   ~ 0
+GNDL
+Text Label 4450 11750 1    50   ~ 0
+GNDL
+Text Label 5700 11750 1    50   ~ 0
+GNDL
+Text Label 6950 11750 1    50   ~ 0
+GNDL
+Text Label 8200 11750 1    50   ~ 0
+GNDL
+Text Label 9450 11750 1    50   ~ 0
+GNDL
+Text Label 2950 12150 3    50   ~ 0
+5VL
+Text Label 4200 12150 3    50   ~ 0
+5VL
+Text Label 5450 12150 3    50   ~ 0
+5VL
+Text Label 6700 12150 3    50   ~ 0
+5VL
+Text Label 7950 12150 3    50   ~ 0
+5VL
+Text Label 9200 12150 3    50   ~ 0
+5VL
+Text Label 10450 12150 3    50   ~ 0
+5VL
+$Comp
+L Legonut_Library:WS2812B LED15
+U 1 1 5DDD5807
+P 2450 12900
+F 0 "LED15" H 2450 12413 60  0000 C CNN
+F 1 "WS2812B" H 2450 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 2400 12900 60  0001 C CNN
+F 3 "" V 2400 12900 60  0000 C CNN
+	1    2450 12900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED16
+U 1 1 5DDD580D
+P 3700 12900
+F 0 "LED16" H 3700 12413 60  0000 C CNN
+F 1 "WS2812B" H 3700 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 3650 12900 60  0001 C CNN
+F 3 "" V 3650 12900 60  0000 C CNN
+	1    3700 12900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED17
+U 1 1 5DDD5813
+P 4950 12900
+F 0 "LED17" H 4950 12413 60  0000 C CNN
+F 1 "WS2812B" H 4950 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 4900 12900 60  0001 C CNN
+F 3 "" V 4900 12900 60  0000 C CNN
+	1    4950 12900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED18
+U 1 1 5DDD5819
+P 6200 12900
+F 0 "LED18" H 6200 12413 60  0000 C CNN
+F 1 "WS2812B" H 6200 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 6150 12900 60  0001 C CNN
+F 3 "" V 6150 12900 60  0000 C CNN
+	1    6200 12900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED19
+U 1 1 5DDD581F
+P 7450 12900
+F 0 "LED19" H 7450 12413 60  0000 C CNN
+F 1 "WS2812B" H 7450 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 7400 12900 60  0001 C CNN
+F 3 "" V 7400 12900 60  0000 C CNN
+	1    7450 12900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED20
+U 1 1 5DDD5825
+P 8700 12900
+F 0 "LED20" H 8700 12413 60  0000 C CNN
+F 1 "WS2812B" H 8700 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 8650 12900 60  0001 C CNN
+F 3 "" V 8650 12900 60  0000 C CNN
+	1    8700 12900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED21
+U 1 1 5DDD582B
+P 9950 12900
+F 0 "LED21" H 9950 12413 60  0000 C CNN
+F 1 "WS2812B" H 9950 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 9900 12900 60  0001 C CNN
+F 3 "" V 9900 12900 60  0000 C CNN
+	1    9950 12900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2950 12700 3100 12700
+Wire Wire Line
+	3100 12700 3100 13100
+Wire Wire Line
+	3100 13100 3200 13100
+Wire Wire Line
+	4200 12700 4350 12700
+Wire Wire Line
+	4350 12700 4350 13100
+Wire Wire Line
+	4350 13100 4450 13100
+Wire Wire Line
+	5450 12700 5600 12700
+Wire Wire Line
+	5600 12700 5600 13100
+Wire Wire Line
+	5600 13100 5700 13100
+Wire Wire Line
+	6700 12700 6850 12700
+Wire Wire Line
+	6850 12700 6850 13100
+Wire Wire Line
+	6850 13100 6950 13100
+Wire Wire Line
+	7950 12700 8100 12700
+Wire Wire Line
+	8100 12700 8100 13100
+Wire Wire Line
+	8100 13100 8200 13100
+Wire Wire Line
+	9200 12700 9350 12700
+Wire Wire Line
+	9350 12700 9350 13100
+Wire Wire Line
+	9350 13100 9450 13100
+Text Label 1950 12700 1    50   ~ 0
+GNDL
+Text Label 3200 12700 1    50   ~ 0
+GNDL
+Text Label 4450 12700 1    50   ~ 0
+GNDL
+Text Label 5700 12700 1    50   ~ 0
+GNDL
+Text Label 6950 12700 1    50   ~ 0
+GNDL
+Text Label 8200 12700 1    50   ~ 0
+GNDL
+Text Label 9450 12700 1    50   ~ 0
+GNDL
+Text Label 2950 13100 3    50   ~ 0
+5VL
+Text Label 4200 13100 3    50   ~ 0
+5VL
+Text Label 5450 13100 3    50   ~ 0
+5VL
+Text Label 6700 13100 3    50   ~ 0
+5VL
+Text Label 7950 13100 3    50   ~ 0
+5VL
+Text Label 9200 13100 3    50   ~ 0
+5VL
+Text Label 10450 13100 3    50   ~ 0
+5VL
+$Comp
+L Legonut_Library:WS2812B LED22
+U 1 1 5DDD5851
+P 2450 13850
+F 0 "LED22" H 2450 13363 60  0000 C CNN
+F 1 "WS2812B" H 2450 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 2400 13850 60  0001 C CNN
+F 3 "" V 2400 13850 60  0000 C CNN
+	1    2450 13850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED23
+U 1 1 5DDD5857
+P 3700 13850
+F 0 "LED23" H 3700 13363 60  0000 C CNN
+F 1 "WS2812B" H 3700 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 3650 13850 60  0001 C CNN
+F 3 "" V 3650 13850 60  0000 C CNN
+	1    3700 13850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED24
+U 1 1 5DDD585D
+P 4950 13850
+F 0 "LED24" H 4950 13363 60  0000 C CNN
+F 1 "WS2812B" H 4950 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 4900 13850 60  0001 C CNN
+F 3 "" V 4900 13850 60  0000 C CNN
+	1    4950 13850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED25
+U 1 1 5DDD5863
+P 6200 13850
+F 0 "LED25" H 6200 13363 60  0000 C CNN
+F 1 "WS2812B" H 6200 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 6150 13850 60  0001 C CNN
+F 3 "" V 6150 13850 60  0000 C CNN
+	1    6200 13850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED26
+U 1 1 5DDD5869
+P 7450 13850
+F 0 "LED26" H 7450 13363 60  0000 C CNN
+F 1 "WS2812B" H 7450 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 7400 13850 60  0001 C CNN
+F 3 "" V 7400 13850 60  0000 C CNN
+	1    7450 13850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED27
+U 1 1 5DDD586F
+P 8700 13850
+F 0 "LED27" H 8700 13363 60  0000 C CNN
+F 1 "WS2812B" H 8700 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 8650 13850 60  0001 C CNN
+F 3 "" V 8650 13850 60  0000 C CNN
+	1    8700 13850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED28
+U 1 1 5DDD5875
+P 9950 13850
+F 0 "LED28" H 9950 13363 60  0000 C CNN
+F 1 "WS2812B" H 9950 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 9900 13850 60  0001 C CNN
+F 3 "" V 9900 13850 60  0000 C CNN
+	1    9950 13850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2950 13650 3100 13650
+Wire Wire Line
+	3100 13650 3100 14050
+Wire Wire Line
+	3100 14050 3200 14050
+Wire Wire Line
+	4200 13650 4350 13650
+Wire Wire Line
+	4350 13650 4350 14050
+Wire Wire Line
+	4350 14050 4450 14050
+Wire Wire Line
+	5450 13650 5600 13650
+Wire Wire Line
+	5600 13650 5600 14050
+Wire Wire Line
+	5600 14050 5700 14050
+Wire Wire Line
+	6700 13650 6850 13650
+Wire Wire Line
+	6850 13650 6850 14050
+Wire Wire Line
+	6850 14050 6950 14050
+Wire Wire Line
+	7950 13650 8100 13650
+Wire Wire Line
+	8100 13650 8100 14050
+Wire Wire Line
+	8100 14050 8200 14050
+Wire Wire Line
+	9200 13650 9350 13650
+Wire Wire Line
+	9350 13650 9350 14050
+Wire Wire Line
+	9350 14050 9450 14050
+Text Label 1950 13650 1    50   ~ 0
+GNDL
+Text Label 3200 13650 1    50   ~ 0
+GNDL
+Text Label 4450 13650 1    50   ~ 0
+GNDL
+Text Label 5700 13650 1    50   ~ 0
+GNDL
+Text Label 6950 13650 1    50   ~ 0
+GNDL
+Text Label 8200 13650 1    50   ~ 0
+GNDL
+Text Label 9450 13650 1    50   ~ 0
+GNDL
+Text Label 2950 14050 3    50   ~ 0
+5VL
+Text Label 4200 14050 3    50   ~ 0
+5VL
+Text Label 5450 14050 3    50   ~ 0
+5VL
+Text Label 6700 14050 3    50   ~ 0
+5VL
+Text Label 7950 14050 3    50   ~ 0
+5VL
+Text Label 9200 14050 3    50   ~ 0
+5VL
+Text Label 10450 14050 3    50   ~ 0
+5VL
+$Comp
+L Legonut_Library:WS2812B LED29
+U 1 1 5DDEFA92
+P 2450 14800
+F 0 "LED29" H 2450 14313 60  0000 C CNN
+F 1 "WS2812B" H 2450 14419 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 2400 14800 60  0001 C CNN
+F 3 "" V 2400 14800 60  0000 C CNN
+	1    2450 14800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED30
+U 1 1 5DDEFA98
+P 3700 14800
+F 0 "LED30" H 3700 14313 60  0000 C CNN
+F 1 "WS2812B" H 3700 14419 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 3650 14800 60  0001 C CNN
+F 3 "" V 3650 14800 60  0000 C CNN
+	1    3700 14800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED31
+U 1 1 5DDEFA9E
+P 4950 14800
+F 0 "LED31" H 4950 14313 60  0000 C CNN
+F 1 "WS2812B" H 4950 14419 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 4900 14800 60  0001 C CNN
+F 3 "" V 4900 14800 60  0000 C CNN
+	1    4950 14800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED32
+U 1 1 5DDEFAA4
+P 6200 14800
+F 0 "LED32" H 6200 14313 60  0000 C CNN
+F 1 "WS2812B" H 6200 14419 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 6150 14800 60  0001 C CNN
+F 3 "" V 6150 14800 60  0000 C CNN
+	1    6200 14800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2950 14600 3100 14600
+Wire Wire Line
+	3100 14600 3100 15000
+Wire Wire Line
+	3100 15000 3200 15000
+Wire Wire Line
+	4200 14600 4350 14600
+Wire Wire Line
+	4350 14600 4350 15000
+Wire Wire Line
+	4350 15000 4450 15000
+Wire Wire Line
+	5450 14600 5600 14600
+Wire Wire Line
+	5600 14600 5600 15000
+Wire Wire Line
+	5600 15000 5700 15000
+Text Label 1950 14600 1    50   ~ 0
+GNDL
+Text Label 3200 14600 1    50   ~ 0
+GNDL
+Text Label 4450 14600 1    50   ~ 0
+GNDL
+Text Label 5700 14600 1    50   ~ 0
+GNDL
+Text Label 8200 14600 1    50   ~ 0
+GNDL
+Text Label 6950 14600 1    50   ~ 0
+GNDL
+Text Label 9450 14600 1    50   ~ 0
+GNDL
+Text Label 2950 15000 3    50   ~ 0
+5VL
+Text Label 4200 15000 3    50   ~ 0
+5VL
+Text Label 5450 15000 3    50   ~ 0
+5VL
+Text Label 6700 15000 3    50   ~ 0
+5VL
+Text Label 7950 15000 3    50   ~ 0
+5VL
+Text Label 9200 15000 1    50   ~ 0
+5VL
+Text Label 10450 15000 3    50   ~ 0
+5VL
+$Comp
+L Legonut_Library:WS2812B LED36
+U 1 1 5DDEFADC
+P 2450 15750
+F 0 "LED36" H 2450 15263 60  0000 C CNN
+F 1 "WS2812B" H 2450 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 2400 15750 60  0001 C CNN
+F 3 "" V 2400 15750 60  0000 C CNN
+	1    2450 15750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED37
+U 1 1 5DDEFAE2
+P 3700 15750
+F 0 "LED37" H 3700 15263 60  0000 C CNN
+F 1 "WS2812B" H 3700 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 3650 15750 60  0001 C CNN
+F 3 "" V 3650 15750 60  0000 C CNN
+	1    3700 15750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED38
+U 1 1 5DDEFAE8
+P 4950 15750
+F 0 "LED38" H 4950 15263 60  0000 C CNN
+F 1 "WS2812B" H 4950 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 4900 15750 60  0001 C CNN
+F 3 "" V 4900 15750 60  0000 C CNN
+	1    4950 15750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED39
+U 1 1 5DDEFAEE
+P 6200 15750
+F 0 "LED39" H 6200 15263 60  0000 C CNN
+F 1 "WS2812B" H 6200 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 6150 15750 60  0001 C CNN
+F 3 "" V 6150 15750 60  0000 C CNN
+	1    6200 15750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED40
+U 1 1 5DDEFAF4
+P 7450 15750
+F 0 "LED40" H 7450 15263 60  0000 C CNN
+F 1 "WS2812B" H 7450 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 7400 15750 60  0001 C CNN
+F 3 "" V 7400 15750 60  0000 C CNN
+	1    7450 15750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED41
+U 1 1 5DDEFAFA
+P 8700 15750
+F 0 "LED41" H 8700 15263 60  0000 C CNN
+F 1 "WS2812B" H 8700 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 8650 15750 60  0001 C CNN
+F 3 "" V 8650 15750 60  0000 C CNN
+	1    8700 15750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED42
+U 1 1 5DDEFB00
+P 9950 15750
+F 0 "LED42" H 9950 15263 60  0000 C CNN
+F 1 "WS2812B" H 9950 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 9900 15750 60  0001 C CNN
+F 3 "" V 9900 15750 60  0000 C CNN
+	1    9950 15750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2950 15550 3100 15550
+Wire Wire Line
+	3100 15550 3100 15950
+Wire Wire Line
+	3100 15950 3200 15950
+Wire Wire Line
+	4200 15550 4350 15550
+Wire Wire Line
+	4350 15550 4350 15950
+Wire Wire Line
+	4350 15950 4450 15950
+Wire Wire Line
+	5450 15550 5600 15550
+Wire Wire Line
+	5600 15550 5600 15950
+Wire Wire Line
+	5600 15950 5700 15950
+Wire Wire Line
+	6700 15550 6850 15550
+Wire Wire Line
+	6850 15550 6850 15950
+Wire Wire Line
+	6850 15950 6950 15950
+Wire Wire Line
+	7950 15550 8100 15550
+Wire Wire Line
+	8100 15550 8100 15950
+Wire Wire Line
+	8100 15950 8200 15950
+Wire Wire Line
+	9200 15550 9350 15550
+Wire Wire Line
+	9350 15550 9350 15950
+Wire Wire Line
+	9350 15950 9450 15950
+Text Label 1950 15550 1    50   ~ 0
+GNDL
+Text Label 3200 15550 1    50   ~ 0
+GNDL
+Text Label 4450 15550 1    50   ~ 0
+GNDL
+Text Label 5700 15550 1    50   ~ 0
+GNDL
+Text Label 6950 15550 1    50   ~ 0
+GNDL
+Text Label 8200 15550 1    50   ~ 0
+GNDL
+Text Label 9450 15550 1    50   ~ 0
+GNDL
+Text Label 2950 15950 3    50   ~ 0
+5VL
+Text Label 4200 15950 3    50   ~ 0
+5VL
+Text Label 5450 15950 3    50   ~ 0
+5VL
+Text Label 6700 15950 3    50   ~ 0
+5VL
+Text Label 7950 15950 3    50   ~ 0
+5VL
+Text Label 9200 15950 3    50   ~ 0
+5VL
+Text Label 10450 15950 3    50   ~ 0
+5VL
+$Comp
+L Legonut_Library:WS2812B LED43
+U 1 1 5DE3DEDE
+P 2450 16700
+F 0 "LED43" H 2450 16213 60  0000 C CNN
+F 1 "WS2812B" H 2450 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 2400 16700 60  0001 C CNN
+F 3 "" V 2400 16700 60  0000 C CNN
+	1    2450 16700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED44
+U 1 1 5DE3DEE4
+P 3700 16700
+F 0 "LED44" H 3700 16213 60  0000 C CNN
+F 1 "WS2812B" H 3700 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 3650 16700 60  0001 C CNN
+F 3 "" V 3650 16700 60  0000 C CNN
+	1    3700 16700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED45
+U 1 1 5DE3DEEA
+P 4950 16700
+F 0 "LED45" H 4950 16213 60  0000 C CNN
+F 1 "WS2812B" H 4950 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 4900 16700 60  0001 C CNN
+F 3 "" V 4900 16700 60  0000 C CNN
+	1    4950 16700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED46
+U 1 1 5DE3DEF0
+P 6200 16700
+F 0 "LED46" H 6200 16213 60  0000 C CNN
+F 1 "WS2812B" H 6200 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 6150 16700 60  0001 C CNN
+F 3 "" V 6150 16700 60  0000 C CNN
+	1    6200 16700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED47
+U 1 1 5DE3DEF6
+P 7450 16700
+F 0 "LED47" H 7450 16213 60  0000 C CNN
+F 1 "WS2812B" H 7450 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 7400 16700 60  0001 C CNN
+F 3 "" V 7400 16700 60  0000 C CNN
+	1    7450 16700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED48
+U 1 1 5DE3DEFC
+P 8700 16700
+F 0 "LED48" H 8700 16213 60  0000 C CNN
+F 1 "WS2812B" H 8700 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 8650 16700 60  0001 C CNN
+F 3 "" V 8650 16700 60  0000 C CNN
+	1    8700 16700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED49
+U 1 1 5DE3DF02
+P 9950 16700
+F 0 "LED49" H 9950 16213 60  0000 C CNN
+F 1 "WS2812B" H 9950 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 9900 16700 60  0001 C CNN
+F 3 "" V 9900 16700 60  0000 C CNN
+	1    9950 16700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2950 16500 3100 16500
+Wire Wire Line
+	3100 16500 3100 16900
+Wire Wire Line
+	3100 16900 3200 16900
+Wire Wire Line
+	4200 16500 4350 16500
+Wire Wire Line
+	4350 16500 4350 16900
+Wire Wire Line
+	4350 16900 4450 16900
+Wire Wire Line
+	5450 16500 5600 16500
+Wire Wire Line
+	5600 16500 5600 16900
+Wire Wire Line
+	5600 16900 5700 16900
+Wire Wire Line
+	6700 16500 6850 16500
+Wire Wire Line
+	6850 16500 6850 16900
+Wire Wire Line
+	6850 16900 6950 16900
+Wire Wire Line
+	7950 16500 8100 16500
+Wire Wire Line
+	8100 16500 8100 16900
+Wire Wire Line
+	8100 16900 8200 16900
+Wire Wire Line
+	9200 16500 9350 16500
+Wire Wire Line
+	9350 16500 9350 16900
+Wire Wire Line
+	9350 16900 9450 16900
+Text Label 1950 16500 1    50   ~ 0
+GNDL
+Text Label 3200 16500 1    50   ~ 0
+GNDL
+Text Label 4450 16500 1    50   ~ 0
+GNDL
+Text Label 5700 16500 1    50   ~ 0
+GNDL
+Text Label 6950 16500 1    50   ~ 0
+GNDL
+Text Label 8200 16500 1    50   ~ 0
+GNDL
+Text Label 9450 16500 1    50   ~ 0
+GNDL
+Text Label 2950 16900 3    50   ~ 0
+5VL
+Text Label 4200 16900 3    50   ~ 0
+5VL
+Text Label 5450 16900 3    50   ~ 0
+5VL
+Text Label 6700 16900 3    50   ~ 0
+5VL
+Text Label 7950 16900 3    50   ~ 0
+5VL
+Text Label 9200 16900 3    50   ~ 0
+5VL
+Text Label 10450 16900 3    50   ~ 0
+5VL
+Wire Wire Line
+	10450 10800 10550 10800
+Wire Wire Line
+	10550 10800 10550 11400
+Wire Wire Line
+	10550 11400 1850 11400
+Wire Wire Line
+	1850 11400 1850 12150
+Wire Wire Line
+	1850 12150 1950 12150
+Text Label 1950 11200 2    50   ~ 0
+RGBLI
+Wire Wire Line
+	10450 11750 10550 11750
+Wire Wire Line
+	10550 11750 10550 12350
+Wire Wire Line
+	10550 12350 1850 12350
+Wire Wire Line
+	1850 12350 1850 13100
+Wire Wire Line
+	1850 13100 1950 13100
+Wire Wire Line
+	10450 12700 10550 12700
+Wire Wire Line
+	10550 12700 10550 13300
+Wire Wire Line
+	10550 13300 1850 13300
+Wire Wire Line
+	1850 13300 1850 14050
+Wire Wire Line
+	1850 14050 1950 14050
+Wire Wire Line
+	10450 13650 10550 13650
+Wire Wire Line
+	10550 13650 10550 14250
+Wire Wire Line
+	10550 14250 1850 14250
+Wire Wire Line
+	1850 14250 1850 15000
+Wire Wire Line
+	1850 15000 1950 15000
+Wire Wire Line
+	10550 15200 1850 15200
+Wire Wire Line
+	1850 15200 1850 15950
+Wire Wire Line
+	1850 15950 1950 15950
+Wire Wire Line
+	10450 15550 10550 15550
+Wire Wire Line
+	10550 15550 10550 16150
+Wire Wire Line
+	10550 16150 1850 16150
+Wire Wire Line
+	1850 16150 1850 16900
+Wire Wire Line
+	1850 16900 1950 16900
+NoConn ~ 10450 16500
+$Comp
+L Device:C C51
+U 1 1 5E1413B1
+P 10000 10050
+F 0 "C51" V 10000 9750 50  0000 C CNN
+F 1 "100nF" V 10000 10350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 9900 50  0001 C CNN
+F 3 "~" H 10000 10050 50  0001 C CNN
+	1    10000 10050
+	0    1    1    0   
+$EndComp
+Text Label 10150 10050 0    50   ~ 0
+GNDL
+Text Label 9850 10050 2    50   ~ 0
+5VL
+$Comp
+L Device:C C47
+U 1 1 5E15DCD0
+P 10000 9850
+F 0 "C47" V 10000 9550 50  0000 C CNN
+F 1 "100nF" V 10000 10150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 9700 50  0001 C CNN
+F 3 "~" H 10000 9850 50  0001 C CNN
+	1    10000 9850
+	0    1    1    0   
+$EndComp
+Text Label 10150 9850 0    50   ~ 0
+GNDL
+Text Label 9850 9850 2    50   ~ 0
+5VL
+$Comp
+L Device:C C45
+U 1 1 5E15DCD8
+P 10000 9650
+F 0 "C45" V 10000 9350 50  0000 C CNN
+F 1 "100nF" V 10000 9950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 9500 50  0001 C CNN
+F 3 "~" H 10000 9650 50  0001 C CNN
+	1    10000 9650
+	0    1    1    0   
+$EndComp
+Text Label 10150 9650 0    50   ~ 0
+GNDL
+Text Label 9850 9650 2    50   ~ 0
+5VL
+$Comp
+L Device:C C43
+U 1 1 5E17383A
+P 10000 9450
+F 0 "C43" V 10000 9150 50  0000 C CNN
+F 1 "100nF" V 10000 9750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 9300 50  0001 C CNN
+F 3 "~" H 10000 9450 50  0001 C CNN
+	1    10000 9450
+	0    1    1    0   
+$EndComp
+Text Label 10150 9450 0    50   ~ 0
+GNDL
+Text Label 9850 9450 2    50   ~ 0
+5VL
+$Comp
+L Device:C C41
+U 1 1 5E173842
+P 10000 9250
+F 0 "C41" V 10000 8950 50  0000 C CNN
+F 1 "100nF" V 10000 9550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 9100 50  0001 C CNN
+F 3 "~" H 10000 9250 50  0001 C CNN
+	1    10000 9250
+	0    1    1    0   
+$EndComp
+Text Label 10150 9250 0    50   ~ 0
+GNDL
+Text Label 9850 9250 2    50   ~ 0
+5VL
+$Comp
+L Device:C C39
+U 1 1 5E17384A
+P 10000 9050
+F 0 "C39" V 10000 8750 50  0000 C CNN
+F 1 "100nF" V 10000 9350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 8900 50  0001 C CNN
+F 3 "~" H 10000 9050 50  0001 C CNN
+	1    10000 9050
+	0    1    1    0   
+$EndComp
+Text Label 10150 9050 0    50   ~ 0
+GNDL
+Text Label 9850 9050 2    50   ~ 0
+5VL
+$Comp
+L Device:C C37
+U 1 1 5E173852
+P 10000 8850
+F 0 "C37" V 10000 8550 50  0000 C CNN
+F 1 "100nF" V 10000 9150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 8700 50  0001 C CNN
+F 3 "~" H 10000 8850 50  0001 C CNN
+	1    10000 8850
+	0    1    1    0   
+$EndComp
+Text Label 10150 8850 0    50   ~ 0
+GNDL
+Text Label 9850 8850 2    50   ~ 0
+5VL
+$Comp
+L Device:C C35
+U 1 1 5E186FDE
+P 10000 8650
+F 0 "C35" V 10000 8350 50  0000 C CNN
+F 1 "100nF" V 10000 8950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 8500 50  0001 C CNN
+F 3 "~" H 10000 8650 50  0001 C CNN
+	1    10000 8650
+	0    1    1    0   
+$EndComp
+Text Label 10150 8650 0    50   ~ 0
+GNDL
+Text Label 9850 8650 2    50   ~ 0
+5VL
+$Comp
+L Device:C C33
+U 1 1 5E186FE6
+P 10000 8450
+F 0 "C33" V 10000 8150 50  0000 C CNN
+F 1 "100nF" V 10000 8750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 8300 50  0001 C CNN
+F 3 "~" H 10000 8450 50  0001 C CNN
+	1    10000 8450
+	0    1    1    0   
+$EndComp
+Text Label 10150 8450 0    50   ~ 0
+GNDL
+Text Label 9850 8450 2    50   ~ 0
+5VL
+$Comp
+L Device:C C31
+U 1 1 5E186FEE
+P 10000 8250
+F 0 "C31" V 10000 7950 50  0000 C CNN
+F 1 "100nF" V 10000 8550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 8100 50  0001 C CNN
+F 3 "~" H 10000 8250 50  0001 C CNN
+	1    10000 8250
+	0    1    1    0   
+$EndComp
+Text Label 10150 8250 0    50   ~ 0
+GNDL
+Text Label 9850 8250 2    50   ~ 0
+5VL
+$Comp
+L Device:C C29
+U 1 1 5E186FF6
+P 10000 8050
+F 0 "C29" V 10000 7750 50  0000 C CNN
+F 1 "100nF" V 10000 8350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 7900 50  0001 C CNN
+F 3 "~" H 10000 8050 50  0001 C CNN
+	1    10000 8050
+	0    1    1    0   
+$EndComp
+Text Label 10150 8050 0    50   ~ 0
+GNDL
+Text Label 9850 8050 2    50   ~ 0
+5VL
+$Comp
+L Device:C C27
+U 1 1 5E19A0E0
+P 10000 7850
+F 0 "C27" V 10000 7550 50  0000 C CNN
+F 1 "100nF" V 10000 8150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 7700 50  0001 C CNN
+F 3 "~" H 10000 7850 50  0001 C CNN
+	1    10000 7850
+	0    1    1    0   
+$EndComp
+Text Label 10150 7850 0    50   ~ 0
+GNDL
+Text Label 9850 7850 2    50   ~ 0
+5VL
+$Comp
+L Device:C C25
+U 1 1 5E19A0E8
+P 10000 7650
+F 0 "C25" V 10000 7350 50  0000 C CNN
+F 1 "100nF" V 10000 7950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 7500 50  0001 C CNN
+F 3 "~" H 10000 7650 50  0001 C CNN
+	1    10000 7650
+	0    1    1    0   
+$EndComp
+Text Label 10150 7650 0    50   ~ 0
+GNDL
+Text Label 9850 7650 2    50   ~ 0
+5VL
+$Comp
+L Device:C C23
+U 1 1 5E19A0F0
+P 10000 7450
+F 0 "C23" V 10000 7150 50  0000 C CNN
+F 1 "100nF" V 10000 7750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 7300 50  0001 C CNN
+F 3 "~" H 10000 7450 50  0001 C CNN
+	1    10000 7450
+	0    1    1    0   
+$EndComp
+Text Label 10150 7450 0    50   ~ 0
+GNDL
+Text Label 9850 7450 2    50   ~ 0
+5VL
+$Comp
+L Device:C C21
+U 1 1 5E19A0F8
+P 10000 7250
+F 0 "C21" V 10000 6950 50  0000 C CNN
+F 1 "100nF" V 10000 7550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 7100 50  0001 C CNN
+F 3 "~" H 10000 7250 50  0001 C CNN
+	1    10000 7250
+	0    1    1    0   
+$EndComp
+Text Label 10150 7250 0    50   ~ 0
+GNDL
+Text Label 9850 7250 2    50   ~ 0
+5VL
+$Comp
+L Device:C C19
+U 1 1 5E1AD844
+P 10000 7050
+F 0 "C19" V 10000 6750 50  0000 C CNN
+F 1 "100nF" V 10000 7350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 6900 50  0001 C CNN
+F 3 "~" H 10000 7050 50  0001 C CNN
+	1    10000 7050
+	0    1    1    0   
+$EndComp
+Text Label 10150 7050 0    50   ~ 0
+GNDL
+Text Label 9850 7050 2    50   ~ 0
+5VL
+$Comp
+L Device:C C17
+U 1 1 5E1AD84C
+P 10000 6850
+F 0 "C17" V 10000 6550 50  0000 C CNN
+F 1 "100nF" V 10000 7150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 6700 50  0001 C CNN
+F 3 "~" H 10000 6850 50  0001 C CNN
+	1    10000 6850
+	0    1    1    0   
+$EndComp
+Text Label 10150 6850 0    50   ~ 0
+GNDL
+Text Label 9850 6850 2    50   ~ 0
+5VL
+$Comp
+L Device:C C15
+U 1 1 5E1AD854
+P 10000 6650
+F 0 "C15" V 10000 6350 50  0000 C CNN
+F 1 "100nF" V 10000 6950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 6500 50  0001 C CNN
+F 3 "~" H 10000 6650 50  0001 C CNN
+	1    10000 6650
+	0    1    1    0   
+$EndComp
+Text Label 10150 6650 0    50   ~ 0
+GNDL
+Text Label 9850 6650 2    50   ~ 0
+5VL
+$Comp
+L Device:C C13
+U 1 1 5E1AD85C
+P 10000 6450
+F 0 "C13" V 10000 6150 50  0000 C CNN
+F 1 "100nF" V 10000 6750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 6300 50  0001 C CNN
+F 3 "~" H 10000 6450 50  0001 C CNN
+	1    10000 6450
+	0    1    1    0   
+$EndComp
+Text Label 10150 6450 0    50   ~ 0
+GNDL
+Text Label 9850 6450 2    50   ~ 0
+5VL
+$Comp
+L Device:C C52
+U 1 1 5E1D9860
+P 10800 10050
+F 0 "C52" V 10800 9750 50  0000 C CNN
+F 1 "100nF" V 10800 10350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 9900 50  0001 C CNN
+F 3 "~" H 10800 10050 50  0001 C CNN
+	1    10800 10050
+	0    1    1    0   
+$EndComp
+Text Label 10950 10050 0    50   ~ 0
+GNDL
+Text Label 10650 10050 2    50   ~ 0
+5VL
+$Comp
+L Device:C C50
+U 1 1 5E1D9870
+P 10800 9850
+F 0 "C50" V 10800 9550 50  0000 C CNN
+F 1 "100nF" V 10800 10150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 9700 50  0001 C CNN
+F 3 "~" H 10800 9850 50  0001 C CNN
+	1    10800 9850
+	0    1    1    0   
+$EndComp
+Text Label 10950 9850 0    50   ~ 0
+GNDL
+Text Label 10650 9850 2    50   ~ 0
+5VL
+$Comp
+L Device:C C46
+U 1 1 5E1D9878
+P 10800 9650
+F 0 "C46" V 10800 9350 50  0000 C CNN
+F 1 "100nF" V 10800 9950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 9500 50  0001 C CNN
+F 3 "~" H 10800 9650 50  0001 C CNN
+	1    10800 9650
+	0    1    1    0   
+$EndComp
+Text Label 10950 9650 0    50   ~ 0
+GNDL
+Text Label 10650 9650 2    50   ~ 0
+5VL
+$Comp
+L Device:C C44
+U 1 1 5E1D9880
+P 10800 9450
+F 0 "C44" V 10800 9150 50  0000 C CNN
+F 1 "100nF" V 10800 9750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 9300 50  0001 C CNN
+F 3 "~" H 10800 9450 50  0001 C CNN
+	1    10800 9450
+	0    1    1    0   
+$EndComp
+Text Label 10950 9450 0    50   ~ 0
+GNDL
+Text Label 10650 9450 2    50   ~ 0
+5VL
+$Comp
+L Device:C C42
+U 1 1 5E1D9888
+P 10800 9250
+F 0 "C42" V 10800 8950 50  0000 C CNN
+F 1 "100nF" V 10800 9550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 9100 50  0001 C CNN
+F 3 "~" H 10800 9250 50  0001 C CNN
+	1    10800 9250
+	0    1    1    0   
+$EndComp
+Text Label 10950 9250 0    50   ~ 0
+GNDL
+Text Label 10650 9250 2    50   ~ 0
+5VL
+$Comp
+L Device:C C40
+U 1 1 5E1D9890
+P 10800 9050
+F 0 "C40" V 10800 8750 50  0000 C CNN
+F 1 "100nF" V 10800 9350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 8900 50  0001 C CNN
+F 3 "~" H 10800 9050 50  0001 C CNN
+	1    10800 9050
+	0    1    1    0   
+$EndComp
+Text Label 10950 9050 0    50   ~ 0
+GNDL
+Text Label 10650 9050 2    50   ~ 0
+5VL
+$Comp
+L Device:C C38
+U 1 1 5E1D9898
+P 10800 8850
+F 0 "C38" V 10800 8550 50  0000 C CNN
+F 1 "100nF" V 10800 9150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 8700 50  0001 C CNN
+F 3 "~" H 10800 8850 50  0001 C CNN
+	1    10800 8850
+	0    1    1    0   
+$EndComp
+Text Label 10950 8850 0    50   ~ 0
+GNDL
+Text Label 10650 8850 2    50   ~ 0
+5VL
+$Comp
+L Device:C C36
+U 1 1 5E1D98A0
+P 10800 8650
+F 0 "C36" V 10800 8350 50  0000 C CNN
+F 1 "100nF" V 10800 8950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 8500 50  0001 C CNN
+F 3 "~" H 10800 8650 50  0001 C CNN
+	1    10800 8650
+	0    1    1    0   
+$EndComp
+Text Label 10950 8650 0    50   ~ 0
+GNDL
+Text Label 10650 8650 2    50   ~ 0
+5VL
+$Comp
+L Device:C C34
+U 1 1 5E1D98A8
+P 10800 8450
+F 0 "C34" V 10800 8150 50  0000 C CNN
+F 1 "100nF" V 10800 8750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 8300 50  0001 C CNN
+F 3 "~" H 10800 8450 50  0001 C CNN
+	1    10800 8450
+	0    1    1    0   
+$EndComp
+Text Label 10950 8450 0    50   ~ 0
+GNDL
+Text Label 10650 8450 2    50   ~ 0
+5VL
+$Comp
+L Device:C C32
+U 1 1 5E1D98B0
+P 10800 8250
+F 0 "C32" V 10800 7950 50  0000 C CNN
+F 1 "100nF" V 10800 8550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 8100 50  0001 C CNN
+F 3 "~" H 10800 8250 50  0001 C CNN
+	1    10800 8250
+	0    1    1    0   
+$EndComp
+Text Label 10950 8250 0    50   ~ 0
+GNDL
+Text Label 10650 8250 2    50   ~ 0
+5VL
+$Comp
+L Device:C C30
+U 1 1 5E1D98B8
+P 10800 8050
+F 0 "C30" V 10800 7750 50  0000 C CNN
+F 1 "100nF" V 10800 8350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 7900 50  0001 C CNN
+F 3 "~" H 10800 8050 50  0001 C CNN
+	1    10800 8050
+	0    1    1    0   
+$EndComp
+Text Label 10950 8050 0    50   ~ 0
+GNDL
+Text Label 10650 8050 2    50   ~ 0
+5VL
+$Comp
+L Device:C C28
+U 1 1 5E1D98C0
+P 10800 7850
+F 0 "C28" V 10800 7550 50  0000 C CNN
+F 1 "100nF" V 10800 8150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 7700 50  0001 C CNN
+F 3 "~" H 10800 7850 50  0001 C CNN
+	1    10800 7850
+	0    1    1    0   
+$EndComp
+Text Label 10950 7850 0    50   ~ 0
+GNDL
+Text Label 10650 7850 2    50   ~ 0
+5VL
+$Comp
+L Device:C C26
+U 1 1 5E1D98C8
+P 10800 7650
+F 0 "C26" V 10800 7350 50  0000 C CNN
+F 1 "100nF" V 10800 7950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 7500 50  0001 C CNN
+F 3 "~" H 10800 7650 50  0001 C CNN
+	1    10800 7650
+	0    1    1    0   
+$EndComp
+Text Label 10950 7650 0    50   ~ 0
+GNDL
+Text Label 10650 7650 2    50   ~ 0
+5VL
+$Comp
+L Device:C C24
+U 1 1 5E1D98D0
+P 10800 7450
+F 0 "C24" V 10800 7150 50  0000 C CNN
+F 1 "100nF" V 10800 7750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 7300 50  0001 C CNN
+F 3 "~" H 10800 7450 50  0001 C CNN
+	1    10800 7450
+	0    1    1    0   
+$EndComp
+Text Label 10950 7450 0    50   ~ 0
+GNDL
+Text Label 10650 7450 2    50   ~ 0
+5VL
+$Comp
+L Device:C C22
+U 1 1 5E1D98D8
+P 10800 7250
+F 0 "C22" V 10800 6950 50  0000 C CNN
+F 1 "100nF" V 10800 7550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 7100 50  0001 C CNN
+F 3 "~" H 10800 7250 50  0001 C CNN
+	1    10800 7250
+	0    1    1    0   
+$EndComp
+Text Label 10950 7250 0    50   ~ 0
+GNDL
+Text Label 10650 7250 2    50   ~ 0
+5VL
+$Comp
+L Device:C C20
+U 1 1 5E1D98E0
+P 10800 7050
+F 0 "C20" V 10800 6750 50  0000 C CNN
+F 1 "100nF" V 10800 7350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 6900 50  0001 C CNN
+F 3 "~" H 10800 7050 50  0001 C CNN
+	1    10800 7050
+	0    1    1    0   
+$EndComp
+Text Label 10950 7050 0    50   ~ 0
+GNDL
+Text Label 10650 7050 2    50   ~ 0
+5VL
+$Comp
+L Device:C C18
+U 1 1 5E1D98E8
+P 10800 6850
+F 0 "C18" V 10800 6550 50  0000 C CNN
+F 1 "100nF" V 10800 7150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 6700 50  0001 C CNN
+F 3 "~" H 10800 6850 50  0001 C CNN
+	1    10800 6850
+	0    1    1    0   
+$EndComp
+Text Label 10950 6850 0    50   ~ 0
+GNDL
+Text Label 10650 6850 2    50   ~ 0
+5VL
+$Comp
+L Device:C C16
+U 1 1 5E1D98F0
+P 10800 6650
+F 0 "C16" V 10800 6350 50  0000 C CNN
+F 1 "100nF" V 10800 6950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 6500 50  0001 C CNN
+F 3 "~" H 10800 6650 50  0001 C CNN
+	1    10800 6650
+	0    1    1    0   
+$EndComp
+Text Label 10950 6650 0    50   ~ 0
+GNDL
+Text Label 10650 6650 2    50   ~ 0
+5VL
+$Comp
+L Device:C C14
+U 1 1 5E1D98F8
+P 10800 6450
+F 0 "C14" V 10800 6150 50  0000 C CNN
+F 1 "100nF" V 10800 6750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 6300 50  0001 C CNN
+F 3 "~" H 10800 6450 50  0001 C CNN
+	1    10800 6450
+	0    1    1    0   
+$EndComp
+Text Label 10950 6450 0    50   ~ 0
+GNDL
+Text Label 10650 6450 2    50   ~ 0
+5VL
+$Comp
+L Device:C C11
+U 1 1 5E210BF2
+P 10000 6250
+F 0 "C11" V 10000 5950 50  0000 C CNN
+F 1 "100nF" V 10000 6550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10038 6100 50  0001 C CNN
+F 3 "~" H 10000 6250 50  0001 C CNN
+	1    10000 6250
+	0    1    1    0   
+$EndComp
+Text Label 10150 6250 0    50   ~ 0
+GNDL
+Text Label 9850 6250 2    50   ~ 0
+5VL
+$Comp
+L Device:C C12
+U 1 1 5E210BFA
+P 10800 6250
+F 0 "C12" V 10800 5950 50  0000 C CNN
+F 1 "100nF" V 10800 6550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 10838 6100 50  0001 C CNN
+F 3 "~" H 10800 6250 50  0001 C CNN
+	1    10800 6250
+	0    1    1    0   
+$EndComp
+Text Label 10950 6250 0    50   ~ 0
+GNDL
+Text Label 10650 6250 2    50   ~ 0
+5VL
+Wire Wire Line
+	2850 8000 2850 8650
+$Comp
+L Connector_Generic:Conn_01x06 J7
+U 1 1 5E504E72
+P 7350 5650
+F 0 "J7" H 7430 5642 50  0000 L CNN
+F 1 "Conn_01x06" V 7550 5400 50  0000 L CNN
+F 2 "Legonut's Library:00-9188-006pads" H 7350 5650 50  0001 C CNN
+F 3 "~" H 7350 5650 50  0001 C CNN
+	1    7350 5650
+	1    0    0    -1  
+$EndComp
+Text Label 7150 5850 2    50   ~ 0
+5VL
+Text Label 7900 5650 2    50   ~ 0
+RGBLO
+Text Label 7150 5950 2    50   ~ 0
+5VL
+Text Label 7150 5650 2    50   ~ 0
+RGBLI
+Text Label 7150 5750 2    50   ~ 0
+RGBLI
+Text Label 7150 5550 2    50   ~ 0
+GNDL
+Text Label 7150 5450 2    50   ~ 0
+GNDL
+$Comp
+L Legonut_Library:KEYSW K70
+U 1 1 5E1FAAD9
+P 18300 9350
+F 0 "K70" H 18300 9583 60  0000 C CNN
+F 1 "KEYSW" H 18300 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 18300 9350 60  0001 C CNN
+F 3 "" H 18300 9350 60  0000 C CNN
+	1    18300 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D36
+U 1 1 5E1FAAE3
+P 13650 6850
+F 0 "D36" V 13696 6771 50  0000 R CNN
+F 1 "D" V 13605 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 13650 6850 50  0001 C CNN
+F 3 "~" H 13650 6850 50  0001 C CNN
+	1    13650 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K36
+U 1 1 5E1FAAED
+P 13350 6700
+F 0 "K36" H 13350 6933 60  0000 C CNN
+F 1 "KEYSW" H 13350 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 13350 6700 60  0001 C CNN
+F 3 "" H 13350 6700 60  0000 C CNN
+	1    13350 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D37
+U 1 1 5E1FAAF7
+P 14500 6850
+F 0 "D37" V 14546 6771 50  0000 R CNN
+F 1 "D" V 14455 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 14500 6850 50  0001 C CNN
+F 3 "~" H 14500 6850 50  0001 C CNN
+	1    14500 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K37
+U 1 1 5E1FAB01
+P 14200 6700
+F 0 "K37" H 14200 6933 60  0000 C CNN
+F 1 "KEYSW" H 14200 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 14200 6700 60  0001 C CNN
+F 3 "" H 14200 6700 60  0000 C CNN
+	1    14200 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D38
+U 1 1 5E1FAB0B
+P 15300 6850
+F 0 "D38" V 15346 6771 50  0000 R CNN
+F 1 "D" V 15255 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 15300 6850 50  0001 C CNN
+F 3 "~" H 15300 6850 50  0001 C CNN
+	1    15300 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K38
+U 1 1 5E1FAB15
+P 15000 6700
+F 0 "K38" H 15000 6933 60  0000 C CNN
+F 1 "KEYSW" H 15000 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 15000 6700 60  0001 C CNN
+F 3 "" H 15000 6700 60  0000 C CNN
+	1    15000 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D39
+U 1 1 5E1FAB1F
+P 16150 6850
+F 0 "D39" V 16196 6771 50  0000 R CNN
+F 1 "D" V 16105 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 16150 6850 50  0001 C CNN
+F 3 "~" H 16150 6850 50  0001 C CNN
+	1    16150 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K39
+U 1 1 5E1FAB29
+P 15850 6700
+F 0 "K39" H 15850 6933 60  0000 C CNN
+F 1 "KEYSW" H 15850 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 15850 6700 60  0001 C CNN
+F 3 "" H 15850 6700 60  0000 C CNN
+	1    15850 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D40
+U 1 1 5E1FAB33
+P 16950 6850
+F 0 "D40" V 16996 6771 50  0000 R CNN
+F 1 "D" V 16905 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 16950 6850 50  0001 C CNN
+F 3 "~" H 16950 6850 50  0001 C CNN
+	1    16950 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K40
+U 1 1 5E1FAB3D
+P 16650 6700
+F 0 "K40" H 16650 6933 60  0000 C CNN
+F 1 "KEYSW" H 16650 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 16650 6700 60  0001 C CNN
+F 3 "" H 16650 6700 60  0000 C CNN
+	1    16650 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D41
+U 1 1 5E1FAB47
+P 17750 6850
+F 0 "D41" V 17796 6771 50  0000 R CNN
+F 1 "D" V 17705 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 17750 6850 50  0001 C CNN
+F 3 "~" H 17750 6850 50  0001 C CNN
+	1    17750 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K41
+U 1 1 5E1FAB51
+P 17450 6700
+F 0 "K41" H 17450 6933 60  0000 C CNN
+F 1 "KEYSW" H 17450 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 17450 6700 60  0001 C CNN
+F 3 "" H 17450 6700 60  0000 C CNN
+	1    17450 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D42
+U 1 1 5E1FAB5B
+P 18600 6850
+F 0 "D42" V 18646 6771 50  0000 R CNN
+F 1 "D" V 18555 6771 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 18600 6850 50  0001 C CNN
+F 3 "~" H 18600 6850 50  0001 C CNN
+	1    18600 6850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K42
+U 1 1 5E1FAB65
+P 18300 6700
+F 0 "K42" H 18300 6933 60  0000 C CNN
+F 1 "KEYSW" H 18300 6600 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 18300 6700 60  0001 C CNN
+F 3 "" H 18300 6700 60  0000 C CNN
+	1    18300 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D43
+U 1 1 5E1FAB6F
+P 13650 7500
+F 0 "D43" V 13696 7421 50  0000 R CNN
+F 1 "D" V 13605 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 13650 7500 50  0001 C CNN
+F 3 "~" H 13650 7500 50  0001 C CNN
+	1    13650 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K43
+U 1 1 5E1FAB79
+P 13350 7350
+F 0 "K43" H 13350 7583 60  0000 C CNN
+F 1 "KEYSW" H 13350 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 13350 7350 60  0001 C CNN
+F 3 "" H 13350 7350 60  0000 C CNN
+	1    13350 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D44
+U 1 1 5E1FAB83
+P 14500 7500
+F 0 "D44" V 14546 7421 50  0000 R CNN
+F 1 "D" V 14455 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 14500 7500 50  0001 C CNN
+F 3 "~" H 14500 7500 50  0001 C CNN
+	1    14500 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K44
+U 1 1 5E1FAB8D
+P 14200 7350
+F 0 "K44" H 14200 7583 60  0000 C CNN
+F 1 "KEYSW" H 14200 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 14200 7350 60  0001 C CNN
+F 3 "" H 14200 7350 60  0000 C CNN
+	1    14200 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D45
+U 1 1 5E1FAB97
+P 15300 7500
+F 0 "D45" V 15346 7421 50  0000 R CNN
+F 1 "D" V 15255 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 15300 7500 50  0001 C CNN
+F 3 "~" H 15300 7500 50  0001 C CNN
+	1    15300 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K45
+U 1 1 5E1FABA1
+P 15000 7350
+F 0 "K45" H 15000 7583 60  0000 C CNN
+F 1 "KEYSW" H 15000 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 15000 7350 60  0001 C CNN
+F 3 "" H 15000 7350 60  0000 C CNN
+	1    15000 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D46
+U 1 1 5E1FABAB
+P 16150 7500
+F 0 "D46" V 16196 7421 50  0000 R CNN
+F 1 "D" V 16105 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 16150 7500 50  0001 C CNN
+F 3 "~" H 16150 7500 50  0001 C CNN
+	1    16150 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K46
+U 1 1 5E1FABB5
+P 15850 7350
+F 0 "K46" H 15850 7583 60  0000 C CNN
+F 1 "KEYSW" H 15850 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 15850 7350 60  0001 C CNN
+F 3 "" H 15850 7350 60  0000 C CNN
+	1    15850 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D47
+U 1 1 5E1FABBF
+P 16950 7500
+F 0 "D47" V 16996 7421 50  0000 R CNN
+F 1 "D" V 16905 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 16950 7500 50  0001 C CNN
+F 3 "~" H 16950 7500 50  0001 C CNN
+	1    16950 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K47
+U 1 1 5E1FABC9
+P 16650 7350
+F 0 "K47" H 16650 7583 60  0000 C CNN
+F 1 "KEYSW" H 16650 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 16650 7350 60  0001 C CNN
+F 3 "" H 16650 7350 60  0000 C CNN
+	1    16650 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D48
+U 1 1 5E1FABD3
+P 17750 7500
+F 0 "D48" V 17796 7421 50  0000 R CNN
+F 1 "D" V 17705 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 17750 7500 50  0001 C CNN
+F 3 "~" H 17750 7500 50  0001 C CNN
+	1    17750 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K48
+U 1 1 5E1FABDD
+P 17450 7350
+F 0 "K48" H 17450 7583 60  0000 C CNN
+F 1 "KEYSW" H 17450 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 17450 7350 60  0001 C CNN
+F 3 "" H 17450 7350 60  0000 C CNN
+	1    17450 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D49
+U 1 1 5E1FABE7
+P 18600 7500
+F 0 "D49" V 18646 7421 50  0000 R CNN
+F 1 "D" V 18555 7421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 18600 7500 50  0001 C CNN
+F 3 "~" H 18600 7500 50  0001 C CNN
+	1    18600 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K49
+U 1 1 5E1FABF1
+P 18300 7350
+F 0 "K49" H 18300 7583 60  0000 C CNN
+F 1 "KEYSW" H 18300 7250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 18300 7350 60  0001 C CNN
+F 3 "" H 18300 7350 60  0000 C CNN
+	1    18300 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D50
+U 1 1 5E1FABFB
+P 13650 8150
+F 0 "D50" V 13696 8071 50  0000 R CNN
+F 1 "D" V 13605 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 13650 8150 50  0001 C CNN
+F 3 "~" H 13650 8150 50  0001 C CNN
+	1    13650 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K50
+U 1 1 5E1FAC05
+P 13350 8000
+F 0 "K50" H 13350 8233 60  0000 C CNN
+F 1 "KEYSW" H 13350 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 13350 8000 60  0001 C CNN
+F 3 "" H 13350 8000 60  0000 C CNN
+	1    13350 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D51
+U 1 1 5E1FAC0F
+P 14500 8150
+F 0 "D51" V 14546 8071 50  0000 R CNN
+F 1 "D" V 14455 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 14500 8150 50  0001 C CNN
+F 3 "~" H 14500 8150 50  0001 C CNN
+	1    14500 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K51
+U 1 1 5E1FAC19
+P 14200 8000
+F 0 "K51" H 14200 8233 60  0000 C CNN
+F 1 "KEYSW" H 14200 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 14200 8000 60  0001 C CNN
+F 3 "" H 14200 8000 60  0000 C CNN
+	1    14200 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D52
+U 1 1 5E1FAC23
+P 15300 8150
+F 0 "D52" V 15346 8071 50  0000 R CNN
+F 1 "D" V 15255 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 15300 8150 50  0001 C CNN
+F 3 "~" H 15300 8150 50  0001 C CNN
+	1    15300 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K52
+U 1 1 5E1FAC2D
+P 15000 8000
+F 0 "K52" H 15000 8233 60  0000 C CNN
+F 1 "KEYSW" H 15000 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 15000 8000 60  0001 C CNN
+F 3 "" H 15000 8000 60  0000 C CNN
+	1    15000 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D53
+U 1 1 5E1FAC37
+P 16150 8150
+F 0 "D53" V 16196 8071 50  0000 R CNN
+F 1 "D" V 16105 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 16150 8150 50  0001 C CNN
+F 3 "~" H 16150 8150 50  0001 C CNN
+	1    16150 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K53
+U 1 1 5E1FAC41
+P 15850 8000
+F 0 "K53" H 15850 8233 60  0000 C CNN
+F 1 "KEYSW" H 15850 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 15850 8000 60  0001 C CNN
+F 3 "" H 15850 8000 60  0000 C CNN
+	1    15850 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D54
+U 1 1 5E1FAC4B
+P 16950 8150
+F 0 "D54" V 16996 8071 50  0000 R CNN
+F 1 "D" V 16905 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 16950 8150 50  0001 C CNN
+F 3 "~" H 16950 8150 50  0001 C CNN
+	1    16950 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K54
+U 1 1 5E1FAC55
+P 16650 8000
+F 0 "K54" H 16650 8233 60  0000 C CNN
+F 1 "KEYSW" H 16650 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 16650 8000 60  0001 C CNN
+F 3 "" H 16650 8000 60  0000 C CNN
+	1    16650 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D55
+U 1 1 5E1FAC5F
+P 17750 8150
+F 0 "D55" V 17796 8071 50  0000 R CNN
+F 1 "D" V 17705 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 17750 8150 50  0001 C CNN
+F 3 "~" H 17750 8150 50  0001 C CNN
+	1    17750 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K55
+U 1 1 5E1FAC69
+P 17450 8000
+F 0 "K55" H 17450 8233 60  0000 C CNN
+F 1 "KEYSW" H 17450 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 17450 8000 60  0001 C CNN
+F 3 "" H 17450 8000 60  0000 C CNN
+	1    17450 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D56
+U 1 1 5E1FAC73
+P 18600 8150
+F 0 "D56" V 18646 8071 50  0000 R CNN
+F 1 "D" V 18555 8071 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 18600 8150 50  0001 C CNN
+F 3 "~" H 18600 8150 50  0001 C CNN
+	1    18600 8150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K56
+U 1 1 5E1FAC7D
+P 18300 8000
+F 0 "K56" H 18300 8233 60  0000 C CNN
+F 1 "KEYSW" H 18300 7900 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 18300 8000 60  0001 C CNN
+F 3 "" H 18300 8000 60  0000 C CNN
+	1    18300 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D57
+U 1 1 5E1FAC87
+P 13650 8800
+F 0 "D57" V 13696 8721 50  0000 R CNN
+F 1 "D" V 13605 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 13650 8800 50  0001 C CNN
+F 3 "~" H 13650 8800 50  0001 C CNN
+	1    13650 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K57
+U 1 1 5E1FAC91
+P 13350 8650
+F 0 "K57" H 13350 8883 60  0000 C CNN
+F 1 "KEYSW" H 13350 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 13350 8650 60  0001 C CNN
+F 3 "" H 13350 8650 60  0000 C CNN
+	1    13350 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D58
+U 1 1 5E1FAC9B
+P 14500 8800
+F 0 "D58" V 14546 8721 50  0000 R CNN
+F 1 "D" V 14455 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 14500 8800 50  0001 C CNN
+F 3 "~" H 14500 8800 50  0001 C CNN
+	1    14500 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K58
+U 1 1 5E1FACA5
+P 14200 8650
+F 0 "K58" H 14200 8883 60  0000 C CNN
+F 1 "KEYSW" H 14200 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 14200 8650 60  0001 C CNN
+F 3 "" H 14200 8650 60  0000 C CNN
+	1    14200 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D59
+U 1 1 5E1FACAF
+P 15300 8800
+F 0 "D59" V 15346 8721 50  0000 R CNN
+F 1 "D" V 15255 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 15300 8800 50  0001 C CNN
+F 3 "~" H 15300 8800 50  0001 C CNN
+	1    15300 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K59
+U 1 1 5E1FACB9
+P 15000 8650
+F 0 "K59" H 15000 8883 60  0000 C CNN
+F 1 "KEYSW" H 15000 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 15000 8650 60  0001 C CNN
+F 3 "" H 15000 8650 60  0000 C CNN
+	1    15000 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D60
+U 1 1 5E1FACC3
+P 16150 8800
+F 0 "D60" V 16196 8721 50  0000 R CNN
+F 1 "D" V 16105 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 16150 8800 50  0001 C CNN
+F 3 "~" H 16150 8800 50  0001 C CNN
+	1    16150 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K60
+U 1 1 5E1FACCD
+P 15850 8650
+F 0 "K60" H 15850 8883 60  0000 C CNN
+F 1 "KEYSW" H 15850 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 15850 8650 60  0001 C CNN
+F 3 "" H 15850 8650 60  0000 C CNN
+	1    15850 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D61
+U 1 1 5E1FACD7
+P 16950 8800
+F 0 "D61" V 16996 8721 50  0000 R CNN
+F 1 "D" V 16905 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 16950 8800 50  0001 C CNN
+F 3 "~" H 16950 8800 50  0001 C CNN
+	1    16950 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K61
+U 1 1 5E1FACE1
+P 16650 8650
+F 0 "K61" H 16650 8883 60  0000 C CNN
+F 1 "KEYSW" H 16650 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 16650 8650 60  0001 C CNN
+F 3 "" H 16650 8650 60  0000 C CNN
+	1    16650 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D62
+U 1 1 5E1FACEB
+P 17750 8800
+F 0 "D62" V 17796 8721 50  0000 R CNN
+F 1 "D" V 17705 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 17750 8800 50  0001 C CNN
+F 3 "~" H 17750 8800 50  0001 C CNN
+	1    17750 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K62
+U 1 1 5E1FACF5
+P 17450 8650
+F 0 "K62" H 17450 8883 60  0000 C CNN
+F 1 "KEYSW" H 17450 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 17450 8650 60  0001 C CNN
+F 3 "" H 17450 8650 60  0000 C CNN
+	1    17450 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D63
+U 1 1 5E1FACFF
+P 18600 8800
+F 0 "D63" V 18646 8721 50  0000 R CNN
+F 1 "D" V 18555 8721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 18600 8800 50  0001 C CNN
+F 3 "~" H 18600 8800 50  0001 C CNN
+	1    18600 8800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K63
+U 1 1 5E1FAD09
+P 18300 8650
+F 0 "K63" H 18300 8883 60  0000 C CNN
+F 1 "KEYSW" H 18300 8550 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 18300 8650 60  0001 C CNN
+F 3 "" H 18300 8650 60  0000 C CNN
+	1    18300 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D64
+U 1 1 5E1FAD13
+P 13650 9500
+F 0 "D64" V 13696 9421 50  0000 R CNN
+F 1 "D" V 13605 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 13650 9500 50  0001 C CNN
+F 3 "~" H 13650 9500 50  0001 C CNN
+	1    13650 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K64
+U 1 1 5E1FAD1D
+P 13350 9350
+F 0 "K64" H 13350 9583 60  0000 C CNN
+F 1 "KEYSW" H 13350 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 13350 9350 60  0001 C CNN
+F 3 "" H 13350 9350 60  0000 C CNN
+	1    13350 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D65
+U 1 1 5E1FAD27
+P 14500 9500
+F 0 "D65" V 14546 9421 50  0000 R CNN
+F 1 "D" V 14455 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 14500 9500 50  0001 C CNN
+F 3 "~" H 14500 9500 50  0001 C CNN
+	1    14500 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K65
+U 1 1 5E1FAD31
+P 14200 9350
+F 0 "K65" H 14200 9583 60  0000 C CNN
+F 1 "KEYSW" H 14200 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 14200 9350 60  0001 C CNN
+F 3 "" H 14200 9350 60  0000 C CNN
+	1    14200 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D66
+U 1 1 5E1FAD3B
+P 15300 9500
+F 0 "D66" V 15346 9421 50  0000 R CNN
+F 1 "D" V 15255 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 15300 9500 50  0001 C CNN
+F 3 "~" H 15300 9500 50  0001 C CNN
+	1    15300 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K66
+U 1 1 5E1FAD45
+P 15000 9350
+F 0 "K66" H 15000 9583 60  0000 C CNN
+F 1 "KEYSW" H 15000 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 15000 9350 60  0001 C CNN
+F 3 "" H 15000 9350 60  0000 C CNN
+	1    15000 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D67
+U 1 1 5E1FAD4F
+P 16150 9500
+F 0 "D67" V 16196 9421 50  0000 R CNN
+F 1 "D" V 16105 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 16150 9500 50  0001 C CNN
+F 3 "~" H 16150 9500 50  0001 C CNN
+	1    16150 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K67
+U 1 1 5E1FAD59
+P 15850 9350
+F 0 "K67" H 15850 9583 60  0000 C CNN
+F 1 "KEYSW" H 15850 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 15850 9350 60  0001 C CNN
+F 3 "" H 15850 9350 60  0000 C CNN
+	1    15850 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D68
+U 1 1 5E1FAD63
+P 16950 9500
+F 0 "D68" V 16996 9421 50  0000 R CNN
+F 1 "D" V 16905 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 16950 9500 50  0001 C CNN
+F 3 "~" H 16950 9500 50  0001 C CNN
+	1    16950 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D69
+U 1 1 5E1FAD6D
+P 17750 9500
+F 0 "D69" V 17796 9421 50  0000 R CNN
+F 1 "D" V 17705 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 17750 9500 50  0001 C CNN
+F 3 "~" H 17750 9500 50  0001 C CNN
+	1    17750 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K69
+U 1 1 5E1FAD77
+P 17450 9350
+F 0 "K69" H 17450 9583 60  0000 C CNN
+F 1 "KEYSW" H 17450 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 17450 9350 60  0001 C CNN
+F 3 "" H 17450 9350 60  0000 C CNN
+	1    17450 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D70
+U 1 1 5E1FAD81
+P 18600 9500
+F 0 "D70" V 18646 9421 50  0000 R CNN
+F 1 "D" V 18555 9421 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 18600 9500 50  0001 C CNN
+F 3 "~" H 18600 9500 50  0001 C CNN
+	1    18600 9500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13900 6700 13900 7350
+Wire Wire Line
+	13900 8000 13900 7350
+Connection ~ 13900 7350
+Connection ~ 13900 8000
+Wire Wire Line
+	13900 9350 13900 8650
+Connection ~ 13900 8650
+Wire Wire Line
+	13050 8650 13050 9350
+Wire Wire Line
+	13050 8650 13050 8000
+Connection ~ 13050 8650
+Wire Wire Line
+	13050 8000 13050 7350
+Connection ~ 13050 8000
+Wire Wire Line
+	13050 7350 13050 6700
+Connection ~ 13050 7350
+Wire Wire Line
+	14700 6700 14700 7350
+Wire Wire Line
+	14700 7350 14700 8000
+Connection ~ 14700 7350
+Wire Wire Line
+	14700 8000 14700 8650
+Connection ~ 14700 8000
+Wire Wire Line
+	14700 8650 14700 9350
+Connection ~ 14700 8650
+Wire Wire Line
+	15550 8650 15550 9350
+Wire Wire Line
+	15550 8650 15550 8000
+Connection ~ 15550 8650
+Wire Wire Line
+	15550 8000 15550 7350
+Connection ~ 15550 8000
+Wire Wire Line
+	15550 7350 15550 6700
+Connection ~ 15550 7350
+Wire Wire Line
+	16350 6700 16350 7350
+Wire Wire Line
+	16350 7350 16350 8000
+Connection ~ 16350 7350
+Wire Wire Line
+	16350 8000 16350 8650
+Connection ~ 16350 8000
+Wire Wire Line
+	16350 8650 16350 9350
+Connection ~ 16350 8650
+Wire Wire Line
+	17150 9350 17150 8650
+Wire Wire Line
+	17150 8650 17150 8000
+Connection ~ 17150 8650
+Wire Wire Line
+	17150 7350 17150 8000
+Connection ~ 17150 8000
+Wire Wire Line
+	17150 7350 17150 6700
+Connection ~ 17150 7350
+Wire Wire Line
+	18000 6700 18000 7350
+Wire Wire Line
+	18000 7350 18000 8000
+Connection ~ 18000 7350
+Wire Wire Line
+	18000 8000 18000 8650
+Connection ~ 18000 8000
+Wire Wire Line
+	18000 8650 18000 9350
+Connection ~ 18000 8650
+Wire Wire Line
+	13650 7000 14500 7000
+Wire Wire Line
+	14500 7000 15300 7000
+Connection ~ 14500 7000
+Wire Wire Line
+	15300 7000 16150 7000
+Connection ~ 15300 7000
+Wire Wire Line
+	16150 7000 16950 7000
+Connection ~ 16150 7000
+Wire Wire Line
+	17750 7000 16950 7000
+Connection ~ 16950 7000
+Wire Wire Line
+	17750 7000 18600 7000
+Connection ~ 17750 7000
+Wire Wire Line
+	18600 7650 17750 7650
+Wire Wire Line
+	16950 7650 17750 7650
+Connection ~ 17750 7650
+Wire Wire Line
+	16950 7650 16150 7650
+Connection ~ 16950 7650
+Wire Wire Line
+	16150 7650 15300 7650
+Connection ~ 16150 7650
+Wire Wire Line
+	15300 7650 14500 7650
+Connection ~ 15300 7650
+Wire Wire Line
+	14500 7650 13650 7650
+Connection ~ 14500 7650
+Wire Wire Line
+	13650 8300 14500 8300
+Wire Wire Line
+	14500 8300 15300 8300
+Connection ~ 14500 8300
+Wire Wire Line
+	15300 8300 16150 8300
+Connection ~ 15300 8300
+Wire Wire Line
+	16150 8300 16950 8300
+Connection ~ 16150 8300
+Wire Wire Line
+	16950 8300 17750 8300
+Connection ~ 16950 8300
+Wire Wire Line
+	17750 8300 18600 8300
+Connection ~ 17750 8300
+Wire Wire Line
+	18600 8950 17750 8950
+Wire Wire Line
+	17750 8950 16950 8950
+Connection ~ 17750 8950
+Wire Wire Line
+	16950 8950 16150 8950
+Connection ~ 16950 8950
+Wire Wire Line
+	15300 8950 16150 8950
+Connection ~ 16150 8950
+Wire Wire Line
+	15300 8950 14500 8950
+Connection ~ 15300 8950
+Wire Wire Line
+	14500 8950 13650 8950
+Connection ~ 14500 8950
+Wire Wire Line
+	13650 9650 14500 9650
+Wire Wire Line
+	14500 9650 15300 9650
+Connection ~ 14500 9650
+Wire Wire Line
+	15300 9650 16150 9650
+Connection ~ 15300 9650
+Wire Wire Line
+	16150 9650 16950 9650
+Connection ~ 16150 9650
+Wire Wire Line
+	16950 9650 17750 9650
+Connection ~ 16950 9650
+Wire Wire Line
+	17750 9650 18600 9650
+Connection ~ 17750 9650
+Wire Wire Line
+	18000 6700 18000 6450
+Connection ~ 18000 6700
+Wire Wire Line
+	17150 6700 17150 6450
+Connection ~ 17150 6700
+Wire Wire Line
+	16350 6700 16350 6450
+Connection ~ 16350 6700
+Wire Wire Line
+	15550 6700 15550 6450
+Connection ~ 15550 6700
+Wire Wire Line
+	14700 6700 14700 6450
+Connection ~ 14700 6700
+Wire Wire Line
+	13900 6700 13900 6450
+Connection ~ 13900 6700
+Wire Wire Line
+	13050 6700 13050 6450
+Connection ~ 13050 6700
+Text Label 13050 6450 2    50   ~ 0
+col0R
+Text Label 13900 6450 2    50   ~ 0
+col1R
+Text Label 14700 6450 2    50   ~ 0
+col2R
+Text Label 15550 6450 2    50   ~ 0
+col3R
+Text Label 16350 6450 2    50   ~ 0
+col4R
+Text Label 17150 6450 2    50   ~ 0
+col5R
+Text Label 18000 6450 2    50   ~ 0
+col6R
+Text Label 18600 7000 0    50   ~ 0
+row0R
+Text Label 18600 7650 0    50   ~ 0
+row1R
+Text Label 18600 8300 0    50   ~ 0
+row2R
+Text Label 18600 8950 0    50   ~ 0
+row3R
+Text Label 18600 9650 0    50   ~ 0
+row4R
+$Comp
+L Legonut_Library:KEYSW K68
+U 1 1 5E1FAE0C
+P 16650 9350
+F 0 "K68" H 16650 9583 60  0000 C CNN
+F 1 "KEYSW" H 16650 9250 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 16650 9350 60  0001 C CNN
+F 3 "" H 16650 9350 60  0000 C CNN
+	1    16650 9350
+	1    0    0    -1  
+$EndComp
+Text Label 16950 9350 0    50   ~ 0
+k68R
+Text Label 17750 9350 0    50   ~ 0
+k69R
+$Comp
+L Legonut_Library:KEYSW K74
+U 1 1 5E1FAE18
+P 17450 10100
+F 0 "K74" H 17450 10333 60  0000 C CNN
+F 1 "KEYSW" H 17450 10000 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 17450 10100 60  0001 C CNN
+F 3 "" H 17450 10100 60  0000 C CNN
+	1    17450 10100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Legonut_Library:KEYSW K73
+U 1 1 5E1FAE22
+P 16650 10100
+F 0 "K73" H 16650 10333 60  0000 C CNN
+F 1 "KEYSW" H 16650 10000 60  0001 C CNN
+F 2 "Legonut's Library:Mx_100_HS" H 16650 10100 60  0001 C CNN
+F 3 "" H 16650 10100 60  0000 C CNN
+	1    16650 10100
+	1    0    0    -1  
+$EndComp
+Text Label 16950 10100 0    50   ~ 0
+k68R
+Text Label 17750 10100 0    50   ~ 0
+k69R
+Wire Wire Line
+	17150 9350 17150 10100
+Connection ~ 17150 9350
+Wire Wire Line
+	16350 9350 16350 10100
+Connection ~ 16350 9350
+$Comp
+L Legonut_Library:2Ustabilizer S4
+U 1 1 5E1FAE32
+P 18150 10050
+F 0 "S4" H 18378 10103 60  0000 L CNN
+F 1 "2Ustabilizer" H 18378 9997 60  0000 L CNN
+F 2 "Legonut's Library:STAB_PCB_200H" H 18150 10050 60  0001 C CNN
+F 3 "" H 18150 10050 60  0001 C CNN
+	1    18150 10050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Legonut_Library:2Ustabilizer S3
+U 1 1 5E1FAE3C
+P 18150 9800
+F 0 "S3" H 18378 9853 60  0000 L CNN
+F 1 "2Ustabilizer" H 18378 9747 60  0000 L CNN
+F 2 "Legonut's Library:STAB_PCB_200H" H 18150 9800 60  0001 C CNN
+F 3 "" H 18150 9800 60  0001 C CNN
+	1    18150 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Crystal_GND24 Y2
+U 1 1 5E1FAE46
+P 13750 5450
+F 0 "Y2" H 13800 5750 50  0000 L CNN
+F 1 "8MHz" H 13800 5650 50  0000 L CNN
+F 2 "Crystal:Crystal_SMD_5032-4Pin_5.0x3.2mm" H 13750 5450 50  0001 C CNN
+F 3 "~" H 13750 5450 50  0001 C CNN
+	1    13750 5450
+	1    0    0    -1  
+$EndComp
+Text Label 13750 5250 1    50   ~ 0
+GNDR
+Text Label 13750 5750 3    50   ~ 0
+GNDR
+$Comp
+L Device:C C61
+U 1 1 5E1FAE52
+P 13400 5600
+F 0 "C61" H 13515 5646 50  0000 L CNN
+F 1 "22pF" H 13515 5555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 13438 5450 50  0001 C CNN
+F 3 "~" H 13400 5600 50  0001 C CNN
+	1    13400 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C62
+U 1 1 5E1FAE5C
+P 14100 5600
+F 0 "C62" H 14215 5646 50  0000 L CNN
+F 1 "22pF" H 14215 5555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 14138 5450 50  0001 C CNN
+F 3 "~" H 14100 5600 50  0001 C CNN
+	1    14100 5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13400 5750 13750 5750
+Wire Wire Line
+	13750 5650 13750 5750
+Connection ~ 13750 5750
+Wire Wire Line
+	13750 5750 14100 5750
+Wire Wire Line
+	14100 5450 13900 5450
+Wire Wire Line
+	13600 5450 13400 5450
+Text Label 13400 5450 1    50   ~ 0
+XTAL2R
+Text Label 14100 5450 1    50   ~ 0
+XTAL1R
+Text Label 13150 4250 1    50   ~ 0
+3.3VR
+Text Label 13450 4250 1    50   ~ 0
+GNDR
+$Comp
+L Device:C C57
+U 1 1 5E1FAE70
+P 13300 4250
+F 0 "C57" V 13300 3950 50  0000 C CNN
+F 1 "100nF" V 13300 4550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 13338 4100 50  0001 C CNN
+F 3 "~" H 13300 4250 50  0001 C CNN
+	1    13300 4250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C58
+U 1 1 5E1FAE7A
+P 13300 4450
+F 0 "C58" V 13300 4150 50  0000 C CNN
+F 1 "100nF" V 13300 4750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 13338 4300 50  0001 C CNN
+F 3 "~" H 13300 4450 50  0001 C CNN
+	1    13300 4450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C59
+U 1 1 5E1FAE84
+P 13300 4650
+F 0 "C59" V 13300 4350 50  0000 C CNN
+F 1 "100nF" V 13300 4950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 13338 4500 50  0001 C CNN
+F 3 "~" H 13300 4650 50  0001 C CNN
+	1    13300 4650
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C60
+U 1 1 5E1FAE8E
+P 13300 4850
+F 0 "C60" V 13300 4550 50  0000 C CNN
+F 1 "4.7uF" V 13300 5150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 13338 4700 50  0001 C CNN
+F 3 "~" H 13300 4850 50  0001 C CNN
+	1    13300 4850
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	13150 4250 13150 4450
+Wire Wire Line
+	13150 4450 13150 4650
+Connection ~ 13150 4450
+Wire Wire Line
+	13150 4650 13150 4850
+Connection ~ 13150 4650
+Wire Wire Line
+	13450 4850 13450 4650
+Wire Wire Line
+	13450 4650 13450 4450
+Connection ~ 13450 4650
+Wire Wire Line
+	13450 4450 13450 4250
+Connection ~ 13450 4450
+Text Label 16600 3450 2    50   ~ 0
+5VR
+$Comp
+L Regulator_Linear:MCP1700-3302E_SOT23 U3
+U 1 1 5E1FAEA3
+P 16900 3450
+F 0 "U3" H 16900 3692 50  0000 C CNN
+F 1 "MCP1700-3302E_SOT23" H 16900 3601 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 16900 3675 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf" H 16900 3450 50  0001 C CNN
+	1    16900 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C55
+U 1 1 5E1FAEAD
+P 17200 3600
+F 0 "C55" H 17150 3700 50  0000 C CNN
+F 1 "100nF" V 17200 3900 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 17238 3450 50  0001 C CNN
+F 3 "~" H 17200 3600 50  0001 C CNN
+	1    17200 3600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:C C54
+U 1 1 5E1FAEB7
+P 16600 3600
+F 0 "C54" H 16650 3700 50  0000 C CNN
+F 1 "100nF" V 16600 3900 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 16638 3450 50  0001 C CNN
+F 3 "~" H 16600 3600 50  0001 C CNN
+	1    16600 3600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	17200 3750 16900 3750
+Wire Wire Line
+	16900 3750 16600 3750
+Connection ~ 16900 3750
+Text Label 16900 3750 3    50   ~ 0
+GNDR
+Connection ~ 16600 3450
+$Comp
+L Diode:1N4007 DS2
+U 1 1 5E1FAEC6
+P 16900 3100
+F 0 "DS2" H 16900 3316 50  0000 C CNN
+F 1 "1N4007" H 16900 3225 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123F" H 16900 2925 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 16900 3100 50  0001 C CNN
+	1    16900 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	17200 3450 17200 3100
+Wire Wire Line
+	17200 3100 17050 3100
+Connection ~ 17200 3450
+Wire Wire Line
+	16600 3450 16600 3100
+Wire Wire Line
+	16600 3100 16750 3100
+Text Label 17200 3450 0    50   ~ 0
+3.3VR
+$Comp
+L Connector:USB_C_Receptacle J9
+U 1 1 5E1FAEE0
+P 17250 1550
+F 0 "J9" V 16750 1000 50  0000 L CNN
+F 1 "USB_C_Receptacle" V 16750 1200 50  0000 L CNN
+F 2 "Legonut's Library:HRO-TYPE-C-31-M-14" H 17400 1550 50  0001 C CNN
+F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 17400 1550 50  0001 C CNN
+	1    17250 1550
+	0    1    1    0   
+$EndComp
+Text Label 14800 5000 2    50   ~ 0
+SDA1R_3.3V
+Text Label 14800 4900 2    50   ~ 0
+SCL1R_3.3V
+Text Label 16100 5050 0    50   ~ 0
+SCL2R
+Text Label 16100 5150 0    50   ~ 0
+SDA2R
+Text Label 14800 3700 2    50   ~ 0
+XTAL2R
+Text Label 14800 3600 2    50   ~ 0
+XTAL1R
+Text Label 15600 6000 3    50   ~ 0
+GNDR
+Text Label 15300 3000 1    50   ~ 0
+3.3VR
+Text Label 16900 5350 0    50   ~ 0
+D+R
+Text Label 16900 5250 0    50   ~ 0
+D-R
+$Comp
+L Legonut_Library:STM32F303CCT6 U4
+U 1 1 5E1FAEFB
+P 15500 4500
+F 0 "U4" H 14950 2950 50  0000 C CNN
+F 1 "STM32F303CCT6" H 14900 3050 50  0000 C CNN
+F 2 "Package_QFP:LQFP-48_7x7mm_P0.5mm" H 14900 3100 50  0001 R CNN
+F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf" H 15500 4500 50  0001 C CNN
+	1    15500 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mun-rescue:SW_Push_DPDT-Switch SW5
+U 1 1 5E1FAF05
+P 18000 4800
+F 0 "SW5" H 18000 5300 50  0000 C CNN
+F 1 "JS202011JAQN" H 18000 5200 50  0000 C CNN
+F 2 "Legonut's Library:DPDT-SM" H 18000 5000 50  0001 C CNN
+F 3 "~" H 18000 5000 50  0001 C CNN
+	1    18000 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mun-rescue:SW_Push_DPDT-Switch SW6
+U 1 1 5E1FAF0F
+P 18850 4800
+F 0 "SW6" H 18850 5300 50  0000 C CNN
+F 1 "JS202011JAQN" H 18850 5200 50  0000 C CNN
+F 2 "Legonut's Library:DPDT-SM" H 18850 5000 50  0001 C CNN
+F 3 "~" H 18850 5000 50  0001 C CNN
+	1    18850 4800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	17450 2150 17450 2200
+Wire Wire Line
+	17450 2200 17550 2200
+Wire Wire Line
+	17550 2200 17550 2150
+Wire Wire Line
+	17650 2150 17650 2300
+Wire Wire Line
+	17650 2300 17750 2300
+Wire Wire Line
+	17750 2300 17750 2150
+Wire Wire Line
+	14300 2150 14300 2200
+Wire Wire Line
+	14300 2200 14400 2200
+Wire Wire Line
+	14400 2200 14400 2150
+Wire Wire Line
+	14500 2150 14500 2300
+Wire Wire Line
+	14500 2300 14600 2300
+Wire Wire Line
+	14600 2300 14600 2150
+Text Label 17450 2200 3    50   ~ 0
+AB6_RR
+Text Label 17650 2300 3    50   ~ 0
+AB7_RR
+Text Label 14500 2300 3    50   ~ 0
+AB7_LR
+Text Label 14300 2200 3    50   ~ 0
+AB6_LR
+Text Label 19050 4500 0    50   ~ 0
+SCL2R
+Text Label 19050 4900 0    50   ~ 0
+SDA2R
+NoConn ~ 13200 2150
+NoConn ~ 13100 2150
+NoConn ~ 12900 2150
+NoConn ~ 12800 2150
+NoConn ~ 13400 2150
+NoConn ~ 13500 2150
+NoConn ~ 13700 2150
+NoConn ~ 13800 2150
+NoConn ~ 14000 2150
+NoConn ~ 14100 2150
+NoConn ~ 15950 2150
+NoConn ~ 16050 2150
+NoConn ~ 16250 2150
+NoConn ~ 16350 2150
+NoConn ~ 16550 2150
+NoConn ~ 16650 2150
+NoConn ~ 16850 2150
+NoConn ~ 16950 2150
+NoConn ~ 17150 2150
+NoConn ~ 17250 2150
+Text Label 15100 2150 0    50   ~ 0
+5VR
+Text Label 18250 2150 0    50   ~ 0
+5VR
+$Comp
+L Device:R R8
+U 1 1 5E1FAF41
+P 14800 2300
+F 0 "R8" H 14950 2250 50  0000 R CNN
+F 1 "5.1k" H 15000 2350 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 14730 2300 50  0001 C CNN
+F 3 "~" H 14800 2300 50  0001 C CNN
+	1    14800 2300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R9
+U 1 1 5E1FAF4B
+P 14900 2300
+F 0 "R9" H 15050 2250 50  0000 R CNN
+F 1 "5.1k" H 15100 2350 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 14830 2300 50  0001 C CNN
+F 3 "~" H 14900 2300 50  0001 C CNN
+	1    14900 2300
+	1    0    0    -1  
+$EndComp
+Text Label 12500 1550 2    50   ~ 0
+GNDR
+Text Label 14800 2450 3    50   ~ 0
+GNDR
+Text Label 14900 2450 3    50   ~ 0
+GNDR
+$Comp
+L Device:R R11
+U 1 1 5E1FAF58
+P 18050 2300
+F 0 "R11" H 18200 2250 50  0000 R CNN
+F 1 "5.1k" H 18250 2350 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 17980 2300 50  0001 C CNN
+F 3 "~" H 18050 2300 50  0001 C CNN
+	1    18050 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R10
+U 1 1 5E1FAF62
+P 17950 2300
+F 0 "R10" H 18100 2250 50  0000 R CNN
+F 1 "5.1k" H 18150 2350 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 17880 2300 50  0001 C CNN
+F 3 "~" H 17950 2300 50  0001 C CNN
+	1    17950 2300
+	-1   0    0    1   
+$EndComp
+Text Label 18050 2450 3    50   ~ 0
+GNDR
+Text Label 17950 2450 3    50   ~ 0
+GNDR
+Text Label 15650 1550 2    50   ~ 0
+GNDR
+Text Label 12500 1250 2    50   ~ 0
+GNDR
+Text Label 15650 1250 2    50   ~ 0
+GNDR
+$Comp
+L Legonut_Library:encoder E6
+U 1 1 5E1FAF71
+P 19600 6700
+F 0 "E6" H 19600 7000 60  0000 C CNN
+F 1 "encoder" H 19600 6900 60  0000 C CNN
+F 2 "Legonut's Library:encoder" V 19595 6695 60  0001 C CNN
+F 3 "" V 19595 6695 60  0001 C CNN
+	1    19600 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Legonut_Library:encoder E9
+U 1 1 5E1FAF7B
+P 19600 8350
+F 0 "E9" H 19600 8650 60  0000 C CNN
+F 1 "encoder" H 19600 8550 60  0000 C CNN
+F 2 "Legonut's Library:encoder" V 19595 8345 60  0001 C CNN
+F 3 "" V 19595 8345 60  0001 C CNN
+	1    19600 8350
+	1    0    0    -1  
+$EndComp
+Text Label 19850 6700 0    50   ~ 0
+GNDR
+Text Label 19850 8350 0    50   ~ 0
+GNDR
+$Comp
+L Legonut_Library:encoder E7
+U 1 1 5E1FAF87
+P 19600 7250
+F 0 "E7" H 19600 7550 60  0000 C CNN
+F 1 "encoder" H 19600 7450 60  0000 C CNN
+F 2 "Legonut's Library:encoder" V 19595 7245 60  0001 C CNN
+F 3 "" V 19595 7245 60  0001 C CNN
+	1    19600 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Legonut_Library:encoder E10
+U 1 1 5E1FAF91
+P 19600 9150
+F 0 "E10" H 19600 9450 60  0000 C CNN
+F 1 "encoder" H 19600 9350 60  0000 C CNN
+F 2 "Legonut's Library:encoder" V 19595 9145 60  0001 C CNN
+F 3 "" V 19595 9145 60  0001 C CNN
+	1    19600 9150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Legonut_Library:encoder E8
+U 1 1 5E1FAF9B
+P 19600 7800
+F 0 "E8" H 19600 8100 60  0000 C CNN
+F 1 "encoder" H 19600 8000 60  0000 C CNN
+F 2 "Legonut's Library:encoder" V 19595 7795 60  0001 C CNN
+F 3 "" V 19595 7795 60  0001 C CNN
+	1    19600 7800
+	1    0    0    -1  
+$EndComp
+Text Label 19850 7250 0    50   ~ 0
+GNDR
+Text Label 19850 7800 0    50   ~ 0
+GNDR
+Text Label 19850 9150 0    50   ~ 0
+GNDR
+Text Label 19350 6650 2    50   ~ 0
+col6R
+Text Label 19350 7200 2    50   ~ 0
+col6R
+Text Label 19350 8300 2    50   ~ 0
+col6R
+Text Label 19350 7750 2    50   ~ 0
+col6R
+Text Label 18600 6700 0    50   ~ 0
+k42R
+Text Label 18600 7350 0    50   ~ 0
+k49R
+Text Label 18600 8000 0    50   ~ 0
+k56R
+Text Label 18600 8650 0    50   ~ 0
+k63R
+Text Label 16150 9350 0    50   ~ 0
+k67R
+Text Label 19350 9100 2    50   ~ 0
+col3R
+Text Label 19350 9200 2    50   ~ 0
+k67R
+Text Label 19350 8400 2    50   ~ 0
+k63R
+Text Label 19350 7850 2    50   ~ 0
+k56R
+Text Label 19350 7300 2    50   ~ 0
+k49R
+Text Label 19350 6750 2    50   ~ 0
+k42R
+Text Label 19850 6800 0    50   ~ 0
+enc_1BR
+Text Label 19850 7350 0    50   ~ 0
+enc_1BR
+Text Label 19850 7900 0    50   ~ 0
+enc_1BR
+Text Label 19850 8450 0    50   ~ 0
+enc_1BR
+Text Label 19850 9250 0    50   ~ 0
+enc_2BR
+Text Label 19850 9050 0    50   ~ 0
+enc_2AR
+Text Label 19850 8250 0    50   ~ 0
+enc_1AR
+Text Label 19850 7700 0    50   ~ 0
+enc_1AR
+Text Label 19850 7150 0    50   ~ 0
+enc_1AR
+Text Label 19850 6600 0    50   ~ 0
+enc_1AR
+Text Label 14800 5100 2    50   ~ 0
+enc_1AR
+Text Label 14800 5200 2    50   ~ 0
+enc_2AR
+Text Label 16100 5550 0    50   ~ 0
+enc_1BR
+Text Label 16100 5650 0    50   ~ 0
+enc_2BR
+Text Label 16100 4150 0    50   ~ 0
+col0R
+Text Label 14800 5400 2    50   ~ 0
+col1R
+Text Label 14800 4300 2    50   ~ 0
+col2R
+Text Label 14800 5500 2    50   ~ 0
+col4R
+Text Label 14800 4500 2    50   ~ 0
+col5R
+Text Label 16100 4950 0    50   ~ 0
+col6R
+Text Label 16100 4250 0    50   ~ 0
+row0R
+Text Label 14800 4600 2    50   ~ 0
+row2R
+Text Label 16100 5450 0    50   ~ 0
+row3R
+Text Label 14800 5800 2    50   ~ 0
+row4R
+$Comp
+L Transistor_BJT:DTC123J Q2
+U 1 1 5E1FAFCF
+P 13600 3450
+F 0 "Q2" V 13925 3450 50  0000 C CNN
+F 1 "DTC123J" V 13834 3450 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 13600 3450 50  0001 R CNN
+F 3 "" H 13600 3450 50  0001 L CNN
+	1    13600 3450
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	14800 3200 14400 3200
+Wire Wire Line
+	14400 3200 14400 3350
+Wire Wire Line
+	14400 3350 13800 3350
+Wire Wire Line
+	13900 3800 13900 3400
+$Comp
+L Device:R R12
+U 1 1 5E1FAFE7
+P 14050 3550
+F 0 "R12" H 13980 3504 50  0000 R CNN
+F 1 "100k" H 13980 3595 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 13980 3550 50  0001 C CNN
+F 3 "~" H 14050 3550 50  0001 C CNN
+	1    14050 3550
+	-1   0    0    1   
+$EndComp
+Connection ~ 14050 3400
+$Comp
+L Device:C C56
+U 1 1 5E1FAFF2
+P 14300 3850
+F 0 "C56" H 14415 3896 50  0000 L CNN
+F 1 "10uF" H 14415 3805 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 14338 3700 50  0001 C CNN
+F 3 "~" H 14300 3850 50  0001 C CNN
+	1    14300 3850
+	1    0    0    -1  
+$EndComp
+Connection ~ 14300 3400
+Wire Wire Line
+	14300 3400 14800 3400
+Wire Wire Line
+	13600 3700 13600 3800
+$Comp
+L Device:C C53
+U 1 1 5E1FAFFF
+P 14250 3200
+F 0 "C53" V 13998 3200 50  0000 C CNN
+F 1 "4.7nF" V 14089 3200 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 14288 3050 50  0001 C CNN
+F 3 "~" H 14250 3200 50  0001 C CNN
+	1    14250 3200
+	0    1    1    0   
+$EndComp
+Connection ~ 14400 3200
+Text Label 14100 3200 2    50   ~ 0
+GNDR
+Text Label 13400 3350 2    50   ~ 0
+GNDR
+$Comp
+L Switch:SW_Push SW4
+U 1 1 5E1FB00C
+P 13300 3800
+F 0 "SW4" H 13300 4085 50  0000 C CNN
+F 1 "TS5215A" H 13300 3994 50  0000 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_TL3342" H 13300 4000 50  0001 C CNN
+F 3 "~" H 13300 4000 50  0001 C CNN
+	1    13300 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13500 3800 13600 3800
+Connection ~ 13600 3800
+Text Label 13100 3800 2    50   ~ 0
+3.3VR
+Wire Wire Line
+	14050 3400 14300 3400
+Wire Wire Line
+	14300 3400 14300 3700
+Wire Wire Line
+	13900 3400 14050 3400
+Text Label 14800 4800 2    50   ~ 0
+RGBR_3.3V
+Text Label 14800 4700 2    50   ~ 0
+PB4R_3.3V
+$Comp
+L Connector_Generic:Conn_01x06 J12
+U 1 1 5E1FB038
+P 18300 5700
+F 0 "J12" H 18380 5692 50  0000 L CNN
+F 1 "Conn_01x06" V 18500 5450 50  0000 L CNN
+F 2 "Legonut's Library:00-9188-006spring" H 18300 5700 50  0001 C CNN
+F 3 "~" H 18300 5700 50  0001 C CNN
+	1    18300 5700
+	1    0    0    -1  
+$EndComp
+Text Label 18100 5500 2    50   ~ 0
+5VR
+Text Label 18100 5900 2    50   ~ 0
+GNDR
+$Comp
+L Connector_Generic:Conn_01x04 J10
+U 1 1 5E1FB047
+P 18750 3250
+F 0 "J10" H 18830 3242 50  0000 L CNN
+F 1 "Conn_01x04" H 18830 3151 50  0000 L CNN
+F 2 "Legonut's Library:Landingpad_Horizontal_1x4" H 18750 3250 50  0001 C CNN
+F 3 "~" H 18750 3250 50  0001 C CNN
+	1    18750 3250
+	1    0    0    -1  
+$EndComp
+Text Label 18550 3450 2    50   ~ 0
+GNDR
+$Comp
+L Device:R_Small R13
+U 1 1 5E1FB055
+P 16300 5250
+F 0 "R13" V 16104 5250 50  0000 C CNN
+F 1 "22" V 16195 5250 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 16300 5250 50  0001 C CNN
+F 3 "~" H 16300 5250 50  0001 C CNN
+	1    16300 5250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R14
+U 1 1 5E1FB05F
+P 16300 5350
+F 0 "R14" V 16104 5350 50  0000 C CNN
+F 1 "22" V 16195 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 16300 5350 50  0001 C CNN
+F 3 "~" H 16300 5350 50  0001 C CNN
+	1    16300 5350
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D_Small DS8
+U 1 1 5E1FB069
+P 16500 5450
+F 0 "DS8" V 16454 5518 50  0000 L CNN
+F 1 "GG0402052R542P" V 16545 5518 50  0000 L CNN
+F 2 "Diode_SMD:D_0402_1005Metric" V 16500 5450 50  0001 C CNN
+F 3 "~" V 16500 5450 50  0001 C CNN
+	1    16500 5450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D_Small DS7
+U 1 1 5E1FB073
+P 16500 5150
+F 0 "DS7" V 16546 5082 50  0000 R CNN
+F 1 "GG0402052R542P" V 16455 5082 50  0000 R CNN
+F 2 "Diode_SMD:D_0402_1005Metric" V 16500 5150 50  0001 C CNN
+F 3 "~" V 16500 5150 50  0001 C CNN
+	1    16500 5150
+	0    -1   -1   0   
+$EndComp
+Text Label 16500 5550 3    50   ~ 0
+GNDR
+Text Label 16500 5050 1    50   ~ 0
+GNDR
+Wire Wire Line
+	16100 5250 16200 5250
+Wire Wire Line
+	16100 5350 16200 5350
+Wire Wire Line
+	16400 5250 16500 5250
+Wire Wire Line
+	16900 5250 16500 5250
+Connection ~ 16500 5250
+Wire Wire Line
+	16400 5350 16500 5350
+Wire Wire Line
+	16500 5350 16800 5350
+Connection ~ 16500 5350
+$Comp
+L Connector_Generic:Conn_01x04 J11
+U 1 1 5E1FB087
+P 18650 3800
+F 0 "J11" H 18730 3792 50  0000 L CNN
+F 1 "Conn_01x04" H 18730 3701 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 18650 3800 50  0001 C CNN
+F 3 "~" H 18650 3800 50  0001 C CNN
+	1    18650 3800
+	-1   0    0    1   
+$EndComp
+Text Label 18850 3900 0    50   ~ 0
+GNDR
+Text Label 17800 5000 2    50   ~ 0
+AB6_RR
+Text Label 17800 4600 2    50   ~ 0
+AB7_RR
+Text Label 18650 5000 2    50   ~ 0
+AB6_LR
+Text Label 18200 4900 0    50   ~ 0
+D+R
+Text Label 18650 4600 2    50   ~ 0
+AB7_LR
+Text Label 18200 4500 0    50   ~ 0
+D-R
+Text Label 19050 5100 0    50   ~ 0
+D+R
+Text Label 19050 4700 0    50   ~ 0
+D-R
+Text Label 18200 5100 0    50   ~ 0
+SDA2R
+Text Label 18200 4700 0    50   ~ 0
+SCL2R
+Text Label 14800 5300 2    50   ~ 0
+col3R
+Text Label 16100 4450 0    50   ~ 0
+row1R
+$Comp
+L Legonut_Library:WS2812B LED50
+U 1 1 5E1FB0A1
+P 13500 11000
+F 0 "LED50" H 13500 10513 60  0000 C CNN
+F 1 "WS2812B" H 13500 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 13450 11000 60  0001 C CNN
+F 3 "" V 13450 11000 60  0000 C CNN
+	1    13500 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED51
+U 1 1 5E1FB0AB
+P 14750 11000
+F 0 "LED51" H 14750 10513 60  0000 C CNN
+F 1 "WS2812B" H 14750 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 14700 11000 60  0001 C CNN
+F 3 "" V 14700 11000 60  0000 C CNN
+	1    14750 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED52
+U 1 1 5E1FB0B5
+P 16000 11000
+F 0 "LED52" H 16000 10513 60  0000 C CNN
+F 1 "WS2812B" H 16000 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 15950 11000 60  0001 C CNN
+F 3 "" V 15950 11000 60  0000 C CNN
+	1    16000 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED53
+U 1 1 5E1FB0BF
+P 17250 11000
+F 0 "LED53" H 17250 10513 60  0000 C CNN
+F 1 "WS2812B" H 17250 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 17200 11000 60  0001 C CNN
+F 3 "" V 17200 11000 60  0000 C CNN
+	1    17250 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED54
+U 1 1 5E1FB0C9
+P 18500 11000
+F 0 "LED54" H 18500 10513 60  0000 C CNN
+F 1 "WS2812B" H 18500 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 18450 11000 60  0001 C CNN
+F 3 "" V 18450 11000 60  0000 C CNN
+	1    18500 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED55
+U 1 1 5E1FB0D3
+P 19750 11000
+F 0 "LED55" H 19750 10513 60  0000 C CNN
+F 1 "WS2812B" H 19750 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 19700 11000 60  0001 C CNN
+F 3 "" V 19700 11000 60  0000 C CNN
+	1    19750 11000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED56
+U 1 1 5E1FB0DD
+P 21000 11000
+F 0 "LED56" H 21000 10513 60  0000 C CNN
+F 1 "WS2812B" H 21000 10619 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 20950 11000 60  0001 C CNN
+F 3 "" V 20950 11000 60  0000 C CNN
+	1    21000 11000
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14000 10800 14150 10800
+Wire Wire Line
+	14150 10800 14150 11200
+Wire Wire Line
+	14150 11200 14250 11200
+Wire Wire Line
+	15250 10800 15400 10800
+Wire Wire Line
+	15400 10800 15400 11200
+Wire Wire Line
+	15400 11200 15500 11200
+Wire Wire Line
+	16500 10800 16650 10800
+Wire Wire Line
+	16650 10800 16650 11200
+Wire Wire Line
+	16650 11200 16750 11200
+Wire Wire Line
+	17750 10800 17900 10800
+Wire Wire Line
+	17900 10800 17900 11200
+Wire Wire Line
+	17900 11200 18000 11200
+Wire Wire Line
+	19000 10800 19150 10800
+Wire Wire Line
+	19150 10800 19150 11200
+Wire Wire Line
+	19150 11200 19250 11200
+Wire Wire Line
+	20250 10800 20400 10800
+Wire Wire Line
+	20400 10800 20400 11200
+Wire Wire Line
+	20400 11200 20500 11200
+Text Label 13000 10800 1    50   ~ 0
+GNDR
+Text Label 14000 11200 3    50   ~ 0
+5VR
+$Comp
+L Legonut_Library:WS2812B LED57
+U 1 1 5E1FB107
+P 13500 11950
+F 0 "LED57" H 13500 11463 60  0000 C CNN
+F 1 "WS2812B" H 13500 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 13450 11950 60  0001 C CNN
+F 3 "" V 13450 11950 60  0000 C CNN
+	1    13500 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED58
+U 1 1 5E1FB111
+P 14750 11950
+F 0 "LED58" H 14750 11463 60  0000 C CNN
+F 1 "WS2812B" H 14750 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 14700 11950 60  0001 C CNN
+F 3 "" V 14700 11950 60  0000 C CNN
+	1    14750 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED59
+U 1 1 5E1FB11B
+P 16000 11950
+F 0 "LED59" H 16000 11463 60  0000 C CNN
+F 1 "WS2812B" H 16000 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 15950 11950 60  0001 C CNN
+F 3 "" V 15950 11950 60  0000 C CNN
+	1    16000 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED60
+U 1 1 5E1FB125
+P 17250 11950
+F 0 "LED60" H 17250 11463 60  0000 C CNN
+F 1 "WS2812B" H 17250 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 17200 11950 60  0001 C CNN
+F 3 "" V 17200 11950 60  0000 C CNN
+	1    17250 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED61
+U 1 1 5E1FB12F
+P 18500 11950
+F 0 "LED61" H 18500 11463 60  0000 C CNN
+F 1 "WS2812B" H 18500 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 18450 11950 60  0001 C CNN
+F 3 "" V 18450 11950 60  0000 C CNN
+	1    18500 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED62
+U 1 1 5E1FB139
+P 19750 11950
+F 0 "LED62" H 19750 11463 60  0000 C CNN
+F 1 "WS2812B" H 19750 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 19700 11950 60  0001 C CNN
+F 3 "" V 19700 11950 60  0000 C CNN
+	1    19750 11950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED63
+U 1 1 5E1FB143
+P 21000 11950
+F 0 "LED63" H 21000 11463 60  0000 C CNN
+F 1 "WS2812B" H 21000 11569 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 20950 11950 60  0001 C CNN
+F 3 "" V 20950 11950 60  0000 C CNN
+	1    21000 11950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14000 11750 14150 11750
+Wire Wire Line
+	14150 11750 14150 12150
+Wire Wire Line
+	14150 12150 14250 12150
+Wire Wire Line
+	15250 11750 15400 11750
+Wire Wire Line
+	15400 11750 15400 12150
+Wire Wire Line
+	15400 12150 15500 12150
+Wire Wire Line
+	16500 11750 16650 11750
+Wire Wire Line
+	16650 11750 16650 12150
+Wire Wire Line
+	16650 12150 16750 12150
+Wire Wire Line
+	17750 11750 17900 11750
+Wire Wire Line
+	17900 11750 17900 12150
+Wire Wire Line
+	17900 12150 18000 12150
+Wire Wire Line
+	19000 11750 19150 11750
+Wire Wire Line
+	19150 11750 19150 12150
+Wire Wire Line
+	19150 12150 19250 12150
+Wire Wire Line
+	20250 11750 20400 11750
+Wire Wire Line
+	20400 11750 20400 12150
+Wire Wire Line
+	20400 12150 20500 12150
+$Comp
+L Legonut_Library:WS2812B LED64
+U 1 1 5E1FB16D
+P 13500 12900
+F 0 "LED64" H 13500 12413 60  0000 C CNN
+F 1 "WS2812B" H 13500 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 13450 12900 60  0001 C CNN
+F 3 "" V 13450 12900 60  0000 C CNN
+	1    13500 12900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED65
+U 1 1 5E1FB177
+P 14750 12900
+F 0 "LED65" H 14750 12413 60  0000 C CNN
+F 1 "WS2812B" H 14750 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 14700 12900 60  0001 C CNN
+F 3 "" V 14700 12900 60  0000 C CNN
+	1    14750 12900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED67
+U 1 1 5E1FB18B
+P 17250 12900
+F 0 "LED67" H 17250 12413 60  0000 C CNN
+F 1 "WS2812B" H 17250 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 17200 12900 60  0001 C CNN
+F 3 "" V 17200 12900 60  0000 C CNN
+	1    17250 12900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED68
+U 1 1 5E1FB195
+P 18500 12900
+F 0 "LED68" H 18500 12413 60  0000 C CNN
+F 1 "WS2812B" H 18500 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 18450 12900 60  0001 C CNN
+F 3 "" V 18450 12900 60  0000 C CNN
+	1    18500 12900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED69
+U 1 1 5E1FB19F
+P 19750 12900
+F 0 "LED69" H 19750 12413 60  0000 C CNN
+F 1 "WS2812B" H 19750 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 19700 12900 60  0001 C CNN
+F 3 "" V 19700 12900 60  0000 C CNN
+	1    19750 12900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED70
+U 1 1 5E1FB1A9
+P 21000 12900
+F 0 "LED70" H 21000 12413 60  0000 C CNN
+F 1 "WS2812B" H 21000 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 20950 12900 60  0001 C CNN
+F 3 "" V 20950 12900 60  0000 C CNN
+	1    21000 12900
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14000 12700 14150 12700
+Wire Wire Line
+	14150 12700 14150 13100
+Wire Wire Line
+	14150 13100 14250 13100
+Wire Wire Line
+	15250 12700 15400 12700
+Wire Wire Line
+	15400 12700 15400 13100
+Wire Wire Line
+	15400 13100 15500 13100
+Wire Wire Line
+	16500 12700 16650 12700
+Wire Wire Line
+	16650 12700 16650 13100
+Wire Wire Line
+	16650 13100 16750 13100
+Wire Wire Line
+	17750 12700 17900 12700
+Wire Wire Line
+	17900 12700 17900 13100
+Wire Wire Line
+	17900 13100 18000 13100
+Wire Wire Line
+	19000 12700 19150 12700
+Wire Wire Line
+	19150 12700 19150 13100
+Wire Wire Line
+	19150 13100 19250 13100
+Wire Wire Line
+	20250 12700 20400 12700
+Wire Wire Line
+	20400 12700 20400 13100
+Wire Wire Line
+	20400 13100 20500 13100
+$Comp
+L Legonut_Library:WS2812B LED71
+U 1 1 5E1FB1D3
+P 13500 13850
+F 0 "LED71" H 13500 13363 60  0000 C CNN
+F 1 "WS2812B" H 13500 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 13450 13850 60  0001 C CNN
+F 3 "" V 13450 13850 60  0000 C CNN
+	1    13500 13850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED72
+U 1 1 5E1FB1DD
+P 14750 13850
+F 0 "LED72" H 14750 13363 60  0000 C CNN
+F 1 "WS2812B" H 14750 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 14700 13850 60  0001 C CNN
+F 3 "" V 14700 13850 60  0000 C CNN
+	1    14750 13850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED73
+U 1 1 5E1FB1E7
+P 16000 13850
+F 0 "LED73" H 16000 13363 60  0000 C CNN
+F 1 "WS2812B" H 16000 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 15950 13850 60  0001 C CNN
+F 3 "" V 15950 13850 60  0000 C CNN
+	1    16000 13850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED75
+U 1 1 5E1FB1FB
+P 18500 13850
+F 0 "LED75" H 18500 13363 60  0000 C CNN
+F 1 "WS2812B" H 18500 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 18450 13850 60  0001 C CNN
+F 3 "" V 18450 13850 60  0000 C CNN
+	1    18500 13850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED76
+U 1 1 5E1FB205
+P 19750 13850
+F 0 "LED76" H 19750 13363 60  0000 C CNN
+F 1 "WS2812B" H 19750 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 19700 13850 60  0001 C CNN
+F 3 "" V 19700 13850 60  0000 C CNN
+	1    19750 13850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED77
+U 1 1 5E1FB20F
+P 21000 13850
+F 0 "LED77" H 21000 13363 60  0000 C CNN
+F 1 "WS2812B" H 21000 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 20950 13850 60  0001 C CNN
+F 3 "" V 20950 13850 60  0000 C CNN
+	1    21000 13850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14000 13650 14150 13650
+Wire Wire Line
+	14150 13650 14150 14050
+Wire Wire Line
+	14150 14050 14250 14050
+Wire Wire Line
+	15250 13650 15400 13650
+Wire Wire Line
+	15400 13650 15400 14050
+Wire Wire Line
+	15400 14050 15500 14050
+Wire Wire Line
+	16500 13650 16650 13650
+Wire Wire Line
+	16650 13650 16650 14050
+Wire Wire Line
+	16650 14050 16750 14050
+Wire Wire Line
+	17750 13650 17900 13650
+Wire Wire Line
+	17900 13650 17900 14050
+Wire Wire Line
+	17900 14050 18000 14050
+Wire Wire Line
+	19000 13650 19150 13650
+Wire Wire Line
+	19150 13650 19150 14050
+Wire Wire Line
+	19150 14050 19250 14050
+Wire Wire Line
+	20250 13650 20400 13650
+Wire Wire Line
+	20400 13650 20400 14050
+Wire Wire Line
+	20400 14050 20500 14050
+$Comp
+L Legonut_Library:WS2812B LED78
+U 1 1 5E1FB239
+P 13500 14800
+F 0 "LED78" H 13500 14313 60  0000 C CNN
+F 1 "WS2812B" H 13500 14419 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 13450 14800 60  0001 C CNN
+F 3 "" V 13450 14800 60  0000 C CNN
+	1    13500 14800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED79
+U 1 1 5E1FB243
+P 14750 14800
+F 0 "LED79" H 14750 14313 60  0000 C CNN
+F 1 "WS2812B" H 14750 14419 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 14700 14800 60  0001 C CNN
+F 3 "" V 14700 14800 60  0000 C CNN
+	1    14750 14800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED80
+U 1 1 5E1FB24D
+P 16000 14800
+F 0 "LED80" H 16000 14313 60  0000 C CNN
+F 1 "WS2812B" H 16000 14419 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 15950 14800 60  0001 C CNN
+F 3 "" V 15950 14800 60  0000 C CNN
+	1    16000 14800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED81
+U 1 1 5E1FB257
+P 17250 14800
+F 0 "LED81" H 17250 14313 60  0000 C CNN
+F 1 "WS2812B" H 17250 14419 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 17200 14800 60  0001 C CNN
+F 3 "" V 17200 14800 60  0000 C CNN
+	1    17250 14800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED82
+U 1 1 5E1FB261
+P 18500 14800
+F 0 "LED82" H 18500 14313 60  0000 C CNN
+F 1 "WS2812B" H 18500 14419 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 18450 14800 60  0001 C CNN
+F 3 "" V 18450 14800 60  0000 C CNN
+	1    18500 14800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED83
+U 1 1 5E1FB26B
+P 19750 14800
+F 0 "LED83" H 19750 14313 60  0000 C CNN
+F 1 "WS2812B" H 19750 14419 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 19700 14800 60  0001 C CNN
+F 3 "" V 19700 14800 60  0000 C CNN
+	1    19750 14800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED84
+U 1 1 5E1FB275
+P 21000 14800
+F 0 "LED84" H 21000 14313 60  0000 C CNN
+F 1 "WS2812B" H 21000 14419 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 20950 14800 60  0001 C CNN
+F 3 "" V 20950 14800 60  0000 C CNN
+	1    21000 14800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14000 14600 14150 14600
+Wire Wire Line
+	14150 14600 14150 15000
+Wire Wire Line
+	14150 15000 14250 15000
+Wire Wire Line
+	15250 14600 15400 14600
+Wire Wire Line
+	15400 14600 15400 15000
+Wire Wire Line
+	15400 15000 15500 15000
+Wire Wire Line
+	16500 14600 16650 14600
+Wire Wire Line
+	16650 14600 16650 15000
+Wire Wire Line
+	16650 15000 16750 15000
+Wire Wire Line
+	17750 14600 17900 14600
+Wire Wire Line
+	17900 14600 17900 15000
+Wire Wire Line
+	17900 15000 18000 15000
+Wire Wire Line
+	19000 14600 19150 14600
+Wire Wire Line
+	19150 14600 19150 15000
+Wire Wire Line
+	19150 15000 19250 15000
+Wire Wire Line
+	20250 14600 20400 14600
+Wire Wire Line
+	20400 14600 20400 15000
+Wire Wire Line
+	20400 15000 20500 15000
+$Comp
+L Legonut_Library:WS2812B LED85
+U 1 1 5E1FB29F
+P 13500 15750
+F 0 "LED85" H 13500 15263 60  0000 C CNN
+F 1 "WS2812B" H 13500 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 13450 15750 60  0001 C CNN
+F 3 "" V 13450 15750 60  0000 C CNN
+	1    13500 15750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED86
+U 1 1 5E1FB2A9
+P 14750 15750
+F 0 "LED86" H 14750 15263 60  0000 C CNN
+F 1 "WS2812B" H 14750 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 14700 15750 60  0001 C CNN
+F 3 "" V 14700 15750 60  0000 C CNN
+	1    14750 15750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED87
+U 1 1 5E1FB2B3
+P 16000 15750
+F 0 "LED87" H 16000 15263 60  0000 C CNN
+F 1 "WS2812B" H 16000 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 15950 15750 60  0001 C CNN
+F 3 "" V 15950 15750 60  0000 C CNN
+	1    16000 15750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED88
+U 1 1 5E1FB2BD
+P 17250 15750
+F 0 "LED88" H 17250 15263 60  0000 C CNN
+F 1 "WS2812B" H 17250 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 17200 15750 60  0001 C CNN
+F 3 "" V 17200 15750 60  0000 C CNN
+	1    17250 15750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED89
+U 1 1 5E1FB2C7
+P 18500 15750
+F 0 "LED89" H 18500 15263 60  0000 C CNN
+F 1 "WS2812B" H 18500 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 18450 15750 60  0001 C CNN
+F 3 "" V 18450 15750 60  0000 C CNN
+	1    18500 15750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED90
+U 1 1 5E1FB2D1
+P 19750 15750
+F 0 "LED90" H 19750 15263 60  0000 C CNN
+F 1 "WS2812B" H 19750 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 19700 15750 60  0001 C CNN
+F 3 "" V 19700 15750 60  0000 C CNN
+	1    19750 15750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED91
+U 1 1 5E1FB2DB
+P 21000 15750
+F 0 "LED91" H 21000 15263 60  0000 C CNN
+F 1 "WS2812B" H 21000 15369 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 20950 15750 60  0001 C CNN
+F 3 "" V 20950 15750 60  0000 C CNN
+	1    21000 15750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14000 15550 14150 15550
+Wire Wire Line
+	14150 15550 14150 15950
+Wire Wire Line
+	14150 15950 14250 15950
+Wire Wire Line
+	15250 15550 15400 15550
+Wire Wire Line
+	15400 15550 15400 15950
+Wire Wire Line
+	15400 15950 15500 15950
+Wire Wire Line
+	16500 15550 16650 15550
+Wire Wire Line
+	16650 15550 16650 15950
+Wire Wire Line
+	16650 15950 16750 15950
+Wire Wire Line
+	17750 15550 17900 15550
+Wire Wire Line
+	17900 15550 17900 15950
+Wire Wire Line
+	17900 15950 18000 15950
+Wire Wire Line
+	19000 15550 19150 15550
+Wire Wire Line
+	19150 15550 19150 15950
+Wire Wire Line
+	19150 15950 19250 15950
+Wire Wire Line
+	20250 15550 20400 15550
+Wire Wire Line
+	20400 15550 20400 15950
+Wire Wire Line
+	20400 15950 20500 15950
+$Comp
+L Legonut_Library:WS2812B LED92
+U 1 1 5E1FB305
+P 13500 16700
+F 0 "LED92" H 13500 16213 60  0000 C CNN
+F 1 "WS2812B" H 13500 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 13450 16700 60  0001 C CNN
+F 3 "" V 13450 16700 60  0000 C CNN
+	1    13500 16700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED93
+U 1 1 5E1FB30F
+P 14750 16700
+F 0 "LED93" H 14750 16213 60  0000 C CNN
+F 1 "WS2812B" H 14750 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 14700 16700 60  0001 C CNN
+F 3 "" V 14700 16700 60  0000 C CNN
+	1    14750 16700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED94
+U 1 1 5E1FB319
+P 16000 16700
+F 0 "LED94" H 16000 16213 60  0000 C CNN
+F 1 "WS2812B" H 16000 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 15950 16700 60  0001 C CNN
+F 3 "" V 15950 16700 60  0000 C CNN
+	1    16000 16700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED95
+U 1 1 5E1FB323
+P 17250 16700
+F 0 "LED95" H 17250 16213 60  0000 C CNN
+F 1 "WS2812B" H 17250 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 17200 16700 60  0001 C CNN
+F 3 "" V 17200 16700 60  0000 C CNN
+	1    17250 16700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED96
+U 1 1 5E1FB32D
+P 18500 16700
+F 0 "LED96" H 18500 16213 60  0000 C CNN
+F 1 "WS2812B" H 18500 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 18450 16700 60  0001 C CNN
+F 3 "" V 18450 16700 60  0000 C CNN
+	1    18500 16700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED97
+U 1 1 5E1FB337
+P 19750 16700
+F 0 "LED97" H 19750 16213 60  0000 C CNN
+F 1 "WS2812B" H 19750 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 19700 16700 60  0001 C CNN
+F 3 "" V 19700 16700 60  0000 C CNN
+	1    19750 16700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED98
+U 1 1 5E1FB341
+P 21000 16700
+F 0 "LED98" H 21000 16213 60  0000 C CNN
+F 1 "WS2812B" H 21000 16319 60  0000 C CNN
+F 2 "Legonut's Library:SK6812-SIDE" V 20950 16700 60  0001 C CNN
+F 3 "" V 20950 16700 60  0000 C CNN
+	1    21000 16700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	14000 16500 14150 16500
+Wire Wire Line
+	14150 16500 14150 16900
+Wire Wire Line
+	14150 16900 14250 16900
+Wire Wire Line
+	15250 16500 15400 16500
+Wire Wire Line
+	15400 16500 15400 16900
+Wire Wire Line
+	15400 16900 15500 16900
+Wire Wire Line
+	16500 16500 16650 16500
+Wire Wire Line
+	16650 16500 16650 16900
+Wire Wire Line
+	16650 16900 16750 16900
+Wire Wire Line
+	17750 16500 17900 16500
+Wire Wire Line
+	17900 16500 17900 16900
+Wire Wire Line
+	17900 16900 18000 16900
+Wire Wire Line
+	19000 16500 19150 16500
+Wire Wire Line
+	19150 16500 19150 16900
+Wire Wire Line
+	19150 16900 19250 16900
+Wire Wire Line
+	20250 16500 20400 16500
+Wire Wire Line
+	20400 16500 20400 16900
+Wire Wire Line
+	20400 16900 20500 16900
+Wire Wire Line
+	21500 10800 21600 10800
+Wire Wire Line
+	21600 10800 21600 11400
+Wire Wire Line
+	21600 11400 12900 11400
+Wire Wire Line
+	12900 11400 12900 12150
+Wire Wire Line
+	12900 12150 13000 12150
+Text Label 13000 11200 2    50   ~ 0
+RGBRI
+Wire Wire Line
+	21500 11750 21600 11750
+Wire Wire Line
+	21600 11750 21600 12350
+Wire Wire Line
+	21600 12350 12900 12350
+Wire Wire Line
+	12900 12350 12900 13100
+Wire Wire Line
+	12900 13100 13000 13100
+Wire Wire Line
+	21500 12700 21600 12700
+Wire Wire Line
+	21600 12700 21600 13300
+Wire Wire Line
+	21600 13300 12900 13300
+Wire Wire Line
+	12900 13300 12900 14050
+Wire Wire Line
+	12900 14050 13000 14050
+Wire Wire Line
+	21500 13650 21600 13650
+Wire Wire Line
+	21600 13650 21600 14250
+Wire Wire Line
+	21600 14250 12900 14250
+Wire Wire Line
+	12900 14250 12900 15000
+Wire Wire Line
+	12900 15000 13000 15000
+Wire Wire Line
+	21500 14600 21600 14600
+Wire Wire Line
+	21600 14600 21600 15200
+Wire Wire Line
+	21600 15200 12900 15200
+Wire Wire Line
+	12900 15200 12900 15950
+Wire Wire Line
+	12900 15950 13000 15950
+Wire Wire Line
+	21500 15550 21600 15550
+Wire Wire Line
+	21600 15550 21600 16150
+Wire Wire Line
+	21600 16150 12900 16150
+Wire Wire Line
+	12900 16150 12900 16900
+Wire Wire Line
+	12900 16900 13000 16900
+NoConn ~ 21500 16500
+$Comp
+L Device:C C103
+U 1 1 5E1FB38B
+P 21100 10100
+F 0 "C103" V 21100 9800 50  0000 C CNN
+F 1 "100nF" V 21100 10400 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 9950 50  0001 C CNN
+F 3 "~" H 21100 10100 50  0001 C CNN
+	1    21100 10100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C104
+U 1 1 5E1FB47B
+P 21900 10100
+F 0 "C104" V 21900 9800 50  0000 C CNN
+F 1 "100nF" V 21900 10400 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 9950 50  0001 C CNN
+F 3 "~" H 21900 10100 50  0001 C CNN
+	1    21900 10100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C63
+U 1 1 5E1FB56B
+P 21100 6300
+F 0 "C63" V 21100 6000 50  0000 C CNN
+F 1 "100nF" V 21100 6600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 6150 50  0001 C CNN
+F 3 "~" H 21100 6300 50  0001 C CNN
+	1    21100 6300
+	0    1    1    0   
+$EndComp
+Text Label 21250 6300 0    50   ~ 0
+GNDR
+Text Label 20950 6300 2    50   ~ 0
+5VR
+$Comp
+L Device:C C64
+U 1 1 5E1FB577
+P 21900 6300
+F 0 "C64" V 21900 6000 50  0000 C CNN
+F 1 "100nF" V 21900 6600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 6150 50  0001 C CNN
+F 3 "~" H 21900 6300 50  0001 C CNN
+	1    21900 6300
+	0    1    1    0   
+$EndComp
+Text Label 22050 6300 0    50   ~ 0
+GNDR
+Text Label 21750 6300 2    50   ~ 0
+5VR
+Wire Wire Line
+	13900 8000 13900 8650
+$Comp
+L Connector_Generic:Conn_01x06 J13
+U 1 1 5E1FB584
+P 19150 5700
+F 0 "J13" H 19230 5692 50  0000 L CNN
+F 1 "Conn_01x06" V 19350 5450 50  0000 L CNN
+F 2 "Legonut's Library:00-9188-006pads" H 19150 5700 50  0001 C CNN
+F 3 "~" H 19150 5700 50  0001 C CNN
+	1    19150 5700
+	1    0    0    -1  
+$EndComp
+Text Label 18100 5700 2    50   ~ 0
+RGBRO
+$Comp
+L Connector:USB_C_Receptacle J8
+U 1 1 5E1FAED6
+P 14100 1550
+F 0 "J8" V 13600 1000 50  0000 L CNN
+F 1 "USB_C_Receptacle" V 13600 1200 50  0000 L CNN
+F 2 "Legonut's Library:HRO-TYPE-C-31-M-14" H 14250 1550 50  0001 C CNN
+F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 14250 1550 50  0001 C CNN
+	1    14100 1550
+	0    1    1    0   
+$EndComp
+Text Label 15400 3000 1    50   ~ 0
+3.3VR
+Text Label 15500 3000 1    50   ~ 0
+3.3VR
+Text Label 15600 3000 1    50   ~ 0
+3.3VR
+Text Label 15700 3000 1    50   ~ 0
+3.3VR
+Text Label 14050 3700 3    50   ~ 0
+GNDR
+Text Label 14300 4000 3    50   ~ 0
+GNDR
+Text Label 15500 6000 3    50   ~ 0
+GNDR
+Text Label 15400 6000 3    50   ~ 0
+GNDR
+Text Label 15300 6000 3    50   ~ 0
+GNDR
+Text Label 18100 5600 2    50   ~ 0
+5VR
+Text Label 18100 5800 2    50   ~ 0
+RGBRO
+Text Label 18100 6000 2    50   ~ 0
+GNDR
+Text Label 18950 5900 2    50   ~ 0
+5VR
+Text Label 18950 6000 2    50   ~ 0
+5VR
+Text Label 18950 5700 2    50   ~ 0
+RGBRI
+Text Label 18950 5800 2    50   ~ 0
+RGBRI
+Text Label 18950 5600 2    50   ~ 0
+GNDR
+Text Label 18950 5500 2    50   ~ 0
+GNDR
+$Comp
+L Device:C C65
+U 1 1 5E4E8D0B
+P 21100 6500
+F 0 "C65" V 21100 6200 50  0000 C CNN
+F 1 "100nF" V 21100 6800 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 6350 50  0001 C CNN
+F 3 "~" H 21100 6500 50  0001 C CNN
+	1    21100 6500
+	0    1    1    0   
+$EndComp
+Text Label 21250 6500 0    50   ~ 0
+GNDR
+Text Label 20950 6500 2    50   ~ 0
+5VR
+$Comp
+L Device:C C66
+U 1 1 5E4E8D13
+P 21900 6500
+F 0 "C66" V 21900 6200 50  0000 C CNN
+F 1 "100nF" V 21900 6800 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 6350 50  0001 C CNN
+F 3 "~" H 21900 6500 50  0001 C CNN
+	1    21900 6500
+	0    1    1    0   
+$EndComp
+Text Label 22050 6500 0    50   ~ 0
+GNDR
+Text Label 21750 6500 2    50   ~ 0
+5VR
+$Comp
+L Device:C C67
+U 1 1 5E52F899
+P 21100 6700
+F 0 "C67" V 21100 6400 50  0000 C CNN
+F 1 "100nF" V 21100 7000 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 6550 50  0001 C CNN
+F 3 "~" H 21100 6700 50  0001 C CNN
+	1    21100 6700
+	0    1    1    0   
+$EndComp
+Text Label 21250 6700 0    50   ~ 0
+GNDR
+Text Label 20950 6700 2    50   ~ 0
+5VR
+$Comp
+L Device:C C68
+U 1 1 5E52F8A1
+P 21900 6700
+F 0 "C68" V 21900 6400 50  0000 C CNN
+F 1 "100nF" V 21900 7000 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 6550 50  0001 C CNN
+F 3 "~" H 21900 6700 50  0001 C CNN
+	1    21900 6700
+	0    1    1    0   
+$EndComp
+Text Label 22050 6700 0    50   ~ 0
+GNDR
+Text Label 21750 6700 2    50   ~ 0
+5VR
+$Comp
+L Device:C C69
+U 1 1 5E52F8A9
+P 21100 6900
+F 0 "C69" V 21100 6600 50  0000 C CNN
+F 1 "100nF" V 21100 7200 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 6750 50  0001 C CNN
+F 3 "~" H 21100 6900 50  0001 C CNN
+	1    21100 6900
+	0    1    1    0   
+$EndComp
+Text Label 21250 6900 0    50   ~ 0
+GNDR
+Text Label 20950 6900 2    50   ~ 0
+5VR
+$Comp
+L Device:C C70
+U 1 1 5E52F8B1
+P 21900 6900
+F 0 "C70" V 21900 6600 50  0000 C CNN
+F 1 "100nF" V 21900 7200 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 6750 50  0001 C CNN
+F 3 "~" H 21900 6900 50  0001 C CNN
+	1    21900 6900
+	0    1    1    0   
+$EndComp
+Text Label 22050 6900 0    50   ~ 0
+GNDR
+Text Label 21750 6900 2    50   ~ 0
+5VR
+$Comp
+L Device:C C71
+U 1 1 5E578319
+P 21100 7100
+F 0 "C71" V 21100 6800 50  0000 C CNN
+F 1 "100nF" V 21100 7400 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 6950 50  0001 C CNN
+F 3 "~" H 21100 7100 50  0001 C CNN
+	1    21100 7100
+	0    1    1    0   
+$EndComp
+Text Label 21250 7100 0    50   ~ 0
+GNDR
+Text Label 20950 7100 2    50   ~ 0
+5VR
+$Comp
+L Device:C C72
+U 1 1 5E578321
+P 21900 7100
+F 0 "C72" V 21900 6800 50  0000 C CNN
+F 1 "100nF" V 21900 7400 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 6950 50  0001 C CNN
+F 3 "~" H 21900 7100 50  0001 C CNN
+	1    21900 7100
+	0    1    1    0   
+$EndComp
+Text Label 22050 7100 0    50   ~ 0
+GNDR
+Text Label 21750 7100 2    50   ~ 0
+5VR
+$Comp
+L Device:C C73
+U 1 1 5E578329
+P 21100 7300
+F 0 "C73" V 21100 7000 50  0000 C CNN
+F 1 "100nF" V 21100 7600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 7150 50  0001 C CNN
+F 3 "~" H 21100 7300 50  0001 C CNN
+	1    21100 7300
+	0    1    1    0   
+$EndComp
+Text Label 21250 7300 0    50   ~ 0
+GNDR
+Text Label 20950 7300 2    50   ~ 0
+5VR
+$Comp
+L Device:C C74
+U 1 1 5E578331
+P 21900 7300
+F 0 "C74" V 21900 7000 50  0000 C CNN
+F 1 "100nF" V 21900 7600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 7150 50  0001 C CNN
+F 3 "~" H 21900 7300 50  0001 C CNN
+	1    21900 7300
+	0    1    1    0   
+$EndComp
+Text Label 22050 7300 0    50   ~ 0
+GNDR
+Text Label 21750 7300 2    50   ~ 0
+5VR
+$Comp
+L Device:C C75
+U 1 1 5E578339
+P 21100 7500
+F 0 "C75" V 21100 7200 50  0000 C CNN
+F 1 "100nF" V 21100 7800 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 7350 50  0001 C CNN
+F 3 "~" H 21100 7500 50  0001 C CNN
+	1    21100 7500
+	0    1    1    0   
+$EndComp
+Text Label 21250 7500 0    50   ~ 0
+GNDR
+Text Label 20950 7500 2    50   ~ 0
+5VR
+$Comp
+L Device:C C76
+U 1 1 5E578341
+P 21900 7500
+F 0 "C76" V 21900 7200 50  0000 C CNN
+F 1 "100nF" V 21900 7800 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 7350 50  0001 C CNN
+F 3 "~" H 21900 7500 50  0001 C CNN
+	1    21900 7500
+	0    1    1    0   
+$EndComp
+Text Label 22050 7500 0    50   ~ 0
+GNDR
+Text Label 21750 7500 2    50   ~ 0
+5VR
+$Comp
+L Device:C C77
+U 1 1 5E578349
+P 21100 7700
+F 0 "C77" V 21100 7400 50  0000 C CNN
+F 1 "100nF" V 21100 8000 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 7550 50  0001 C CNN
+F 3 "~" H 21100 7700 50  0001 C CNN
+	1    21100 7700
+	0    1    1    0   
+$EndComp
+Text Label 21250 7700 0    50   ~ 0
+GNDR
+Text Label 20950 7700 2    50   ~ 0
+5VR
+$Comp
+L Device:C C78
+U 1 1 5E578351
+P 21900 7700
+F 0 "C78" V 21900 7400 50  0000 C CNN
+F 1 "100nF" V 21900 8000 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 7550 50  0001 C CNN
+F 3 "~" H 21900 7700 50  0001 C CNN
+	1    21900 7700
+	0    1    1    0   
+$EndComp
+Text Label 22050 7700 0    50   ~ 0
+GNDR
+Text Label 21750 7700 2    50   ~ 0
+5VR
+$Comp
+L Device:C C79
+U 1 1 5E5BE6BD
+P 21100 7900
+F 0 "C79" V 21100 7600 50  0000 C CNN
+F 1 "100nF" V 21100 8200 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 7750 50  0001 C CNN
+F 3 "~" H 21100 7900 50  0001 C CNN
+	1    21100 7900
+	0    1    1    0   
+$EndComp
+Text Label 21250 7900 0    50   ~ 0
+GNDR
+Text Label 20950 7900 2    50   ~ 0
+5VR
+$Comp
+L Device:C C80
+U 1 1 5E5BE6C5
+P 21900 7900
+F 0 "C80" V 21900 7600 50  0000 C CNN
+F 1 "100nF" V 21900 8200 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 7750 50  0001 C CNN
+F 3 "~" H 21900 7900 50  0001 C CNN
+	1    21900 7900
+	0    1    1    0   
+$EndComp
+Text Label 22050 7900 0    50   ~ 0
+GNDR
+Text Label 21750 7900 2    50   ~ 0
+5VR
+$Comp
+L Device:C C81
+U 1 1 5E5BE6CD
+P 21100 8100
+F 0 "C81" V 21100 7800 50  0000 C CNN
+F 1 "100nF" V 21100 8400 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 7950 50  0001 C CNN
+F 3 "~" H 21100 8100 50  0001 C CNN
+	1    21100 8100
+	0    1    1    0   
+$EndComp
+Text Label 21250 8100 0    50   ~ 0
+GNDR
+Text Label 20950 8100 2    50   ~ 0
+5VR
+$Comp
+L Device:C C82
+U 1 1 5E5BE6D5
+P 21900 8100
+F 0 "C82" V 21900 7800 50  0000 C CNN
+F 1 "100nF" V 21900 8400 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 7950 50  0001 C CNN
+F 3 "~" H 21900 8100 50  0001 C CNN
+	1    21900 8100
+	0    1    1    0   
+$EndComp
+Text Label 22050 8100 0    50   ~ 0
+GNDR
+Text Label 21750 8100 2    50   ~ 0
+5VR
+$Comp
+L Device:C C83
+U 1 1 5E5BE6DD
+P 21100 8300
+F 0 "C83" V 21100 8000 50  0000 C CNN
+F 1 "100nF" V 21100 8600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 8150 50  0001 C CNN
+F 3 "~" H 21100 8300 50  0001 C CNN
+	1    21100 8300
+	0    1    1    0   
+$EndComp
+Text Label 21250 8300 0    50   ~ 0
+GNDR
+Text Label 20950 8300 2    50   ~ 0
+5VR
+$Comp
+L Device:C C84
+U 1 1 5E5BE6E5
+P 21900 8300
+F 0 "C84" V 21900 8000 50  0000 C CNN
+F 1 "100nF" V 21900 8600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 8150 50  0001 C CNN
+F 3 "~" H 21900 8300 50  0001 C CNN
+	1    21900 8300
+	0    1    1    0   
+$EndComp
+Text Label 22050 8300 0    50   ~ 0
+GNDR
+Text Label 21750 8300 2    50   ~ 0
+5VR
+$Comp
+L Device:C C85
+U 1 1 5E5BE6ED
+P 21100 8500
+F 0 "C85" V 21100 8200 50  0000 C CNN
+F 1 "100nF" V 21100 8800 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 8350 50  0001 C CNN
+F 3 "~" H 21100 8500 50  0001 C CNN
+	1    21100 8500
+	0    1    1    0   
+$EndComp
+Text Label 21250 8500 0    50   ~ 0
+GNDR
+Text Label 20950 8500 2    50   ~ 0
+5VR
+$Comp
+L Device:C C86
+U 1 1 5E5BE6F5
+P 21900 8500
+F 0 "C86" V 21900 8200 50  0000 C CNN
+F 1 "100nF" V 21900 8800 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 8350 50  0001 C CNN
+F 3 "~" H 21900 8500 50  0001 C CNN
+	1    21900 8500
+	0    1    1    0   
+$EndComp
+Text Label 22050 8500 0    50   ~ 0
+GNDR
+Text Label 21750 8500 2    50   ~ 0
+5VR
+$Comp
+L Device:C C87
+U 1 1 5E5FFA7B
+P 21100 8700
+F 0 "C87" V 21100 8400 50  0000 C CNN
+F 1 "100nF" V 21100 9000 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 8550 50  0001 C CNN
+F 3 "~" H 21100 8700 50  0001 C CNN
+	1    21100 8700
+	0    1    1    0   
+$EndComp
+Text Label 21250 8700 0    50   ~ 0
+GNDR
+Text Label 20950 8700 2    50   ~ 0
+5VR
+$Comp
+L Device:C C88
+U 1 1 5E5FFA83
+P 21900 8700
+F 0 "C88" V 21900 8400 50  0000 C CNN
+F 1 "100nF" V 21900 9000 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 8550 50  0001 C CNN
+F 3 "~" H 21900 8700 50  0001 C CNN
+	1    21900 8700
+	0    1    1    0   
+$EndComp
+Text Label 22050 8700 0    50   ~ 0
+GNDR
+Text Label 21750 8700 2    50   ~ 0
+5VR
+$Comp
+L Device:C C89
+U 1 1 5E5FFA8B
+P 21100 8900
+F 0 "C89" V 21100 8600 50  0000 C CNN
+F 1 "100nF" V 21100 9200 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 8750 50  0001 C CNN
+F 3 "~" H 21100 8900 50  0001 C CNN
+	1    21100 8900
+	0    1    1    0   
+$EndComp
+Text Label 21250 8900 0    50   ~ 0
+GNDR
+Text Label 20950 8900 2    50   ~ 0
+5VR
+$Comp
+L Device:C C90
+U 1 1 5E5FFA93
+P 21900 8900
+F 0 "C90" V 21900 8600 50  0000 C CNN
+F 1 "100nF" V 21900 9200 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 8750 50  0001 C CNN
+F 3 "~" H 21900 8900 50  0001 C CNN
+	1    21900 8900
+	0    1    1    0   
+$EndComp
+Text Label 22050 8900 0    50   ~ 0
+GNDR
+Text Label 21750 8900 2    50   ~ 0
+5VR
+$Comp
+L Device:C C91
+U 1 1 5E5FFA9B
+P 21100 9100
+F 0 "C91" V 21100 8800 50  0000 C CNN
+F 1 "100nF" V 21100 9400 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 8950 50  0001 C CNN
+F 3 "~" H 21100 9100 50  0001 C CNN
+	1    21100 9100
+	0    1    1    0   
+$EndComp
+Text Label 21250 9100 0    50   ~ 0
+GNDR
+Text Label 20950 9100 2    50   ~ 0
+5VR
+$Comp
+L Device:C C92
+U 1 1 5E5FFAA3
+P 21900 9100
+F 0 "C92" V 21900 8800 50  0000 C CNN
+F 1 "100nF" V 21900 9400 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 8950 50  0001 C CNN
+F 3 "~" H 21900 9100 50  0001 C CNN
+	1    21900 9100
+	0    1    1    0   
+$EndComp
+Text Label 22050 9100 0    50   ~ 0
+GNDR
+Text Label 21750 9100 2    50   ~ 0
+5VR
+$Comp
+L Device:C C93
+U 1 1 5E5FFAAB
+P 21100 9300
+F 0 "C93" V 21100 9000 50  0000 C CNN
+F 1 "100nF" V 21100 9600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 9150 50  0001 C CNN
+F 3 "~" H 21100 9300 50  0001 C CNN
+	1    21100 9300
+	0    1    1    0   
+$EndComp
+Text Label 21250 9300 0    50   ~ 0
+GNDR
+Text Label 20950 9300 2    50   ~ 0
+5VR
+$Comp
+L Device:C C94
+U 1 1 5E5FFAB3
+P 21900 9300
+F 0 "C94" V 21900 9000 50  0000 C CNN
+F 1 "100nF" V 21900 9600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 9150 50  0001 C CNN
+F 3 "~" H 21900 9300 50  0001 C CNN
+	1    21900 9300
+	0    1    1    0   
+$EndComp
+Text Label 22050 9300 0    50   ~ 0
+GNDR
+Text Label 21750 9300 2    50   ~ 0
+5VR
+$Comp
+L Device:C C97
+U 1 1 5E643209
+P 21100 9500
+F 0 "C97" V 21100 9200 50  0000 C CNN
+F 1 "100nF" V 21100 9800 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 9350 50  0001 C CNN
+F 3 "~" H 21100 9500 50  0001 C CNN
+	1    21100 9500
+	0    1    1    0   
+$EndComp
+Text Label 21250 9500 0    50   ~ 0
+GNDR
+Text Label 20950 9500 2    50   ~ 0
+5VR
+$Comp
+L Device:C C98
+U 1 1 5E643211
+P 21900 9500
+F 0 "C98" V 21900 9200 50  0000 C CNN
+F 1 "100nF" V 21900 9800 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 9350 50  0001 C CNN
+F 3 "~" H 21900 9500 50  0001 C CNN
+	1    21900 9500
+	0    1    1    0   
+$EndComp
+Text Label 22050 9500 0    50   ~ 0
+GNDR
+Text Label 21750 9500 2    50   ~ 0
+5VR
+$Comp
+L Device:C C99
+U 1 1 5E643219
+P 21100 9700
+F 0 "C99" V 21100 9400 50  0000 C CNN
+F 1 "100nF" V 21100 10000 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 9550 50  0001 C CNN
+F 3 "~" H 21100 9700 50  0001 C CNN
+	1    21100 9700
+	0    1    1    0   
+$EndComp
+Text Label 21250 9700 0    50   ~ 0
+GNDR
+Text Label 20950 9700 2    50   ~ 0
+5VR
+$Comp
+L Device:C C100
+U 1 1 5E643221
+P 21900 9700
+F 0 "C100" V 21900 9400 50  0000 C CNN
+F 1 "100nF" V 21900 10000 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 9550 50  0001 C CNN
+F 3 "~" H 21900 9700 50  0001 C CNN
+	1    21900 9700
+	0    1    1    0   
+$EndComp
+Text Label 22050 9700 0    50   ~ 0
+GNDR
+Text Label 21750 9700 2    50   ~ 0
+5VR
+$Comp
+L Device:C C101
+U 1 1 5E643229
+P 21100 9900
+F 0 "C101" V 21100 9600 50  0000 C CNN
+F 1 "100nF" V 21100 10200 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21138 9750 50  0001 C CNN
+F 3 "~" H 21100 9900 50  0001 C CNN
+	1    21100 9900
+	0    1    1    0   
+$EndComp
+Text Label 21250 9900 0    50   ~ 0
+GNDR
+Text Label 20950 9900 2    50   ~ 0
+5VR
+$Comp
+L Device:C C102
+U 1 1 5E643231
+P 21900 9900
+F 0 "C102" V 21900 9600 50  0000 C CNN
+F 1 "100nF" V 21900 10200 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 21938 9750 50  0001 C CNN
+F 3 "~" H 21900 9900 50  0001 C CNN
+	1    21900 9900
+	0    1    1    0   
+$EndComp
+Text Label 22050 9900 0    50   ~ 0
+GNDR
+Text Label 21750 9900 2    50   ~ 0
+5VR
+Text Label 20950 10100 2    50   ~ 0
+5VR
+Text Label 21750 10100 2    50   ~ 0
+5VR
+Text Label 22050 10100 0    50   ~ 0
+GNDR
+Text Label 21250 10100 0    50   ~ 0
+GNDR
+$Comp
+L Legonut_Library:WS2812B LED74
+U 1 1 5E1FB1F1
+P 17250 13850
+F 0 "LED74" H 17250 13363 60  0000 C CNN
+F 1 "WS2812B" H 17250 13469 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 17200 13850 60  0001 C CNN
+F 3 "" V 17200 13850 60  0000 C CNN
+	1    17250 13850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED66
+U 1 1 5E1FB181
+P 16000 12900
+F 0 "LED66" H 16000 12413 60  0000 C CNN
+F 1 "WS2812B" H 16000 12519 60  0000 C CNN
+F 2 "Legonut's Library:WS2812B" V 15950 12900 60  0001 C CNN
+F 3 "" V 15950 12900 60  0000 C CNN
+	1    16000 12900
+	-1   0    0    1   
+$EndComp
+Text Label 15250 11200 3    50   ~ 0
+5VR
+Text Label 16500 11200 3    50   ~ 0
+5VR
+Text Label 17750 11200 3    50   ~ 0
+5VR
+Text Label 19000 11200 3    50   ~ 0
+5VR
+Text Label 20250 11200 3    50   ~ 0
+5VR
+Text Label 21500 11200 3    50   ~ 0
+5VR
+Text Label 14000 12150 3    50   ~ 0
+5VR
+Text Label 15250 12150 3    50   ~ 0
+5VR
+Text Label 16500 12150 3    50   ~ 0
+5VR
+Text Label 17750 12150 3    50   ~ 0
+5VR
+Text Label 19000 12150 3    50   ~ 0
+5VR
+Text Label 20250 12150 3    50   ~ 0
+5VR
+Text Label 21500 12150 3    50   ~ 0
+5VR
+Text Label 14000 13100 3    50   ~ 0
+5VR
+Text Label 15250 13100 3    50   ~ 0
+5VR
+Text Label 16500 13100 3    50   ~ 0
+5VR
+Text Label 17750 13100 3    50   ~ 0
+5VR
+Text Label 19000 13100 3    50   ~ 0
+5VR
+Text Label 20250 13100 3    50   ~ 0
+5VR
+Text Label 21500 13100 3    50   ~ 0
+5VR
+Text Label 14000 14050 3    50   ~ 0
+5VR
+Text Label 15250 14050 3    50   ~ 0
+5VR
+Text Label 16500 14050 3    50   ~ 0
+5VR
+Text Label 17750 14050 3    50   ~ 0
+5VR
+Text Label 19000 14050 3    50   ~ 0
+5VR
+Text Label 20250 14050 3    50   ~ 0
+5VR
+Text Label 21500 14050 3    50   ~ 0
+5VR
+Text Label 21500 15000 3    50   ~ 0
+5VR
+Text Label 20250 15000 3    50   ~ 0
+5VR
+Text Label 19000 15000 3    50   ~ 0
+5VR
+Text Label 17750 15000 3    50   ~ 0
+5VR
+Text Label 16500 15000 3    50   ~ 0
+5VR
+Text Label 15250 15000 3    50   ~ 0
+5VR
+Text Label 14000 15000 3    50   ~ 0
+5VR
+Text Label 21500 16900 3    50   ~ 0
+5VR
+Text Label 20250 16900 3    50   ~ 0
+5VR
+Text Label 19000 16900 3    50   ~ 0
+5VR
+Text Label 17750 16900 3    50   ~ 0
+5VR
+Text Label 16500 16900 3    50   ~ 0
+5VR
+Text Label 15250 16900 3    50   ~ 0
+5VR
+Text Label 14000 16900 3    50   ~ 0
+5VR
+Text Label 14000 15950 3    50   ~ 0
+5VR
+Text Label 15250 15950 3    50   ~ 0
+5VR
+Text Label 16500 15950 3    50   ~ 0
+5VR
+Text Label 17750 15950 3    50   ~ 0
+5VR
+Text Label 19000 15950 3    50   ~ 0
+5VR
+Text Label 20250 15950 3    50   ~ 0
+5VR
+Text Label 21500 15950 3    50   ~ 0
+5VR
+Text Label 14250 10800 1    50   ~ 0
+GNDR
+Text Label 15500 10800 1    50   ~ 0
+GNDR
+Text Label 16750 10800 1    50   ~ 0
+GNDR
+Text Label 18000 10800 1    50   ~ 0
+GNDR
+Text Label 19250 10800 1    50   ~ 0
+GNDR
+Text Label 20500 10800 1    50   ~ 0
+GNDR
+Text Label 20500 11750 1    50   ~ 0
+GNDR
+Text Label 19250 11750 1    50   ~ 0
+GNDR
+Text Label 18000 11750 1    50   ~ 0
+GNDR
+Text Label 16750 11750 1    50   ~ 0
+GNDR
+Text Label 15500 11750 1    50   ~ 0
+GNDR
+Text Label 14250 11750 1    50   ~ 0
+GNDR
+Text Label 14250 12700 1    50   ~ 0
+GNDR
+Text Label 13000 12700 1    50   ~ 0
+GNDR
+Text Label 13000 11750 1    50   ~ 0
+GNDR
+Text Label 15500 12700 1    50   ~ 0
+GNDR
+Text Label 16750 12700 1    50   ~ 0
+GNDR
+Text Label 18000 12700 1    50   ~ 0
+GNDR
+Text Label 19250 12700 1    50   ~ 0
+GNDR
+Text Label 20500 12700 1    50   ~ 0
+GNDR
+Text Label 20500 13650 1    50   ~ 0
+GNDR
+Text Label 19250 13650 1    50   ~ 0
+GNDR
+Text Label 18000 13650 1    50   ~ 0
+GNDR
+Text Label 16750 13650 1    50   ~ 0
+GNDR
+Text Label 15500 13650 1    50   ~ 0
+GNDR
+Text Label 14250 13650 1    50   ~ 0
+GNDR
+Text Label 13000 13650 1    50   ~ 0
+GNDR
+Text Label 13000 14600 1    50   ~ 0
+GNDR
+Text Label 14250 14600 1    50   ~ 0
+GNDR
+Text Label 15500 14600 1    50   ~ 0
+GNDR
+Text Label 16750 14600 1    50   ~ 0
+GNDR
+Text Label 18000 14600 1    50   ~ 0
+GNDR
+Text Label 19250 14600 1    50   ~ 0
+GNDR
+Text Label 20500 14600 1    50   ~ 0
+GNDR
+Text Label 20500 15550 1    50   ~ 0
+GNDR
+Text Label 19250 15550 1    50   ~ 0
+GNDR
+Text Label 18000 15550 1    50   ~ 0
+GNDR
+Text Label 16750 15550 1    50   ~ 0
+GNDR
+Text Label 15500 15550 1    50   ~ 0
+GNDR
+Text Label 14250 15550 1    50   ~ 0
+GNDR
+Text Label 13000 15550 1    50   ~ 0
+GNDR
+Text Label 20500 16500 1    50   ~ 0
+GNDR
+Text Label 19250 16500 1    50   ~ 0
+GNDR
+Text Label 18000 16500 1    50   ~ 0
+GNDR
+Text Label 16750 16500 1    50   ~ 0
+GNDR
+Text Label 15500 16500 1    50   ~ 0
+GNDR
+Text Label 14250 16500 1    50   ~ 0
+GNDR
+Text Label 13000 16500 1    50   ~ 0
+GNDR
+$Comp
+L Legonut_Library:WS2812B LED33
+U 1 1 5E1F0CA2
+P 7450 14800
+F 0 "LED33" H 7794 14846 50  0000 L CNN
+F 1 "WS2812B" H 7794 14755 50  0000 L CNN
+F 2 "Legonut's Library:WS2812B" H 7500 14500 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7550 14425 50  0001 L TNN
+	1    7450 14800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED34
+U 1 1 5E1F2693
+P 8700 14800
+F 0 "LED34" H 9044 14846 50  0000 L CNN
+F 1 "WS2812B" H 9044 14755 50  0000 L CNN
+F 2 "Legonut's Library:WS2812B" H 8750 14500 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8800 14425 50  0001 L TNN
+	1    8700 14800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Legonut_Library:WS2812B LED35
+U 1 1 5E1F30B0
+P 9950 14800
+F 0 "LED35" H 10294 14846 50  0000 L CNN
+F 1 "WS2812B" H 10294 14755 50  0000 L CNN
+F 2 "Legonut's Library:WS2812B" H 10000 14500 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 10050 14425 50  0001 L TNN
+	1    9950 14800
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6700 14600 6800 14600
+Wire Wire Line
+	6800 14600 6800 15000
+Wire Wire Line
+	6800 15000 6950 15000
+Wire Wire Line
+	7950 14600 8050 14600
+Wire Wire Line
+	8050 14600 8050 15000
+Wire Wire Line
+	8050 15000 8200 15000
+Wire Wire Line
+	9200 14600 9300 14600
+Wire Wire Line
+	9300 14600 9300 15000
+Wire Wire Line
+	9300 15000 9450 15000
+Wire Wire Line
+	10450 14600 10550 14600
+Wire Wire Line
+	10550 14600 10550 15200
+$Comp
+L Legonut_Library:STM32F303CCT6 U2
+U 1 1 5D986930
+P 4450 4500
+F 0 "U2" H 3900 2950 50  0000 C CNN
+F 1 "STM32F303CCT6" H 3850 3050 50  0000 C CNN
+F 2 "Package_QFP:LQFP-48_7x7mm_P0.5mm" H 3850 3100 50  0001 R CNN
+F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf" H 4450 4500 50  0001 C CNN
+	1    4450 4500
+	1    0    0    -1  
+$EndComp
+Text Label 3000 3700 3    50   ~ 0
+GNDL
+$Comp
+L Connector_Generic:Conn_02x10_Counter_Clockwise J18
+U 1 1 5E8EA5EF
+P 20750 2900
+F 0 "J18" H 20800 3517 50  0000 C CNN
+F 1 "AT42QT2120" H 20800 3426 50  0000 C CNN
+F 2 "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm" H 20750 2900 50  0001 C CNN
+F 3 "~" H 20750 2900 50  0001 C CNN
+	1    20750 2900
+	0    1    1    0   
+$EndComp
+NoConn ~ 21150 2700
+NoConn ~ 21050 2700
+NoConn ~ 20950 2700
+NoConn ~ 20850 2700
+NoConn ~ 21150 3200
+NoConn ~ 21050 3200
+NoConn ~ 20950 3200
+NoConn ~ 20650 3200
+$Comp
+L Device:R R25
+U 1 1 5E8EA602
+P 20300 3750
+F 0 "R25" V 20093 3750 50  0000 C CNN
+F 1 "4.7kR" V 20184 3750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 20230 3750 50  0001 C CNN
+F 3 "~" H 20300 3750 50  0001 C CNN
+	1    20300 3750
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	20450 3200 20450 3750
+Wire Wire Line
+	20350 2700 20350 1950
+Wire Wire Line
+	20450 2700 20450 2300
+Wire Wire Line
+	20550 2650 20550 2700
+$Comp
+L Device:R R16
+U 1 1 5E8EA610
+P 20350 1800
+F 0 "R16" V 20143 1800 50  0000 C CNN
+F 1 "4.7kR" V 20234 1800 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 20280 1800 50  0001 C CNN
+F 3 "~" H 20350 1800 50  0001 C CNN
+	1    20350 1800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R18
+U 1 1 5E8EA61A
+P 20450 2150
+F 0 "R18" V 20243 2150 50  0000 C CNN
+F 1 "4.7kR" V 20334 2150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 20380 2150 50  0001 C CNN
+F 3 "~" H 20450 2150 50  0001 C CNN
+	1    20450 2150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R20
+U 1 1 5E8EA624
+P 20550 2500
+F 0 "R20" V 20343 2500 50  0000 C CNN
+F 1 "4.7kR" V 20434 2500 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 20480 2500 50  0001 C CNN
+F 3 "~" H 20550 2500 50  0001 C CNN
+	1    20550 2500
+	-1   0    0    1   
+$EndComp
+NoConn ~ 20750 2700
+NoConn ~ 20650 2700
+$Comp
+L Device:R R22
+U 1 1 5E8EA630
+P 20900 3350
+F 0 "R22" V 20693 3350 50  0000 C CNN
+F 1 "4.7kR" V 20784 3350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 20830 3350 50  0001 C CNN
+F 3 "~" H 20900 3350 50  0001 C CNN
+	1    20900 3350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R26
+U 1 1 5E8EA63A
+P 20550 3750
+F 0 "R26" V 20343 3750 50  0000 C CNN
+F 1 "4.7kR" V 20434 3750 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 20480 3750 50  0001 C CNN
+F 3 "~" H 20550 3750 50  0001 C CNN
+	1    20550 3750
+	-1   0    0    1   
+$EndComp
+Text Label 20550 2350 0    50   ~ 0
+CS2R
+Text Label 20350 1650 0    50   ~ 0
+CS0R
+Text Label 20450 2000 0    50   ~ 0
+CS1R
+$Comp
+L Connector_Generic:Conn_01x04 J16
+U 1 1 5E8EA649
+P 21250 1850
+F 0 "J16" H 21168 1425 50  0000 C CNN
+F 1 "472861001" H 21168 1516 50  0000 C CNN
+F 2 "Legonut's Library:472861001" H 21250 1850 50  0001 C CNN
+F 3 "~" H 21250 1850 50  0001 C CNN
+	1    21250 1850
+	1    0    0    -1  
+$EndComp
+Text Label 21050 1950 2    50   ~ 0
+SCL-TBR
+Text Label 21050 2050 2    50   ~ 0
+SDA-TBR
+Wire Wire Line
+	20750 3700 20750 3350
+Wire Wire Line
+	20750 3200 20750 3350
+Text Label 20250 2700 1    50   ~ 0
+GNDR
+Text Label 20350 3200 3    50   ~ 0
+GNDR
+Text Label 21050 1750 2    50   ~ 0
+GNDR
+Text Label 20450 3750 3    50   ~ 0
+SDA-TBR
+Text Label 20750 3700 0    50   ~ 0
+SCL-TBR
+Connection ~ 20750 3350
+Text Label 5300 6000 0    50   ~ 0
+row3L
+Text Label 5300 6200 0    50   ~ 0
+enc_1BL
+$Comp
+L Connector:Conn_01x01_Male J20
+U 1 1 5E46B85F
+P 5100 6000
+F 0 "J20" H 5208 6181 50  0000 C CNN
+F 1 "SWDIO" H 5208 6090 50  0000 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" H 5100 6000 50  0001 C CNN
+F 3 "~" H 5100 6000 50  0001 C CNN
+	1    5100 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J22
+U 1 1 5E4B6A57
+P 5100 6200
+F 0 "J22" H 5208 6381 50  0000 C CNN
+F 1 "SWCLK" H 5208 6290 50  0000 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" H 5100 6200 50  0001 C CNN
+F 3 "~" H 5100 6200 50  0001 C CNN
+	1    5100 6200
+	1    0    0    -1  
+$EndComp
+Text Label 16350 5950 0    50   ~ 0
+row3R
+Text Label 16350 6150 0    50   ~ 0
+enc_1BR
+$Comp
+L Connector:Conn_01x01_Male J19
+U 1 1 5E4FD90F
+P 16150 5950
+F 0 "J19" H 16258 6131 50  0000 C CNN
+F 1 "SWDIO" H 16258 6040 50  0000 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" H 16150 5950 50  0001 C CNN
+F 3 "~" H 16150 5950 50  0001 C CNN
+	1    16150 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J21
+U 1 1 5E4FD915
+P 16150 6150
+F 0 "J21" H 16258 6331 50  0000 C CNN
+F 1 "SWCLK" H 16258 6240 50  0000 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" H 16150 6150 50  0001 C CNN
+F 3 "~" H 16150 6150 50  0001 C CNN
+	1    16150 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D72
+U 1 1 5E1FAFDC
+P 13750 3800
+F 0 "D72" V 13796 3721 50  0000 R CNN
+F 1 "D" V 13705 3721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 13750 3800 50  0001 C CNN
+F 3 "~" H 13750 3800 50  0001 C CNN
+	1    13750 3800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D D71
+U 1 1 5D95185F
+P 2700 3800
+F 0 "D71" V 2746 3721 50  0000 R CNN
+F 1 "D" V 2655 3721 50  0000 R CNN
+F 2 "Diode_SMD:D_0603_1608Metric" H 2700 3800 50  0001 C CNN
+F 3 "~" H 2700 3800 50  0001 C CNN
+	1    2700 3800
+	-1   0    0    1   
+$EndComp
+Text Label 8550 3500 3    50   ~ 0
+SDA-TBL
+Text Label 8850 3250 3    50   ~ 0
+SCL-TBL
+Text Label 9150 1500 2    50   ~ 0
+GNDL
+Text Label 8450 2950 3    50   ~ 0
+GNDL
+Text Label 8350 2450 1    50   ~ 0
+GNDL
+Connection ~ 8850 3100
+Wire Wire Line
+	8850 2950 8850 3100
+Wire Wire Line
+	8850 3250 8850 3100
+Text Label 9150 1800 2    50   ~ 0
+SDA-TBL
+Text Label 9150 1700 2    50   ~ 0
+SCL-TBL
+$Comp
+L Connector_Generic:Conn_01x04 J15
+U 1 1 5D84F2A9
+P 9350 1600
+F 0 "J15" H 9268 1175 50  0000 C CNN
+F 1 "472861001" H 9268 1266 50  0000 C CNN
+F 2 "Legonut's Library:472861001" H 9350 1600 50  0001 C CNN
+F 3 "~" H 9350 1600 50  0001 C CNN
+	1    9350 1600
+	1    0    0    -1  
+$EndComp
+Text Label 8550 1750 0    50   ~ 0
+CS1L
+Text Label 8450 1400 0    50   ~ 0
+CS0L
+Text Label 8650 2100 0    50   ~ 0
+CS2L
+$Comp
+L Device:R R24
+U 1 1 5D84DA92
+P 8650 3500
+F 0 "R24" V 8443 3500 50  0000 C CNN
+F 1 "4.7kR" V 8534 3500 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 8580 3500 50  0001 C CNN
+F 3 "~" H 8650 3500 50  0001 C CNN
+	1    8650 3500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R21
+U 1 1 5D84BE49
+P 9000 3100
+F 0 "R21" V 8793 3100 50  0000 C CNN
+F 1 "4.7kR" V 8884 3100 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 8930 3100 50  0001 C CNN
+F 3 "~" H 9000 3100 50  0001 C CNN
+	1    9000 3100
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 8750 2450
+NoConn ~ 8850 2450
+$Comp
+L Device:R R19
+U 1 1 5D84F8A4
+P 8650 2250
+F 0 "R19" V 8443 2250 50  0000 C CNN
+F 1 "4.7kR" V 8534 2250 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 8580 2250 50  0001 C CNN
+F 3 "~" H 8650 2250 50  0001 C CNN
+	1    8650 2250
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R17
+U 1 1 5D84FBEC
+P 8550 1900
+F 0 "R17" V 8343 1900 50  0000 C CNN
+F 1 "4.7kR" V 8434 1900 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 8480 1900 50  0001 C CNN
+F 3 "~" H 8550 1900 50  0001 C CNN
+	1    8550 1900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R15
+U 1 1 5D85033A
+P 8450 1550
+F 0 "R15" V 8243 1550 50  0000 C CNN
+F 1 "4.7kR" V 8334 1550 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 8380 1550 50  0001 C CNN
+F 3 "~" H 8450 1550 50  0001 C CNN
+	1    8450 1550
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8650 2400 8650 2450
+Wire Wire Line
+	8550 2450 8550 2050
+Wire Wire Line
+	8450 2450 8450 1700
+Wire Wire Line
+	8550 2950 8550 3500
+$Comp
+L Device:R R23
+U 1 1 5D84C3F3
+P 8400 3500
+F 0 "R23" V 8193 3500 50  0000 C CNN
+F 1 "4.7kR" V 8284 3500 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 8330 3500 50  0001 C CNN
+F 3 "~" H 8400 3500 50  0001 C CNN
+	1    8400 3500
+	0    1    1    0   
+$EndComp
+NoConn ~ 8750 2950
+NoConn ~ 9050 2950
+NoConn ~ 9150 2950
+NoConn ~ 9250 2950
+NoConn ~ 8950 2450
+NoConn ~ 9050 2450
+NoConn ~ 9150 2450
+NoConn ~ 9250 2450
+$Comp
+L Connector_Generic:Conn_02x10_Counter_Clockwise J17
+U 1 1 5D84803C
+P 8850 2650
+F 0 "J17" H 8900 3267 50  0000 C CNN
+F 1 "AT42QT2120" H 8900 3176 50  0000 C CNN
+F 2 "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm" H 8850 2650 50  0001 C CNN
+F 3 "~" H 8850 2650 50  0001 C CNN
+	1    8850 2650
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R29
+U 1 1 5F54EE5E
+P 5750 5700
+F 0 "R29" H 5680 5654 50  0000 R CNN
+F 1 "1.5k" H 5680 5745 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5680 5700 50  0001 C CNN
+F 3 "~" H 5750 5700 50  0001 C CNN
+	1    5750 5700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5750 5550 5750 5350
+Connection ~ 5750 5350
+Wire Wire Line
+	5750 5350 5850 5350
+Text Label 5750 5850 3    50   ~ 0
+5VL
+$Comp
+L Device:R R30
+U 1 1 5F59BBA6
+P 16800 5700
+F 0 "R30" H 16730 5654 50  0000 R CNN
+F 1 "1.5k" H 16730 5745 50  0000 R CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 16730 5700 50  0001 C CNN
+F 3 "~" H 16800 5700 50  0001 C CNN
+	1    16800 5700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	16800 5550 16800 5350
+Connection ~ 16800 5350
+Wire Wire Line
+	16800 5350 16900 5350
+Text Label 16800 5850 3    50   ~ 0
+5VR
+$Comp
+L Transistor_FET:BSS138 Q3
+U 1 1 5F74C7EC
+P 9250 4600
+F 0 "Q3" V 9501 4600 50  0000 C CNN
+F 1 "BSS138" V 9592 4600 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 9450 4525 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf" H 9250 4600 50  0001 L CNN
+	1    9250 4600
+	0    1    1    0   
+$EndComp
+Text Label 8850 4700 2    50   ~ 0
+RGBL_3.3V
+Text Label 8950 4300 1    50   ~ 0
+3.3VL
+$Comp
+L Device:R R31
+U 1 1 5F79BEAB
+P 8950 4450
+F 0 "R31" V 8743 4450 50  0000 C CNN
+F 1 "10kR" V 8834 4450 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 8880 4450 50  0001 C CNN
+F 3 "~" H 8950 4450 50  0001 C CNN
+	1    8950 4450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9250 4400 9250 4300
+Wire Wire Line
+	9250 4300 8950 4300
+Wire Wire Line
+	8850 4700 8950 4700
+Wire Wire Line
+	8950 4600 8950 4700
+Connection ~ 8950 4700
+Wire Wire Line
+	8950 4700 9050 4700
+$Comp
+L Device:R R32
+U 1 1 5F8824FC
+P 9550 4450
+F 0 "R32" V 9343 4450 50  0000 C CNN
+F 1 "10kR" V 9434 4450 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 9480 4450 50  0001 C CNN
+F 3 "~" H 9550 4450 50  0001 C CNN
+	1    9550 4450
+	1    0    0    -1  
+$EndComp
+Text Label 9550 4300 1    50   ~ 0
+5VL
+Wire Wire Line
+	9450 4700 9550 4700
+Wire Wire Line
+	9550 4600 9550 4700
+Connection ~ 9550 4700
+Wire Wire Line
+	9550 4700 9650 4700
+Text Label 9650 4700 0    50   ~ 0
+RGBLO
+$Comp
+L Transistor_FET:BSS138 Q4
+U 1 1 5F97DFC1
+P 20600 4750
+F 0 "Q4" V 20851 4750 50  0000 C CNN
+F 1 "BSS138" V 20942 4750 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 20800 4675 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf" H 20600 4750 50  0001 L CNN
+	1    20600 4750
+	0    1    1    0   
+$EndComp
+Text Label 20200 4850 2    50   ~ 0
+RGBR_3.3V
+Text Label 20300 4450 1    50   ~ 0
+3.3VR
+$Comp
+L Device:R R33
+U 1 1 5F97DFC9
+P 20300 4600
+F 0 "R33" V 20093 4600 50  0000 C CNN
+F 1 "10kR" V 20184 4600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 20230 4600 50  0001 C CNN
+F 3 "~" H 20300 4600 50  0001 C CNN
+	1    20300 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	20600 4550 20600 4450
+Wire Wire Line
+	20600 4450 20300 4450
+Wire Wire Line
+	20200 4850 20300 4850
+Wire Wire Line
+	20300 4750 20300 4850
+Connection ~ 20300 4850
+Wire Wire Line
+	20300 4850 20400 4850
+$Comp
+L Device:R R34
+U 1 1 5F97DFD5
+P 20900 4600
+F 0 "R34" V 20693 4600 50  0000 C CNN
+F 1 "10kR" V 20784 4600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 20830 4600 50  0001 C CNN
+F 3 "~" H 20900 4600 50  0001 C CNN
+	1    20900 4600
+	1    0    0    -1  
+$EndComp
+Text Label 20900 4450 1    50   ~ 0
+5VR
+Wire Wire Line
+	20800 4850 20900 4850
+Wire Wire Line
+	20900 4750 20900 4850
+Connection ~ 20900 4850
+Wire Wire Line
+	20900 4850 21000 4850
+Text Label 21000 4850 0    50   ~ 0
+RGBRO
+NoConn ~ 8650 2950
+Wire Wire Line
+	8950 2950 8950 3350
+Wire Wire Line
+	8950 3350 8650 3350
+NoConn ~ 20550 3200
+Wire Wire Line
+	20850 3200 20850 3600
+Wire Wire Line
+	20850 3600 20550 3600
+Text Label 18550 3350 2    50   ~ 0
+3.3VR
+Text Label 18850 3800 0    50   ~ 0
+3.3VR
+Text Label 21050 1850 2    50   ~ 0
+3.3VR
+Text Label 20250 3200 3    50   ~ 0
+3.3VR
+Text Label 20150 3750 3    50   ~ 0
+3.3VR
+Text Label 20550 3900 3    50   ~ 0
+3.3VR
+Text Label 21050 3350 0    50   ~ 0
+3.3VR
+Text Label 8250 3500 3    50   ~ 0
+3.3VL
+Text Label 8350 2950 3    50   ~ 0
+3.3VL
+Text Label 8650 3650 3    50   ~ 0
+3.3VL
+Text Label 9150 3100 0    50   ~ 0
+3.3VL
+Text Label 9150 1600 2    50   ~ 0
+3.3VL
+Text Label 18550 3150 2    50   ~ 0
+SDA1R_3.3V
+Text Label 18850 3600 0    50   ~ 0
+SDA1R_3.3V
+Text Label 18550 3250 2    50   ~ 0
+SCL1R_3.3V
+Text Label 18850 3700 0    50   ~ 0
+SCL1R_3.3V
+Text Label 9250 5750 3    50   ~ 0
+SDA2L
+Text Label 8950 5750 3    50   ~ 0
+SCL2L
+$Comp
+L Device:R R27
+U 1 1 5F997F8F
+P 8950 5600
+F 0 "R27" V 8743 5600 50  0000 C CNN
+F 1 "4.7kR" V 8834 5600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 8880 5600 50  0001 C CNN
+F 3 "~" H 8950 5600 50  0001 C CNN
+	1    8950 5600
+	-1   0    0    1   
+$EndComp
+Text Label 8950 5450 1    50   ~ 0
+3.3VL
+$Comp
+L Device:R R28
+U 1 1 5F9E6FA2
+P 9250 5600
+F 0 "R28" V 9043 5600 50  0000 C CNN
+F 1 "4.7kR" V 9134 5600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 9180 5600 50  0001 C CNN
+F 3 "~" H 9250 5600 50  0001 C CNN
+	1    9250 5600
+	-1   0    0    1   
+$EndComp
+Text Label 9250 5450 1    50   ~ 0
+3.3VL
+$Comp
+L Device:R R35
+U 1 1 5F9F0D72
+P 20000 5700
+F 0 "R35" V 19793 5700 50  0000 C CNN
+F 1 "4.7kR" V 19884 5700 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 19930 5700 50  0001 C CNN
+F 3 "~" H 20000 5700 50  0001 C CNN
+	1    20000 5700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R36
+U 1 1 5F9F0D79
+P 20300 5700
+F 0 "R36" V 20093 5700 50  0000 C CNN
+F 1 "4.7kR" V 20184 5700 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" V 20230 5700 50  0001 C CNN
+F 3 "~" H 20300 5700 50  0001 C CNN
+	1    20300 5700
+	-1   0    0    1   
+$EndComp
+Text Label 20000 5550 1    50   ~ 0
+3.3VR
+Text Label 20300 5550 1    50   ~ 0
+3.3VR
+Text Label 20300 5850 3    50   ~ 0
+SDA2R
+Text Label 20000 5850 3    50   ~ 0
+SCL2R
+Text Label 7200 4650 0    50   ~ 0
+SCL2L
+Text Label 7200 5050 0    50   ~ 0
+SDA2L
+Text Label 8050 4650 0    50   ~ 0
+D-L
+Text Label 8050 5050 0    50   ~ 0
+D+L
+Text Label 7200 4450 0    50   ~ 0
+D-L
+Text Label 7650 4550 2    50   ~ 0
+AB7_LL
+Text Label 7200 4850 0    50   ~ 0
+D+L
+Text Label 7650 4950 2    50   ~ 0
+AB6_LL
+Text Label 6800 4550 2    50   ~ 0
+AB7_RL
+Text Label 6800 4950 2    50   ~ 0
+AB6_RL
+Text Label 8050 4450 0    50   ~ 0
+SCL2L
+$Comp
+L Mun-rescue:SW_Push_DPDT-Switch SW2
+U 1 1 5D990B4A
+P 7850 4750
+F 0 "SW2" H 7850 5250 50  0000 C CNN
+F 1 "JS202011JAQN" H 7850 5150 50  0000 C CNN
+F 2 "Legonut's Library:DPDT-SM" H 7850 4950 50  0001 C CNN
+F 3 "~" H 7850 4950 50  0001 C CNN
+	1    7850 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mun-rescue:SW_Push_DPDT-Switch SW1
+U 1 1 5D98F3E2
+P 7000 4750
+F 0 "SW1" H 7000 5250 50  0000 C CNN
+F 1 "JS202011JAQN" H 7000 5150 50  0000 C CNN
+F 2 "Legonut's Library:DPDT-SM" H 7000 4950 50  0001 C CNN
+F 3 "~" H 7000 4950 50  0001 C CNN
+	1    7000 4750
+	1    0    0    -1  
+$EndComp
+Text Label 8050 4850 0    50   ~ 0
+SDA2L
+Text Label 7350 3750 0    50   ~ 0
+SCL1L_3.3V
+Text Label 7050 3300 2    50   ~ 0
+SCL1L_3.3V
+Text Label 7350 3650 0    50   ~ 0
+SDA1L_3.3V
+Text Label 7050 3200 2    50   ~ 0
+SDA1L_3.3V
+Text Label 7350 3850 0    50   ~ 0
+3.3VL
+Text Label 7050 3400 2    50   ~ 0
+3.3VL
+Text Label 7350 3950 0    50   ~ 0
+GNDL
+$Comp
+L Connector_Generic:Conn_01x04 J6
+U 1 1 5DB07E4A
+P 7150 3850
+F 0 "J6" H 7230 3842 50  0000 L CNN
+F 1 "Conn_01x04" H 7230 3751 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 7150 3850 50  0001 C CNN
+F 3 "~" H 7150 3850 50  0001 C CNN
+	1    7150 3850
+	-1   0    0    1   
+$EndComp
+Text Label 7050 3500 2    50   ~ 0
+GNDL
+$Comp
+L Connector_Generic:Conn_01x04 J4
+U 1 1 5D9464CE
+P 7250 3300
+F 0 "J4" H 7330 3292 50  0000 L CNN
+F 1 "Conn_01x04" H 7330 3201 50  0000 L CNN
+F 2 "Legonut's Library:Landingpad_Horizontal_1x4" H 7250 3300 50  0001 C CNN
+F 3 "~" H 7250 3300 50  0001 C CNN
+	1    7250 3300
+	1    0    0    -1  
+$EndComp
+Text Label 6150 3600 0    50   ~ 0
+3.3VL
+Wire Notes Line
+	8100 1300 8100 3900
+Wire Notes Line
+	8100 3900 9500 3900
+Wire Notes Line
+	9500 3900 9500 1300
+Wire Notes Line
+	9500 1300 8100 1300
+Wire Notes Line
+	20050 1550 20050 4150
+Wire Notes Line
+	20050 4150 21400 4150
+Wire Notes Line
+	21400 4150 21400 1550
+Wire Notes Line
+	21400 1550 20050 1550
+Wire Notes Line
+	17450 4200 19300 4200
+Wire Notes Line
+	19300 4200 19300 5200
+Wire Notes Line
+	19300 5200 17450 5200
+Wire Notes Line
+	17450 5200 17450 4200
+Wire Notes Line
+	6450 4200 8300 4200
+Wire Notes Line
+	8300 4200 8300 5150
+Wire Notes Line
+	8300 5150 6450 5150
+Wire Notes Line
+	6450 5150 6450 4200
+Text Notes 6900 5250 0    50   ~ 0
+USB SELECTOR SWITCHES
+Text Notes 17900 5300 0    50   ~ 0
+USB SELECTOR SWITCHES
+Text Notes 20550 1500 0    50   ~ 0
+TOUCHBAR
+Text Notes 8650 1250 0    50   ~ 0
+TOUCHBAR
+Wire Notes Line
+	8400 4100 8400 5000
+Wire Notes Line
+	8400 5000 9900 5000
+Wire Notes Line
+	9900 5000 9900 4100
+Wire Notes Line
+	9900 4100 8400 4100
+Wire Notes Line
+	19750 4250 19750 5150
+Wire Notes Line
+	19750 5150 21250 5150
+Wire Notes Line
+	21250 5150 21250 4250
+Wire Notes Line
+	21250 4250 19750 4250
+Text Notes 20200 5250 0    50   ~ 0
+RGB LEVEL SHIFTER
+Text Notes 8700 5100 0    50   ~ 0
+RGB LEVEL SHIFTER
+Wire Notes Line
+	6900 5350 8350 5350
+Text Notes 7100 6150 0    50   ~ 0
+INTER-BOARD CONNECTOR
+Wire Notes Line
+	6900 5350 6900 6050
+Wire Notes Line
+	6900 6050 8350 6050
+Wire Notes Line
+	8350 6050 8350 5350
+Text Notes 18200 6200 0    50   ~ 0
+INTER-BOARD CONNECTOR
+Wire Notes Line
+	17800 5400 19450 5400
+Wire Notes Line
+	19450 5400 19450 6100
+Wire Notes Line
+	19450 6100 17800 6100
+Wire Notes Line
+	17800 6100 17800 5400
+Wire Notes Line
+	8800 5200 9500 5200
+Wire Notes Line
+	9500 5200 9500 6000
+Wire Notes Line
+	9500 6000 8800 6000
+Wire Notes Line
+	8800 6000 8800 5200
+Wire Notes Line
+	19850 5300 20550 5300
+Wire Notes Line
+	20550 5300 20550 6100
+Wire Notes Line
+	20550 6100 19850 6100
+Wire Notes Line
+	19850 6100 19850 5300
+Text Notes 19950 6200 0    50   ~ 0
+I2C PULLUP
+Text Notes 8900 6100 0    50   ~ 0
+I2C PULLUP
+Wire Notes Line
+	6600 3100 6600 4050
+Wire Notes Line
+	6600 4050 7800 4050
+Wire Notes Line
+	7800 4050 7800 3100
+Wire Notes Line
+	7800 3100 6600 3100
+Text Notes 7000 4150 0    50   ~ 0
+I2C PINOUT
+Text Notes 18450 4100 0    50   ~ 0
+I2C PINOUT
+Wire Notes Line
+	18050 3050 18050 4000
+Wire Notes Line
+	18050 4000 19300 4000
+Wire Notes Line
+	19300 4000 19300 3050
+Wire Notes Line
+	19300 3050 18050 3050
+Wire Notes Line
+	9600 6150 9600 10150
+Wire Notes Line
+	9600 10150 11250 10150
+Wire Notes Line
+	11250 10150 11250 6150
+Wire Notes Line
+	11250 6150 9600 6150
+Wire Notes Line
+	20700 6200 20700 10200
+Wire Notes Line
+	20700 10200 22350 10200
+Wire Notes Line
+	22350 10200 22350 6200
+Wire Notes Line
+	22350 6200 20700 6200
+Text Notes 9850 10250 0    50   ~ 0
+LED DECOUPLING CAPACITORS
+Text Notes 20950 10300 0    50   ~ 0
+LED DECOUPLING CAPACITORS
+Wire Notes Line
+	5350 2950 5350 4200
+Wire Notes Line
+	5350 4200 6400 4200
+Wire Notes Line
+	6400 4200 6400 2950
+Wire Notes Line
+	6400 2950 5350 2950
+Text Notes 5550 4300 0    50   ~ 0
+3.3V REGULATOR
+Text Notes 16600 4150 0    50   ~ 0
+3.3V REGULATOR
+Wire Notes Line
+	17400 2800 17400 4050
+Wire Notes Line
+	17400 4050 16400 4050
+Wire Notes Line
+	16400 4050 16400 2800
+Wire Notes Line
+	16400 2800 17400 2800
+Wire Notes Line
+	1750 15150 10600 15150
+Wire Notes Line
+	10600 10400 1750 10400
+Wire Notes Line
+	10600 17100 1750 17100
+Wire Notes Line
+	1750 10400 1750 17100
+Wire Notes Line
+	10600 10400 10600 17100
+Wire Notes Line
+	12750 10400 21650 10400
+Wire Notes Line
+	21650 10400 21650 17100
+Wire Notes Line
+	21650 17100 12750 17100
+Wire Notes Line
+	12750 17100 12750 10400
+Wire Notes Line
+	12750 15150 21650 15150
+Text Notes 10700 15150 1    50   ~ 0
+BACKLIGHT LEDS
+Text Notes 21750 15150 1    50   ~ 0
+BACKLIGHT LEDS
+Text Notes 21750 17100 1    50   ~ 0
+REAR LEDS
+Text Notes 10700 17100 1    50   ~ 0
+REAR LEDS
+Wire Notes Line
+	8150 6400 8150 8600
+Wire Notes Line
+	8150 8600 9250 8600
+Wire Notes Line
+	9250 8600 9250 6400
+Wire Notes Line
+	9250 6400 8150 6400
+Wire Notes Line
+	19100 6350 19100 8600
+Wire Notes Line
+	19100 8600 20200 8600
+Wire Notes Line
+	20200 8600 20200 6350
+Wire Notes Line
+	20200 6350 19100 6350
+Wire Notes Line
+	19100 8800 19100 9350
+Wire Notes Line
+	19100 9350 20200 9350
+Wire Notes Line
+	20200 9350 20200 8800
+Wire Notes Line
+	20200 8800 19100 8800
+Wire Notes Line
+	8150 8800 9250 8800
+Wire Notes Line
+	9250 8800 9250 9350
+Wire Notes Line
+	9250 9350 8150 9350
+Wire Notes Line
+	8150 9350 8150 8800
+Text Notes 8300 8700 0    50   ~ 0
+ENCODER GROUP 1
+Text Notes 8350 9450 0    50   ~ 0
+ENCODER GROUP 2
+Text Notes 19300 8700 0    50   ~ 0
+ENCODER GROUP 3
+Text Notes 19300 9450 0    50   ~ 0
+ENCODER GROUP 4
+Wire Notes Line
+	4400 950  4400 2600
+Wire Notes Line
+	4400 2600 7350 2600
+Wire Notes Line
+	7350 2600 7350 950 
+Wire Notes Line
+	7350 950  4400 950 
+Wire Notes Line
+	4300 950  4300 2600
+Wire Notes Line
+	4300 2600 1350 2600
+Wire Notes Line
+	1350 2600 1350 950 
+Wire Notes Line
+	1350 950  4300 950 
+Wire Notes Line
+	18400 1000 18400 2650
+Wire Notes Line
+	18400 2650 15450 2650
+Wire Notes Line
+	15450 2650 15450 1000
+Wire Notes Line
+	15450 1000 18400 1000
+Wire Notes Line
+	15250 1000 15250 2650
+Wire Notes Line
+	15250 2650 12300 2650
+Wire Notes Line
+	12300 2650 12300 1000
+Wire Notes Line
+	12300 1000 15250 1000
+Text Notes 17600 2750 0    50   ~ 0
+RIGHT PC USB PORT
+Text Notes 12300 2750 0    50   ~ 0
+RIGHT INTERCONNECT USB PORT
+Text Notes 4400 2700 0    50   ~ 0
+LEFT INTERCONNECT USB PORT
+Text Notes 1350 2700 0    50   ~ 0
+LEFT PC USB PORT
+Text Notes 2150 3900 0    50   ~ 0
+RESET
+Text Notes 13200 3900 0    50   ~ 0
+RESET
+$EndSCHEMATC
