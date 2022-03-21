@@ -38,6 +38,6 @@ Currently, there are 2 existing modules [to be available at RGBKB](rgbkb.net/col
    | 2 | SDA|
    | 3 | SCL |
    | 4 | 3.3V |
-3. Choose either the 1U, 2V, or 3V footprints to use. (Multiple parallel footprints may be used for mupltiple layout support)
+3. Choose either the 1U, 2V, or 3V footprints to use. (Multiple parallel footprints may be used for multiple layout support)
 4. Place the footprint on your switch grid, keeping the 2.7mm holes centered over your existing switch holes.
 5. Connect the pads to your MCU.
