@@ -3,12 +3,14 @@ The Mün 2 is the successor to the original Mün keyboard kit. The PCB has hotsw
 
 All files are provided on an as is basis. No guarantees or warranties are given or implied.
 
+Kits are available [here](https://www.rgbkb.net/collections/mun) at RGBKB.net.
+
 ![Assembled keyboard](Images/Photo1.jpg "Mun 2")
 
 The split case has a few variants:
  * Aluminum: 19mm thickness
  * 3D Print: 15, 17, and 19mm thickness
-Each half of the case uses two identical frame parts, one top and one bottom. The 3D print files include a "Top" model with the USB ports removed. They are provided with no shrink compensation. You will need to apply a scaling factor (something close to 100.5% for PLA) in order to get the parts to fit properly. Magnets and steel plates are used to secure the case together. Three case thicknesses are available using the following stackups:
+Each half of the case uses two identical frame parts, one top and one bottom. The 3D print files include a "Top" model with the USB ports removed. They are provided with no shrink compensation, you will need to apply a scaling factor (something close to 100.5% for PLA) in order to get the parts to fit properly. Magnets and steel plates are used to secure the case together. Three case thicknesses are available using the following stackups:
 
 | Layer Stackup | 19mm | 17mm | 15mm |
 | --- | --- | --- | --- |
