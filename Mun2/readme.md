@@ -46,4 +46,4 @@ Not all parts are mandatory, depending on your kit.
 
 Below is the 19mm thick with wrist rest configuration.
 
-![Exploded view assembly](Images/ExplodedAssembly.png "Mun 2 Assembly")
+![Exploded view assembly](Images/ExplodedAssembly.PNG "Mun 2 Assembly")
