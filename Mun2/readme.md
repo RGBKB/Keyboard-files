@@ -32,7 +32,6 @@ Not all parts are mandatory, depending on your kit.
 |      20077 |  8  |     SKUF Foot | Silicone | 1.5mm | Adhesive-backed
 |      10087 |  1  |      Mun2 PCB | PCBA | 1.6mm | See Gerbers
 |      40088 |  4  |         Frame | Aluminum | 11.5mmm | CNC
-|      60098 |  4  |Tilt/tent foot | 3D-Printed | Various | Available in 8-32mm variants
 |      60089 |  4  |         Frame | 3D-Printed | Various | Available in 19, 17, 15mm variants
 |      20091 |  8  |Standard Top Plate | Steel | 1.6mm | Ferrous metal
 |      20093 |  2  |Standard Bottom Plate | Steel | 1.6mm | Ferrous metal
@@ -40,11 +39,13 @@ Not all parts are mandatory, depending on your kit.
 |      20095 |  2  |Middle Accent Layer | Various | 2.0mm |
 |      20096 |  2  |   Switchplate | Various | 1.5mm |
 |      20097 |  2  |Switchplate w/ 2u stabs | Various | 1.5mm |
+|      60098 |  4  |Tilt/tent foot | 3D-Printed | Various | Available in 8-32mm variants
 |      40114 |  2  |    Wrist rest | Wood | 17.4mm | Embed 3x 6mm magnet
+|      20143 |  1  |60% case plate | Various | 1.5mm | Only tested with BBox60
 |    Magnets |  8  |6mm Diameter magnet | Neodymium | 5mm | N48 or higher
 |    Magnets |  8  |6mm Diameter magnet | Neodymium | 2mm | N48 or higher
 |    O-Rings |  8  |AS568-010 Oring | Buna-N Rubber | 1.78mm |
-| Dowel Pins |  8  |4mm x 8mm Dowel Pin | Steel | 8mm |
+| Dowel Pins |  8  |4mm Diameter Dowel Pin | Steel | 8mm | For use with 60098
 
 Below is the 19mm thick with wrist rest configuration.
 
