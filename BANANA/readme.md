@@ -46,4 +46,6 @@
 
 Banana uses Vial, which can be used to remap keys, set up macros, and change lighting effects.
 
+[The firmware fork can be found here](https://github.com/RGBKB/vial-qmk/tree/banana/keyboards/rgbkb/banana)
+
 [https://get.vial.today/](https://get.vial.today/)
