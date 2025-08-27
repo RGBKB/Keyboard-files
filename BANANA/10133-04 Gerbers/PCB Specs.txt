@@ -1,0 +1,7 @@
+PCB manfufactuting details:
+Thickness: 1.6mm
+Layers: 2
+Soldermask Color: Yellow
+Silkscreen: Black
+Finish: ENIG
+Copper weight: 1oz

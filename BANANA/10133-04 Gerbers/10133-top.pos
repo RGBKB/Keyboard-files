@@ -1,0 +1,34 @@
+### Footprint positions - created on 2024-12-13T19:23:56-0500 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                                PosX       PosY       Rot  Side
+C64       100nF         C_0603_1608Metric                    0.0000    -8.8970  180.0000  top
+C65       100nF         C_0603_1608Metric                    7.3612   -13.1470  120.0000  top
+C66       100nF         C_0603_1608Metric                    7.3612   -21.6470   60.0000  top
+C67       100nF         C_0603_1608Metric                    0.0000   -25.8970    0.0000  top
+C68       100nF         C_0603_1608Metric                   -7.3612   -21.6470  -60.0000  top
+C69       100nF         C_0603_1608Metric                   -7.3612   -13.1470  -120.0000  top
+E1        encoder       encoder_minimal                   -124.3045    46.9599   75.0000  top
+E2        encoder       encoder_minimal                   -129.2350    28.5590   75.0000  top
+E3        encoder       encoder_minimal                    124.3032    46.9599  105.0000  top
+E4        encoder       encoder_minimal                    129.2337    28.5590  105.0000  top
+G***      LOGO          RGBKB_Logo                           0.0000   -33.8000    0.0000  top
+J3        MKi2c_1u      MKI2C-1U                            22.5256   -14.8252   15.0000  top
+J4        MKi2c_1u      MKI2C-1U                           -22.5271   -14.8245  -15.0000  top
+J5        MKi2c_1u      MKI2C-1U                           -12.6661    21.9773  -15.0000  top
+J6        MKi2c_1u      MKI2C-1U                          -129.2346    28.5593  -15.0000  top
+J7        MKi2c_1u      MKI2C-1U                           129.2333    28.5586   15.0000  top
+J8        MKi2c_1u      MKI2C-1U                            12.6646    21.9767   15.0000  top
+J9        MKi2c_1u      MKI2C-1U                           124.3028    46.9595   15.0000  top
+J10       MKi2c_1u      MKI2C-1U                           -17.5966     3.5764  -15.0000  top
+J11       MKi2c_1u      MKI2C-1U                            17.5951     3.5757   15.0000  top
+J12       MKi2c_1u      MKI2C-1U                          -124.3041    46.9602  -15.0000  top
+LED49     WS2812B-2020  LED_WS2812B-2020_PLCC4_2.0x2.0mm     8.0000   -17.3970   90.0000  top
+LED50     WS2812B-2020  LED_WS2812B-2020_PLCC4_2.0x2.0mm     4.0000   -24.3922   30.0000  top
+LED51     WS2812B-2020  LED_WS2812B-2020_PLCC4_2.0x2.0mm    -4.0000   -24.3922  -30.0000  top
+LED52     WS2812B-2020  LED_WS2812B-2020_PLCC4_2.0x2.0mm    -8.0000   -17.3970  -90.0000  top
+LED53     WS2812B-2020  LED_WS2812B-2020_PLCC4_2.0x2.0mm    -4.0000   -10.4018  -150.0000  top
+LED54     WS2812B-2020  LED_WS2812B-2020_PLCC4_2.0x2.0mm     4.0000   -10.4018  150.0000  top
+S1        TM-2028       TM-2028                              0.0000   -17.3970    0.0000  top
+## End
